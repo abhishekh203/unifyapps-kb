@@ -9,7 +9,7 @@ Relevant local docs live in `../docs/` (see pointers per question). Verified bui
 
 ---
 
-## Q1 — Pagination Types & Filtering  ⬜
+## Q1 — Pagination Types & Filtering  🟡 (A done, B+C remaining)
 **App:** "Product Catalog <name>" · **Page:** "Product Catalog" · **Object:** product_inventory
 
 - **A. Infinite scroll:** storage-fetch data source on ProductInventory → Table block, infinite scroll, page size 20.
@@ -17,7 +17,13 @@ Relevant local docs live in `../docs/` (see pointers per question). Verified bui
 - **C. Filtering (one table):** built-in filter toolbar → map inputs to query → Category, Price Range (between), Search on Product Name.
 
 Docs: `docs/applications/data-table.md`, `adding-data-sources.md`, `data-source-settings.md`, `map-data-to-interface-components.md`
-Open Qs (confirm by screenshot): where pagination type + page size are set (data source vs table); how toolbar filters bind to the query.
+Open Qs (confirm by screenshot): how toolbar filters bind to the query.
+
+**Confirmed (UI, 2026-07-03):** In a Storage "Fetch records" data source, pagination type is set at the data-source level via **Page → Paginate By** (required). Options: **Cursor** and **Offset**.
+- **Cursor** (fields: Cursor + Limit) → use for **A (infinite scroll)**. Leave Cursor blank; Table drives next-page cursor. Limit = page size (20).
+- **Offset** (fields: Offset + Limit) → use for **B (offset pages)**. Leave Offset blank/0; Table drives offset. Limit = 20.
+- `dataSource1` = Part A, Cursor/Limit 20. ✅ Save & Run verified: `objects[]` of product_inventory returned, `hasMore: true`. Playbook: `how-to-storage-fetch-datasource.md`.
+- NEXT: build Table block bound to `dataSource1`, infinite scroll, page size 20.
 
 ## Q2 — Create & Delete Records  ⬜
 **Page:** same "Product Catalog".

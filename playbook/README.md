@@ -13,7 +13,7 @@ assignments and the user's screenshots.
 ## Planned entries (filled as we hit them)
 | File | Covers | Assignment | Status |
 |------|--------|-----------|--------|
-| `how-to-create-app-and-page.md` | new app + page | Q1, all | ⏳ not started |
+| `how-to-create-app-and-page.md` | new app + page | Q1, all | ✅ verified 2026-07-03 |
 | `how-to-storage-fetch-datasource.md` | storage fetch records on an object | Q1, Q2, Q7 | ⏳ |
 | `how-to-table-infinite-scroll.md` | Table block + infinite scroll, page size 20 | Q1A | ⏳ |
 | `how-to-table-offset-pagination.md` | Table block + offset pagination | Q1B | ⏳ |
@@ -30,5 +30,10 @@ assignments and the user's screenshots.
 | `how-to-chained-datasources.md` | dependent data sources | Q6 | ⏳ |
 | `how-to-transform-results.md` | Transform Results editor | Q7 | ⏳ |
 | `how-to-app-level-datasource.md` | app-level data source + persistence | Q9 | ⏳ |
+
+## Platform / general (client-project era)
+| File | Covers | Status |
+|------|--------|--------|
+| `how-to-ai-fde.md` | AI FDE assistant (chat panel, prompt-building) + text-to-app/automation/agent | ✅ from live UI 2026-08-25 |
 
 Add new files freely — this list is a starting map, not a cage.
