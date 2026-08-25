@@ -86,7 +86,8 @@ unifyapps/
 │   └── README.md        ← index of the 9-question onboarding assignment
 ├── projects/            ← REAL CLIENT APPS (not onboarding). One folder per app: README.md
 │   │                      (task breakdown, owners, decisions) + data-model.md (objects/fields).
-│   └── itc-happay-claims-app/  ← ITC Happay Claim App, Workspace Dashboard build
+│   ├── itc-happay-claims-app/  ← ITC Happay Claim App, Workspace Dashboard build
+│   └── tricon-ai-work-order-management/  ← Tricon AI work-order/bid analysis (Orbit)
 ├── screenshots/         ← FROZEN archive (old learning loop) — referenced, but add nothing new
 └── notes/               ← scratch, questions, decisions
 ```
@@ -95,7 +96,10 @@ unifyapps/
 
 **Onboarding assignments: DONE.** Now on **real client projects** — one folder per app in
 `projects/` (README.md = task breakdown/owners/decisions, data-model.md = objects/fields).
-- Active: **`projects/itc-happay-claims-app/`** — ITC Happay Claim App, Workspace Dashboard build.
+- Active: **`projects/tricon-ai-work-order-management/`** — Tricon AI Work Order Management
+  (Orbit app `tricon-uc-2` + agent; discovery pending) — and
+  **`projects/itc-happay-claims-app/`** — ITC Happay Claim App, Workspace Dashboard build.
+  Both on tenant `orbit.uat.unifyapps.com`.
 - Reusable builder how-tos still go to `playbook/` (one pattern per file), not into project folders.
 - Assignment archive: `assignments/` (`assignment-NN-<slug>.md`, index in `assignments/README.md`).
 
