@@ -55,13 +55,13 @@ After obtaining your Client ID and Secret, follow these steps to set the Redirec
   - Ensure the redirect URI matches exactly with your application's callback endpoint
   - Multiple redirect URIs can be configured for different environments
 
-    ![Frame 97.png](_img/ccac57b25f93ab17.webp)
+    ![Frame 97.png](_img/db52f003e46ed9a2.webp)
 
 ## Authentication Methods
 
 ### OAuth Authentication
 
-![Frame 279.png](_img/3776bf36302f1c65.webp)
+![Frame 279.png](_img/dccdf3485323c9ea.webp)
 
 Standard OAuth 2.0 flow for QuickBooks Online integration:
 

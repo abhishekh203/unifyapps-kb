@@ -23,16 +23,16 @@ Fine-tuning is the process of taking a pre-trained base model and training it fu
 
 1. In the UnifyApps AI platform choose Custom Models and click on Add Custom Model
 
-  ![Frame 427319413 (1).png](_img/fcd51e77bd7f35af.webp)
+  ![Frame 427319413 (1).png](_img/b5c634fc433f5fa8.webp)
 
 2. Enter your Custom Model’s Name and Description according to your use case and requirements.
 
-  ![Frame 427319414.png](_img/165c68b42499e5b6.webp)
+  ![Frame 427319414.png](_img/e20b95d592593511.webp)
 
 3. Now, Add and Configure Base Model details, dataset, configure Hyper Parameters like epoch, batch size, learning rate, and much more to fine-tune your model to fit your specific use case and data.
 
-  ![Frame 427319415.png](_img/3534b2175ced61d9.webp)
+  ![Frame 427319415.png](_img/0a99cec3d1c2cc56.webp)
 
 4. Customise Parameter Efficient Fine Tuning parameters like bias, LoRa dropout, etc
 
-  ![Frame 427319412 (1).png](_img/2ca130368c3b8fac.webp)
+  ![Frame 427319412 (1).png](_img/77f3de41b7c49b82.webp)

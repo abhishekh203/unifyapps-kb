@@ -1,4 +1,4 @@
-# Modal
+# Modal component
 
 Source: https://www.unifyapps.com/docs/unify-applications/modal
 Section: applications
@@ -23,7 +23,7 @@ You can configure a Card Modal by following the below steps:
 2. By default, the added Modal will be of **Card Type**. You can find it under Variant in the properties section.
 3. Add Components in Modal like you add in a Card Component in 3 Different Slots of `Header`, `Body` & `Footer`. **Note:** Check [Card](/docs/unify-applications/modal) Component’s article to know in detail about adding components in a card.
 
-  ![Frame 427319208 (8).png](_img/76b7b3bfbcd86179.webp)
+  ![Frame 427319208 (8).png](_img/ccc6644c40c0c0ce.webp)
 
 ## Configure Page Modal
 
@@ -31,7 +31,7 @@ This variant allows users to **select** and **render** an entire page inside the
 
 Users need to navigate to the selected page to create and configure the content that will be displayed within the modal.
 
-![Frame 427319205 (10).png](_img/7dab31d9839b2fd0.webp)
+![Frame 427319205 (10).png](_img/0bee15ee8780432a.webp)
 
 ## Open & Close Modals
 
@@ -41,7 +41,7 @@ Opening & Closing of Modal is defined in the Interaction section. Modal is trigg
 - **Configure Interaction:** Set the interaction action to "`Control Modal`".
 - **Specify Operation:** Choose "`Show`" or “`Hide`” to control visibility of the modal when the triggering component is activated.
 
-![Frame 427319209.png](_img/5fd7eb38c2877e7b.webp)
+![Frame 427319209.png](_img/cb4cd9c2cbf499ae.webp)
 
 > **Note:** You can also define events like **On Close** where you can mention the actions or workflows that should be performed when the modal is closed, such as resetting forms or updating data.
 

@@ -1,4 +1,4 @@
-# Divider
+# Divider component
 
 Source: https://www.unifyapps.com/docs/unify-applications/divider
 Section: applications
@@ -11,7 +11,7 @@ Divider component is used to visually **separate** or **group content** within y
 
 This article will outline how to **add**, **configure**, and **style** the Divider component to suit your application's needs.
 
-![Frame 427319207 (9).png](_img/43a78d5f2576979f.webp)
+![Frame 427319207 (9).png](_img/5611defe84c35584.webp)
 
 ## Add Vertical Divider
 

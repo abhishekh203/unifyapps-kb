@@ -19,7 +19,7 @@ By defining specific roles and assigning granular permissions, organizations can
 - Under the Governance section, select `Roles`.
 - You will now see a list of all Roles created in your environment
 
-![Group 11.png](_img/cac60876cb594daf.webp)
+![Group 11.png](_img/f0887159c6b572f2.webp)
 
 **Step 2: Create a New Role**
 
@@ -49,7 +49,7 @@ Once a new role is created (or an existing one is selected for editing), you can
 | `Use` | Allows to use already created entities | When selected, it auto enables : View |
 | `Share` | Allows to share already created entities | When selected, it auto enables : View |
 
-![Frame 427319405.png](_img/05a42a1fd21704bb.webp)
+![Frame 427319405.png](_img/c57538aca815da28.webp)
 
 ### Category 1: Platform Permissions
 
@@ -254,7 +254,7 @@ This section allows you to specify the connectors that the user should have acce
 - Allow Apps Listed Below: This option provides users access to specific applications, triggers, and actions that you select from a list.
 - Allow All Apps Except: This option revokes access to specific applications, triggers, and actions that you select, while granting access to all others.
 
-![Frame 427319406.png](_img/dd709d94ab15ecc8.webp)
+![Frame 427319406.png](_img/4659cf08d75a295b.webp)
 
 ### Category 3: Objects
 
@@ -265,7 +265,7 @@ This section allows you to specify the objects that the user should have access 
 
 Once you have configured the permissions, click Save to apply the changes to the role.
 
-![Frame 427319403.png](_img/ffc56e0eb65a7d66.webp)
+![Frame 427319403.png](_img/afd176b8a61a50bb.webp)
 
 ## Best Practices for Roles & Permissions
 

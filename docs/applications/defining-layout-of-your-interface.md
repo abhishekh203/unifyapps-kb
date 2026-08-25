@@ -11,7 +11,7 @@ Layout in app design refers to the **arrangement** and **organization** of visua
 
 Layout components allow you to **organize** and **structure** application components and group different elements like `buttons`, `text`, `images` etc. on your app's screens.
 
-![Frame 427319217 (9).png](_img/54c88981409fedb8.webp)
+![Frame 427319217 (9).png](_img/792bbf73bbb61717.webp)
 
 ## Components
 

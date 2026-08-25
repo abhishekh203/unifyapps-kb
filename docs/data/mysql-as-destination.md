@@ -23,7 +23,7 @@ Before configuring MySQL as your destination, ensure you have:
 
 ## Connection Configuration
 
-![Frame 427319278.png](_img/a8787463a3b633f4.webp)
+![Frame 427319278.png](_img/50fb7b25d7f8483e.webp)
 
 | **Parameter** | **Description** | **Example** |
 |---|---|---|

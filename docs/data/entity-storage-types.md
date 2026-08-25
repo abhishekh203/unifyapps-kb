@@ -17,7 +17,7 @@ The "Store data in" configuration is a fixed option—once an entity is created,
  • Scenarios requiring frequent schema updates without downtime. 
  • Managing complex, nested data structures often found in modern APIs.
 
-![Group_20_(1).png](_img/d9b2186b4aad8701.webp)
+![Group_20_(1).png](_img/10e25e28760ca83d.webp)
 
 **Available Configuration Settings:**
 
@@ -33,7 +33,7 @@ When JSON Store is selected, the platform exposes specific "Additional Settings"
  • Time-series data (e.g., IoT sensor readings, Clickstream data). 
  • Scenarios where query speed on massive datasets is the primary KPI.
 
-![Group_21.png](_img/555b0ecc2c8025cf.webp)
+![Group_21.png](_img/d34be982538fa7c8.webp)
 
 **Available Configuration Settings:**
 

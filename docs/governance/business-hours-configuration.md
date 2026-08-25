@@ -23,19 +23,19 @@ Here are some common ways **Business Hours** can be used to optimize operations:
 2. Click on `Business Settings`.
 3. Select `Business Hours` from the submenu.
 
-  ![Group 17.png](_img/e379b01000a119f4.webp)
+  ![Group 17.png](_img/42e32a7c03f61d73.webp)
 
 ## Business Hours List View
 
 The **Business Hours** dashboard presents a list of all configured business hour entries. Each row shows: **Name**, **Created By**, **Created On**, **Last Modified By** and **Last Modified On.**
 
-![Group 18.png](_img/b0c68978799d7ff5.webp)
+![Group 18.png](_img/280ae0146e7e7b34.webp)
 
 ## Creating a New Business Hours Entry
 
 When you click the `+ New Business Hours` button, you are taken to the **New Business Hours Entity** form.
 
-![Frame 427319331 (1).png](_img/0a2c434114f57f13.webp)
+![Frame 427319331 (1).png](_img/e388dddffc802f1e.webp)
 
 **Required Fields:**
 
@@ -56,7 +56,7 @@ From the Business Hours list view:
 - Choose `Edit` to update any values.
 - Choose `Delete` to remove the business hours permanently. Be cautious—this could affect linked workflows.
 
-  ![Group 19.png](_img/40d2597ab0389aca.webp)
+  ![Group 19.png](_img/e940423ba422d64f.webp)
 
 ## Connecting Business Hours to Workflows
 
@@ -66,7 +66,7 @@ After creating a Business Hours entity:
 - Use the **Business Hours** condition in the drawer section of any node..
 - Select the relevant Business Hours entity to ensure the workflow only executes within the defined time frame.
 
-  ![Frame 427319334.png](_img/373f9caed9f8c92e.webp)
+  ![Frame 427319334.png](_img/c94f4bf31d4e1cd7.webp)
 
 ## Best Practices
 

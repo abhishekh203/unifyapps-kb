@@ -18,7 +18,7 @@ Evaluation metrics are quantitative measures that assess various aspects of your
 
 ## AI (LLM as a Judge)
 
-![Frame 427319417.png](_img/75d3563a155f037e.webp)
+![Frame 427319417.png](_img/b3686843d2388788.webp)
 
 The LLM-as-a-Judge approach uses advanced language models like GPT-4 to evaluate your AI Agent's responses with human-like judgment and understanding. This method excels at assessing nuanced aspects of language quality, relevance, and contextual appropriateness.
 
@@ -26,7 +26,7 @@ The LLM-as-a-Judge approach uses advanced language models like GPT-4 to evaluate
 
 **Step 1: Initialize Metric Creation:** Navigate to the Metrics section and click `New Metric` to begin. Select `AI (LLM as a Judge)` as your evaluation type.
 
-![Frame 427319418.png](_img/d1660e544d6e3a6b.webp)
+![Frame 427319418.png](_img/93c836c5ef2df8e4.webp)
 
 **Step 2: Basic Configuration**
 
@@ -34,7 +34,7 @@ The LLM-as-a-Judge approach uses advanced language models like GPT-4 to evaluate
 - **Description**: Explain what the metric measures in detail
 - **Test Case Type**: Select `LLM` for single input/output evaluation or `Conversational` for multi-step workflows
 
-![Frame 427319419.png](_img/b365c7db6883caf7.webp)
+![Frame 427319419.png](_img/708030a767d066a1.webp)
 
 **Step 3: Select Input Parameters:** Choose the parameters necessary for evaluation:
 
@@ -52,7 +52,7 @@ The LLM-as-a-Judge approach uses advanced language models like GPT-4 to evaluate
 - `Evaluation Criteria`: Define how the model should assess responses using natural language instructions
 - `Evaluation Steps`: Provide detailed step-by-step instructions for the evaluation process
 
-![Frame 427319420.png](_img/18a3e841206a0363.webp)
+![Frame 427319420.png](_img/b3ab379f9726416e.webp)
 
 **Step 5: Define Evaluation Scale**
 
@@ -79,13 +79,13 @@ When implementing an answer correctness metric:
 
 ## Automation
 
-![Frame 427319424.png](_img/c29ba35a6ef9de62.webp)
+![Frame 427319424.png](_img/d6fb060a6a814a9c.webp)
 
 Automation-based evaluation provides programmatic control over the evaluation process, enabling complex logic, custom calculations, and integration with external systems. This approach is ideal for technical validations, performance metrics, and business-specific criteria.
 
 ### Building Custom Evaluation Automations
 
-![Frame 427319425.png](_img/553af98eec91b408.webp)
+![Frame 427319425.png](_img/62d3bbff4e02128c.webp)
 
 Before creating an automation-based metric, you'll need to build an evaluation automation. When creating a new automation workflow:
 
@@ -101,7 +101,7 @@ Once your evaluation automation is ready, you can reference it when creating you
 
 ### Creating an Automation-Based Metric
 
-![Frame 427319426.png](_img/0b5a67bc38a1c7f5.webp)
+![Frame 427319426.png](_img/79dbba2c94867dc9.webp)
 
 **Step 1: Basic Details Configuration**
 
@@ -110,7 +110,7 @@ Once your evaluation automation is ready, you can reference it when creating you
 - `Description`: Provide detailed explanation of what the metric evaluates
 - `Type of Test Case`: Select `LLM` for single input/output evaluation
 
-![Frame 427319427.png](_img/19878f7b218f5d91.webp)
+![Frame 427319427.png](_img/a1be51028353d3a8.webp)
 
 **Step 2: Configure Input Parameters**
 
@@ -140,7 +140,7 @@ Select only the parameters relevant to your evaluation logic. For example, an an
 - `Scale Range`: Define your scoring range (e.g., 1 to 5)
 - The automation must return scores within this defined range
 
-![Frame 427319428.png](_img/cc7dcf10b5530115.webp)
+![Frame 427319428.png](_img/0375eacc2023302f.webp)
 
 **Step 5: Set Passing Criteria Define two levels of success criteria:**
 

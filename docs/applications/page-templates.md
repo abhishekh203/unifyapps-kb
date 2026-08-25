@@ -1,4 +1,4 @@
-# Page Templates
+# Page templates component
 
 Source: https://www.unifyapps.com/docs/unify-applications/page-templates
 Section: applications
@@ -9,7 +9,7 @@ Section: applications
 
 Page Templates in the UnifyApps platform simplify application creation, allowing users to quickly build and configure applications by selecting from various pre-built, customizable page structures. These templates offer essential functionalities tailored for different user interactions.
 
-![Frame 427319420.png](_img/55764c63517caba3.webp)
+![Frame 427319420.png](_img/87f13c2786c19a74.webp)
 
 ## Available Templates
 
@@ -20,21 +20,21 @@ Below is an overview of each available template:
 - Provides a structured list view, ideal for managing tasks, tickets, or records.
 - Includes quick-filtering, sorting, and status management features.
 
-![Frame 427319419.png](_img/f73ac44edd6e305f.webp)
+![Frame 427319419.png](_img/2e470547efe3bf89.webp)
 
 ### Analytics Dashboard
 
 - Offers visual analytics and insights via graphs and data summaries.
 - Best suited for performance tracking and reporting metrics.
 
-![Frame 427319421.png](_img/52049b17bbd7e5bc.webp)
+![Frame 427319421.png](_img/5bcf458c5f991f01.webp)
 
 ### Copilot
 
 - Features an interactive AI assistant for quick query resolution.
 - Designed for instant assistance and user engagement within applications.
 
-![Frame 427319424.png](_img/7868322287a69c07.webp)
+![Frame 427319424.png](_img/36e14b1a502dcc15.webp)
 
 ### Enterprise Search
 
@@ -51,7 +51,7 @@ Below is an overview of each available template:
 - Multi-step structured form guiding users through detailed data submission.
 - Suitable for scenarios requiring detailed, sequential data collection.
 
-![Frame 427319423.png](_img/9a7b51833c47c84f.webp)
+![Frame 427319423.png](_img/000dae50f57f47e8.webp)
 
 ### Horizontal Stepped Form
 
@@ -63,7 +63,7 @@ Below is an overview of each available template:
 - Standard user login interface.
 - Basic fields for email and password with built-in security features.
 
-![Frame 427319422.png](_img/3e54a1c4d4cfaad9.webp)
+![Frame 427319422.png](_img/a4ba734ca8f2a1b0.webp)
 
 ### Update Password
 

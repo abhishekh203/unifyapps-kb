@@ -1,4 +1,4 @@
-# Navigation
+# Navigation component
 
 Source: https://www.unifyapps.com/docs/unify-applications/navigation
 Section: applications
@@ -13,13 +13,13 @@ Additionally, you can determine the order of these pages, along with their icons
 
 This guide will explain how to **configure** page navigation, including **adding**, **editing**, and **organizing** navigation items.
 
-![Frame 427319212 (5).png](_img/d15bc750380d8de4.webp)
+![Frame 427319212 (5).png](_img/343cc2e014fbc625.webp)
 
 ## Access the Page Navigation
 
 You can access the navigation settings by navigating to the "`Settings`" section in your Unify Applications interface and selecting "`Navigation`" from the sidebar.
 
-![Frame 427319214 (2).png](_img/d6c8a4019f7203bb.webp)
+![Frame 427319214 (2).png](_img/2797f3ef3d85a6cd.webp)
 
 ## Add Menu Items
 
@@ -29,7 +29,7 @@ These items are positioned at the top of the side panel for easy access.
 
 To add a new navigation item, click the "`+`" button next to "`Menu Items`" and a new item will appear in the list.
 
-![Frame 427319211 (2).png](_img/9cd798cf0dba6ca5.webp)
+![Frame 427319211 (2).png](_img/d00f97718f51809b.webp)
 
 > **Note:** Use the `Default` Page Option to define the first landing page of your application.
 
@@ -52,7 +52,7 @@ Profile Page is added as a secondary item in the Navigation Panel.
 
 **Secondary items** are additional navigation elements that appear at the bottom of the side panel. These items are usually less frequently accessed but are still important for overall application functionality.
 
-![Frame 427319206 (18).png](_img/4eaeb0af3444d226.webp)
+![Frame 427319206 (18).png](_img/3902b1eff7cfd73f.webp)
 
 To add a new secondary navigation item, click the "`+`" button next to "`Secondary Items`" and a new item will appear in the list.
 

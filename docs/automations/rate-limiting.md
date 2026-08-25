@@ -9,7 +9,7 @@ Section: automations
 
 **Rate Limiting** allows you to control the frequency of requests made by your automations, ensuring compliance with API rate limits, preventing overload, and maintaining stable operations.
 
-![Frame 132 (1).png](_img/0c832fe2d01d2834.webp)
+![Frame 132 (1).png](_img/fc1fa728455b5996.webp)
 
 ## Use Cases
 

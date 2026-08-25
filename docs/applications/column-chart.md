@@ -1,4 +1,4 @@
-# Column Chart
+# Column chart component
 
 Source: https://www.unifyapps.com/docs/unify-applications/column-chart
 Section: applications
@@ -37,11 +37,11 @@ Below are the details mentioned which describe each configuration option for Col
 - In turn the datasource “`trend`” fetches values for the chart via an automation “`graph-incoming ticket trend`” as mentioned in the screenshot
 - This automation is used to fetch all the values for the chart
 
-  ![Frame 427319396.png](_img/064e40fa2a5eed82.webp)
+  ![Frame 427319396.png](_img/a20ed98576d88cf7.webp)
 
-  ![Frame 427319398.png](_img/ce07875bda03a28b.webp)
+  ![Frame 427319398.png](_img/d375887e6d567eb9.webp)
 
-  ![Frame 427319399.png](_img/a010a1d1f18c4d07.webp)
+  ![Frame 427319399.png](_img/b390d1bb4dd1408d.webp)
 
 ### X Axis Configuration
 
@@ -106,7 +106,7 @@ Below are the details mentioned which describe each configuration option for Col
   - **X axis value**: Each bar on the x-axis can have different colors
   - **Conditions**: Set conditional colors for each data element
 
-    ![Frame 427319397.png](_img/ad18d05308414e84.webp)
+    ![Frame 427319397.png](_img/a81117459a586760.webp)
 
 ### Bar Styling
 

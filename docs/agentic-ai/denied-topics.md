@@ -1,4 +1,4 @@
-# Denied Topics
+# Denied topics
 
 Source: https://www.unifyapps.com/docs/unify-agentic-ai/denied-topics
 Section: agentic-ai
@@ -28,14 +28,14 @@ To better understand, consider these examples for a customer support agent.
 1. From the Guardrails section in your AI Agents Dashboard, click on “`Denied Topics`”.
 2. Select the AI model that will be used to detect and filter denied topics in both user inputs and AI responses, ensuring the agent stays on track with approved subjects. (eg- Mistral, GPT- 4o, etc.)
 
-  ![Frame 427319446.png](_img/2d261b1d2a96094d.webp)
+  ![Frame 427319446.png](_img/6dba9482c01d15b8.webp)
 
 3. Click the “`+ Add Denied Topic`” button to create a new restricted topic. You can define the topic, provide a description, and include sample phrases to help the agent understand what to block.
 
-  ![Frame 427319447.png](_img/ca6d814ab041e532.webp)
+  ![Frame 427319447.png](_img/9670f6e6a04b3be3.webp)
 
 4. You can view and manage your existing denied topics under the Topics section. Edit or remove them as necessary by using the three-dot menu.
 
-  ![Frame 427319448.png](_img/278c8e381de7cde5.webp)
+  ![Frame 427319448.png](_img/e090a28d956aa949.webp)
 
 5. By configuring Denied Topics, the AI Agent ensures compliance and prevents unwanted or risky conversations, keeping interactions focused, secure, and aligned with business objectives.

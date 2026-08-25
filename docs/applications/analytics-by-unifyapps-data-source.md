@@ -11,7 +11,7 @@ Analytics by UnifyApps is a data source that allows you to run queries and apply
 
 ## Adding “Analytics” Data Source in Application
 
-![Group 117.png](_img/a79068674cca93c3.webp)
+![Group 117.png](_img/527dba86f738694f.webp)
 
 For creating a reporting dashboard (perform aggregation functions on data stored in UnifyApps) or displaying stats in your application, you should use Analytics Node as the Data Source.
 
@@ -25,7 +25,7 @@ This integration enables you to work with data stored in UnifyApps Objects direc
 
 ## Configuring “Analytics by UnifyApps” Data Source
 
-![Group 110.png](_img/2830167ee7da02aa.webp)
+![Group 110.png](_img/056cf096f3776ee5.webp)
 
 - **Choose an action**: Select an action for your data source. These are the list of commonly used actions.
 
@@ -43,7 +43,7 @@ This integration enables you to work with data stored in UnifyApps Objects direc
 
 - **Choose the Report Group & Base Report:** Based on the selected action, you need to define the input for the Analytics Node to fetch the output from the required Object. The required inputs will vary depending on the chosen action. For instance, for the "Analytics Query" action, the following input fields are necessary.
 
-  ![Group 116.png](_img/16bb33f66621a7f3.webp)
+  ![Group 116.png](_img/7fe0c64fd2de67ba.webp)
 
   - **Select Group:** Choose the Group from the dropdown list from where you want to choose the report. **Note:** Reports of all Custom Objects with Reporting Enabled are present under Storage Group and All Reports created on Platform Usage are present under Platform Group.
   - **Select Base Report:** Select the Base Report you want to configure and run the Query on. **Note:** If your object created from Unify Objects is not present in the Reports dropdown, check if reporting is enabled for the object and wait for a few minutes post enabling reporting.
@@ -73,14 +73,14 @@ Data fetched through Analytics by UnifyApps becomes available as data pills. The
 
 1. **Add Analytics by UnifyApps Data Source:** Select “`Analytics Query`” action & choose your object from the dropdown.
 
-  ![Frame 427319219 (9).png](_img/f80c8d18876b8668.webp)
+  ![Frame 427319219 (9).png](_img/68f0670618358c42.webp)
 
 2. **Configure Appropriate Projections:** You should choose the correct combinations of fields and their aggregation function in your projections to create the desired statistics.
   - **Using Group Aggregation Function:** Group Function returns the list of all values of the field present in Object Records.
   - **Using Count Aggregation Function:** Count Function returns the count of records where the field is present in Object Records.
   - **Using Combination of Group & Count Aggregation Functions:** Grouping a field and using count function on primary key of the object returns unique values of the field present in the Object Records and the count of records against each value.
 
-    ![Frame 427319220 (8).png](_img/7e3182fb49e2c150.webp)
+    ![Frame 427319220 (8).png](_img/a021d0aa68e9f1c6.webp)
 
 3. **Mapping Output of Analytics Node:** Output of Analytics Node can be configured in the Stat Card by selecting the pill for Input Data Pills.
 

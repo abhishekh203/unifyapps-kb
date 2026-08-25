@@ -1,4 +1,4 @@
-# Timeout Policy
+# Timeout policy
 
 Source: https://www.unifyapps.com/docs/unify-automations/timeout-policy
 Section: automations
@@ -21,7 +21,7 @@ If a backend service does not respond within the configured timeout duration, th
 
 ### 
 
-![image1 2.png](_img/6046e4faca1e6ae2.webp)
+![image1 2.png](_img/375c7f422b4eb0e9.webp)
 
 ## How It Works :
 

@@ -1,4 +1,4 @@
-# Stepper
+# Stepper component
 
 Source: https://www.unifyapps.com/docs/unify-applications/stepper
 Section: applications
@@ -9,7 +9,7 @@ Section: applications
 
 Stepper by UnifyApps provides a powerful multi-step navigation component for creating guided user journeys through complex forms, workflows, and processes. This component allows you to break down lengthy forms into manageable sections, improve user experience, and guide users through sequential tasks while maintaining context throughout the process.
 
-![Frame 427319323 (2).png](_img/064e73aa84dfaf54.webp)
+![Frame 427319323 (2).png](_img/fd8a18a5c35bade1.webp)
 
 ## Use Cases
 
@@ -27,7 +27,7 @@ Stepper by UnifyApps provides a powerful multi-step navigation component for cre
 
 The Stepper component organizes content into a sequence of steps that users navigate through, with visual indicators showing progress and current position.
 
-![Frame 427319324 (3).png](_img/9550473c081c5649.webp)
+![Frame 427319324 (3).png](_img/78ec397903f959b3.webp)
 
 **Key Elements:**
 
@@ -56,7 +56,7 @@ Configure the steps and content that will be displayed within your Stepper compo
 
 The Stepper component can be added to your application interface and configured within your component hierarchy.
 
-![Frame 427319325 (3).png](_img/dc79b7c08386f57f.webp)
+![Frame 427319325 (3).png](_img/0317e7bf02bca935.webp)
 
 **Implementation Steps:**
 
@@ -70,7 +70,7 @@ The Stepper component can be added to your application interface and configured 
 
 Customize the visual aspects of the Stepper component to match your application design and improve user experience.
 
-![Frame 427319327 (3).png](_img/3348ebf46a1464a2.webp)
+![Frame 427319327 (3).png](_img/617a863ffb94bda7.webp)
 
 **Appearance Settings:**
 
@@ -136,7 +136,7 @@ The Stepper supports two configuration modes to accommodate different use cases:
 
 Configure actions that occur when users navigate between steps:
 
-![Frame 427319327 (3).png](_img/3348ebf46a1464a2.webp)
+![Frame 427319327 (3).png](_img/617a863ffb94bda7.webp)
 
 **Common Interactions:**
 

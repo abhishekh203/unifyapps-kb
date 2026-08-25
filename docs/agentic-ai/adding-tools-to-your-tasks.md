@@ -13,11 +13,11 @@ UnifyApps provides an intuitive interface for adding tools to enhance your AI Ag
 2. **Locate the Tools Section**: Scroll down to find the "`Tools`" area, where you'll define the agent's executable tasks.
 3. **Initiate Tool Creation**: Click the "`+ New Tool`" button to begin adding a new capability to your task.
 
-  ![Frame 427319375.png](_img/4e830ced1f5a5d54.webp)
+  ![Frame 427319375.png](_img/2f26e2e53b75a148.webp)
 
 4. **Choose from a Wide Array of Integrations**: UnifyApps offers a diverse selection of pre-built integrations, ranging from popular services like ADP, Amazon Web Services, and Asana, to specialized tools like Aircall and Apollo.
 
-  ![Frame 427319374.png](_img/a2667175005ad9ba.webp)
+  ![Frame 427319374.png](_img/4058c583150d7467.webp)
 
 5. **Configure Your Tool**: Once you've selected an integration, you'll be able to set up the specific parameters and workflows for that tool within your task. The platform supports complex multi-step agentic workflows built using our automation builder, which includes advanced logic capabilities such as branching, looping, conditional processing, and parallel execution. The system can handle distributed execution for asynchronous operations and in-memory execution for immediate responses. These multi-step agentic workflows can then be plugged in behind agentic apps that can be built using our no code application builder.
 

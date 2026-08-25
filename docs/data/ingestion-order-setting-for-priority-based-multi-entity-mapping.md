@@ -19,11 +19,11 @@ When configured, UnifyApps implements a priority-based system that enables:
 
 Lets say you have the below objects selected in the Objects Tab of your pipeline.
 
-![Frame 427319240 (1).png](_img/ed0f09d1ac6f00d4.webp)
+![Frame 427319240 (1).png](_img/d349172741346a83.webp)
 
 To enable priority-based ingestion ordering in your UnifyApps data pipeline:
 
-![Frame 427319241 (4).png](_img/dcfd5cfac4bbbec9.webp)
+![Frame 427319241 (4).png](_img/5b14cc9bee83f613.webp)
 
 1. Go to the `Settings` tab.
 2. Under the `Ingestion Order (Optional)` settings, select the entities that require specific processing priorities.

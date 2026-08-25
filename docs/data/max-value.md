@@ -1,4 +1,4 @@
-# Max Value
+# Max value
 
 Source: https://www.unifyapps.com/docs/unify-data/max-value
 Section: data

@@ -1,4 +1,4 @@
-# Key Value
+# Key value component
 
 Source: https://www.unifyapps.com/docs/unify-applications/key-value
 Section: applications
@@ -41,12 +41,12 @@ You may configure a key value component by following the below steps:
   - `Avatar`**:** Creates an avatar based on the first letter of the username.
 - `Show More`**:** Drag and drop fields from the “`Fixed fields`” section to “`Hidden in overflow`” section to hide them under the “`Show more`” option.
 
-  ![Group 202.png](_img/90148da3f4801daa.webp)
+  ![Group 202.png](_img/9791e7bbbae4bd38.webp)
 
 - **Fallback value:** Configure a fallback value if no data found or entered for the field. **Note:** Toggle on “`Hide empty fields`” to not show fields with no/null values.
 - To view or edit a field, click on it to open the details and follow the same steps as above: **Using Slots in Key Value Pair:** Slots can be added as needed. "Header" and "Footer" are added by default under which a component is added/removed in the left hierarchy panel. You may choose to remove the slots by clicking the delete icon.
 
-  ![Frame 427319222 (7).png](_img/cf3ac6aa9f8bee4d.webp)
+  ![Frame 427319222 (7).png](_img/4ab12ade646f1dd7.webp)
 
 **Interactions:** Any component added to Header/Footer can be assigned specific interactions such as on-click.
 
@@ -58,14 +58,14 @@ There are two types of layout which can be used to configure arrangement of fiel
 
 - **List view:**
 
-  ![Group 175.png](_img/9e233b55979c2ca2.webp)
+  ![Group 175.png](_img/9ae315b98449403b.webp)
 
   - Presents Key Value pairs in a vertical, stacked format, arranged one below the other for a natural reading flow.
   - Ideal for displaying a concise summary of related attributes in a clear, top-down approach.
   - Good for mobile or limited spaces.
 - **Grid view:**
 
-  ![Group 176.png](_img/7caf4408b228026b.webp)
+  ![Group 176.png](_img/f18e7078b9523451.webp)
 
   - Arranges Key Value pairs in a grid layout, allowing for a more compact display of information.
   - Suitable when you have several data points to show and horizontal space is available.
@@ -84,7 +84,7 @@ Furthermore, you may customize the color of divider line or add color based on i
 
 > **Note:** Divider is only available in List layout of key value.
 
-![Master - Do not Edit (61).png](_img/8c5ccb866f9c968d.webp)
+![Master - Do not Edit (61).png](_img/89088849a3de894a.webp)
 
 **Show More:**
 
@@ -101,7 +101,7 @@ You may click on the icon adjacent to the drop down to either add a margin only 
 
 **Field appearance customizations:**
 
-![Group 183.png](_img/47bd689874362d7b.webp)
+![Group 183.png](_img/f2d5a231cd80f3fd.webp)
 
 - **Label Appearance Customizations:**
 
@@ -134,11 +134,11 @@ You may also add color conditions, by defining your if/else condition(s) or cond
 - **Visibility Customizations:** You can define the visibility of the field based on the options provided, either make it visible in the application, invisible in the application and only make it available in hierarchy or add visibility conditions.
   - Add-ons: In the Add-ons sub-section you may choose to add field icons and/or value icons: **Note:** You may choose to customize the added icons, by selecting the variant of the icon and the color.
 
-    ![Group 180.png](_img/27f89eddd0d851f3.webp)
+    ![Group 180.png](_img/58aa7fe3569f7633.webp)
 
 - You may also add a conditional visibility on the icon as shown below:
 
-  ![Group 181.png](_img/3966be43edae46cd.webp)
+  ![Group 181.png](_img/6a8f28dc6941b2d8.webp)
 
 ## Defining Permissions
 

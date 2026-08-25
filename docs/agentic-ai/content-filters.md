@@ -1,4 +1,4 @@
-# Content Filters
+# Content filters
 
 Source: https://www.unifyapps.com/docs/unify-agentic-ai/content-filters
 Section: agentic-ai
@@ -10,7 +10,7 @@ Content Filters act as guardrails for AI conversations, ensuring that both user 
 - Checking what users send to the agent
 - Monitoring the agent response generated
 
-![Frame 427319259 (1).png](_img/e5f88a0d4a5b0df3.webp)
+![Frame 427319259 (1).png](_img/2d96f84caebf2d4a.webp)
 
 There are two components of Content Filters:
 
@@ -56,10 +56,10 @@ For example, content filters detect and flag inappropriate content.
 1. In the Guardrails section of your AI Agent dashboard, click on “`Content Filters`”.
 2. Under Filter Strength for Prompts, use the sliders to control how strictly the AI filters content in user prompts. You can set the intensity from None to High for each category (`Hate`, `Insults`, `Violence`, `Sexual`, `Misconduct`, `Prompt Attack`).
 
-  ![Frame 427319263.png](_img/23e4e10ed9e1cc13.webp)
+  ![Frame 427319263.png](_img/a90b78ee1704bd07.webp)
 
 3. Similarly, under Filter Strength for Responses, use the sliders to set the filter levels for generated responses, ensuring that the agent's output complies with your ethical and content guidelines.
 
-  ![Frame 427319262.png](_img/3b7ea55a4f25f279.webp)
+  ![Frame 427319262.png](_img/1f972354b04cf1ab.webp)
 
 4. By adjusting these content filters, you can ensure that your AI agents operate safely and deliver appropriate, respectful communication while adhering to your brand’s policies and compliance standards.

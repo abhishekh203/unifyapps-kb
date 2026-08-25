@@ -9,7 +9,7 @@ Section: applications
 
 The Preview Application feature in UnifyApps allows users to thoroughly examine and test their application before final deployment. This powerful tool provides a comprehensive environment to review the application's look, feel, and functionality across different devices and screen resolutions.
 
-![Frame 427319392.png](_img/9443fe43a45e3140.webp)
+![Frame 427319392.png](_img/1025b6b31206edda.webp)
 
 ## Key Features
 
@@ -17,7 +17,7 @@ The Preview Application feature in UnifyApps allows users to thoroughly examine 
 
 The preview interface presents the homepage as it will be viewed by the intended user.
 
-![Frame 427319393.png](_img/58fcad011d52c70b.webp)
+![Frame 427319393.png](_img/fb30d0d758d48e0b.webp)
 
 **Device Resolution Options**
 
@@ -29,7 +29,7 @@ Users can test their application across multiple screen sizes:
 - Desktop (1920 × 1080)
 - Desktop (2560 × 1440)
 
-![Frame 427319397.png](_img/65e64b8938a7fa16.webp)
+![Frame 427319397.png](_img/9ebf2a0f4f5ca61f.webp)
 
 **Navigation Features**
 
@@ -37,7 +37,7 @@ Users can test their application across multiple screen sizes:
 - Search functionality to quickly locate specific sections
 - Ability to open the application directly in the Builder
 
-![Frame 427319395.png](_img/7e8fc3bfa98a4eb8.webp)
+![Frame 427319395.png](_img/8697b7f3efadf778.webp)
 
 **Developer Tools**
 
@@ -47,7 +47,7 @@ The preview includes advanced debugging capabilities:
 - Network tab to analyze network requests and performance
 - Ability to inspect application details and interactions
 
-![Frame 427319396.png](_img/09469aee9272f972.webp)
+![Frame 427319396.png](_img/e4597768b8ecdd3a.webp)
 
 ## How to Use the Preview Application
 

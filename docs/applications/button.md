@@ -1,4 +1,4 @@
-# Button
+# Button component
 
 Source: https://www.unifyapps.com/docs/unify-applications/button
 Section: applications
@@ -11,7 +11,7 @@ Button is an interactive component that performs an **action** when pressed.
 
 The Button component allows users to **trigger** **actions**, **navigate pages**, and **interact** with various data sources within the application.
 
-![Frame 427319211.png](_img/3b3cc630deda51b2.webp)
+![Frame 427319211.png](_img/e12b1673b9e5bae4.webp)
 
 ## Key Properties
 

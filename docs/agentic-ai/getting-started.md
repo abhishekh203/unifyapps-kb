@@ -52,20 +52,20 @@ Let’s create your first AI Agent by following these easy steps:
 
 1. Click on the "`Agents`" option in the left sidebar of your UnifyApps dashboard in Unify AI category.
 
-  ![Frame 4606 (1).png](_img/1116f9c684b1c372.webp)
+  ![Frame 4606 (1).png](_img/4820c81a22b6df4a.webp)
 
 2. On the Agent page, click on the ”`+ New AI Agent`” button on the top right. This will prompt you to create a new AI Agent.
 
-  ![Frame 4607.png](_img/eff8fb3440ee014b.webp)
+  ![Frame 4607.png](_img/4f83f95c834eea9c.webp)
 
 3. Write the name of your Agent & describe it’s role. Then, Click on the “`Create`” button. Here’s how your AI agent's landing page will look like.
 
-  ![Frame 4608.png](_img/0524ae0b75b10ecb.webp)
+  ![Frame 4608.png](_img/87e8528bd0e6c379.webp)
 
-  ![Frame 4610.png](_img/c9b27a01b24ecc7c.webp)
+  ![Frame 4610.png](_img/2465777932867cca.webp)
 
 4. You can also add multiple users as Collaborators to the AI Agent by clicking on "`+ Add Collaborator`" where you will get an option to provide Admin, Viewer or Editor access to the users.
 
-  ![Frame 4622.png](_img/182eabcc249b9615.webp)
+  ![Frame 4622.png](_img/3167c5d952eeb53a.webp)
 
 Let's learn about the key concepts to build an AI agent in the next article.

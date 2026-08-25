@@ -1,4 +1,4 @@
-# Timeline
+# Timeline component
 
 Source: https://www.unifyapps.com/docs/unify-applications/timeline
 Section: applications
@@ -51,7 +51,7 @@ For eg. , in the screenshot below, we are using a static text “USER_ID” and 
 - You can define the visibility of the field based on the options provided, either make it visible in the application, invisible in the application and only make it available in hierarchy or add visibility conditions.
 - You may also add a conditional visibility on the icon as shown below:
 
-  ![Group 208.png](_img/043ddc2f2b8ce2f2.webp)
+  ![Group 208.png](_img/dcddb54d58cf9ad0.webp)
 
 ## Defining Permissions
 

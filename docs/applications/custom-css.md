@@ -1,4 +1,4 @@
-# Custom CSS
+# Custom CSS component
 
 Source: https://www.unifyapps.com/docs/unify-applications/custom-css
 Section: applications
@@ -19,7 +19,7 @@ You can apply Custom CSS to virtually any component within your Unify applicatio
 2. **Open the Menu:** In the component's properties panel (usually at the top right of the panel) or directly on the selected component, click the **three-dot (ellipsis) icon** to open the component menu.
 3. **Choose Custom CSS:** From the dropdown menu, select the **Custom CSS** option.
 
-![Frame 427319371.png](_img/34eaee6eae92b61e.webp)
+![Frame 427319371.png](_img/5496b59f48a7ea6a.webp)
 
 ## Using the Custom CSS Editor
 
@@ -30,7 +30,7 @@ Once you select "`Custom CSS`" a dedicated section will appear at the bottom of 
 - **Understanding [data-block-id='root_id']**: This selector is crucial. It automatically targets the specific instance of the component you have selected. The 'root_id' part is a placeholder that the Unify Apps platform intelligently replaces with the unique ID of your selected component. **You do not need to manually change '**`root_id`**'.** This ensures your styles are scoped to that component only and do not unintentionally affect others.
 - **Removing Custom CSS:** A delete icon (often a trash can symbol) is typically present next to or within the Custom CSS section, allowing you to remove all custom CSS applied to that specific component.
 
-![Frame 427319372.png](_img/2b741f9148add488.webp)
+![Frame 427319372.png](_img/262c18ccd68c91fe.webp)
 
 ## Applying Styles
 

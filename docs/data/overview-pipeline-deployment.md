@@ -1,4 +1,4 @@
-# Overview
+# Overview pipeline deployment
 
 Source: https://www.unifyapps.com/docs/unify-data/overview-pipeline-deployment
 Section: data
@@ -17,17 +17,17 @@ Before diving into deployment options, it's important to understand the differen
 
 1. **Draft State**: The initial state of a pipeline that has never been deployed. All configurations and logic exist only in the development environment.
 
-  ![Frame 427319225 (2).png](_img/c126ac605825f438.webp)
+  ![Frame 427319225 (2).png](_img/2d795a4f91ec1654.webp)
 
 2. **Unpublished Changes**: This state occurs when modifications have been made to a previously deployed pipeline, but these changes haven't been deployed yet. The running pipeline still operates on the last deployed version.
 
-  ![Frame 427319226 (2).png](_img/8f80bc5d2c440d1e.webp)
+  ![Frame 427319226 (2).png](_img/e250c78fcd552ad2.webp)
 
 ## Deployment Options
 
 After a pipeline has been deployed for the first time, you have several options for subsequent deployments and management:
 
-![Frame 427319228.png](_img/c27a67a9be703609.webp)
+![Frame 427319228.png](_img/fd7eb6da15a7f471.webp)
 
 1. Deploy
   - **Function**: Applies new changes to the pipeline.
@@ -51,7 +51,7 @@ After a pipeline has been deployed for the first time, you have several options 
   - **Use Case**: Reprocessing data without any pipeline changes.
   - **Example**: Rerunning the pipeline after source data has been updated or corrected. **Note:** If there are no new changes in the pipeline, then only “**Restart Currently Deployed**” option is enabled.
 
-    ![Frame 427319227 (1).png](_img/95db079f98650066.webp)
+    ![Frame 427319227 (1).png](_img/b412b5eeb6b6bd5f.webp)
 
 ## Pipeline Execution Control
 
@@ -63,15 +63,15 @@ After a pipeline has been deployed for the first time, you have several options 
 - `States`**:** There are three states of the toggle-
   - `Paused`**:** This state is present when the pipeline is paused.
 
-    ![Frame 427319230.png](_img/d03bdb31281ee6d6.webp)
+    ![Frame 427319230.png](_img/ab96e3e8c7018833.webp)
 
   - `Running`**:** This state indicates that the pipeline is running and migrating the data from source to destination.
 
-    ![Frame 427319229.png](_img/8517d0035d0f9598.webp)
+    ![Frame 427319229.png](_img/e6a42d87dbe33400.webp)
 
   - `Updating`**:** This is the transient state between paused and running. Whenever the toggle is clicked or pipeline is deployed the state of the toggle becomes updating. **Note:** If the pipeline is paused for a duration longer than log retention period, it can lead to permanent pipeline failure and the pipeline has to restarted in such a case.
 
-    ![Frame 427319231.png](_img/ec8abab7e2db08db.webp)
+    ![Frame 427319231.png](_img/82fc7071fffe3841.webp)
 
 ## Best Practices
 

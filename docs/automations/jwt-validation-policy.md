@@ -35,7 +35,7 @@ The policy validates the token signature, algorithm, and claims to enforce authe
 **b. Expected Value:** The expected value for the claim. 
  The request will be rejected if the value does not match. **Required** |
 
-![image1 6.png](_img/c9e96580cba027ba.webp)
+![image1 6.png](_img/16bf6fc7bccfbdfc.webp)
 
 ## How It Works
 

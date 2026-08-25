@@ -33,7 +33,7 @@ To apply the Base64 Encode transformation:
 2. Choose "`Base64 Encode`" from the list of available transformations.
 3. Apply the transformation.
 
-![Frame 427319224.png](_img/a407f830e3834d6b.webp)
+![Frame 427319224.png](_img/46ea7602cb517530.webp)
 
 > **Note:** When encoding large amounts of data, be aware that Base64 encoding increases the data size by approximately 33%, as it represents 3 bytes of data with 4 ASCII characters.
 
@@ -49,7 +49,7 @@ After applying the transformation, you can test it to verify the results. The sy
 - **Input**: "Sample String"
 - **Output**: "U2FtcGxlIFN0cmluZw=="
 
-![Frame 427319218.png](_img/fe2c28deadd03947.webp)
+![Frame 427319218.png](_img/935d0330c6aab0eb.webp)
 
 ## Base64 Decode
 
@@ -70,7 +70,7 @@ To apply the Base64 Decode transformation:
 2. Choose "`Base64 Decode`" from the list of available transformations.
 3. Apply the transformation.
 
-![Frame 427319236.png](_img/77966dd80a854681.webp)
+![Frame 427319236.png](_img/121280d3d8ad396e.webp)
 
 > **Note:** Always ensure that the input for Base64 decoding is a valid Base64-encoded string. Invalid input can lead to errors or corrupted data.
 
@@ -86,7 +86,7 @@ After applying the transformation, you can test it to verify the results. The sy
 - **Input**: "U2FtcGxlIFN0cmluZw=="
 - **Output**: "Sample String"
 
-![Frame 427319221.png](_img/6fe3b45a8e578a5c.webp)
+![Frame 427319221.png](_img/b373a15682a953bf.webp)
 
 ## Best Practices
 

@@ -26,7 +26,7 @@ Section: platform-tools
   - `Base URL`: Add the base url of the connector user want to add
   - `Logo URL`: Add a public link of the url where the logo is hosted. This field is optional and can be skipped
 
-    ![Frame 427319323 (3).png](_img/e4871d39eb9844cd.webp)
+    ![Frame 427319323 (3).png](_img/9951adcf38e7bb19.webp)
 
 **Step 3: Configure connector settings**
 
@@ -46,7 +46,7 @@ In this section, the authentication type for the connector can be defined. Pleas
   - Basic
   - Custom
 
-![Group 87.png](_img/13b33ed56f16c7a4.webp)
+![Group 87.png](_img/aedf6c212105de92.webp)
 
 Once user click on `Create`, user will land onto the next screen where more details need to be provided as per the Type of authentication selected
 
@@ -54,32 +54,32 @@ Once user click on `Create`, user will land onto the next screen where more deta
   - Define the `Input schema` for this authentication
   - Provide `Headers/Tokens` & other necessary information shown in the screenshot below to setup the authentication mechanism
 
-    ![Group 87.png](_img/67691bb85be21a22.webp)
+    ![Group 87.png](_img/90c2871399133779.webp)
 
 - **JWT Token**
   - Define the `Input schema` for this authentication
   - Define the `Output schema`
   - Provide `Private Key`, `Signing algorithm` & other necessary information shown in the screenshot below to setup the authentication mechanism
 
-    ![Frame 427319324 (4).png](_img/8513f639b595b415.webp)
+    ![Frame 427319324 (4).png](_img/6566d55e531cfbee.webp)
 
 - **OAuth 2.0**
   - Define the `Input schema` on for this authentication
   - Provide `Client ID` , `Secret ID` & other necessary information shown in the screenshot below to setup the authentication mechanism
 
-    ![Frame 427319326 (3).png](_img/1bae4acc9621abde.webp)
+    ![Frame 427319326 (3).png](_img/2c0a0a151e28c0af.webp)
 
 - **Basic**
   - Define the Input schema on for this authentication
   - Provide UserName & Password & other necessary information shown in the screenshot below to setup the authentication mechanism
 
-    ![Group 96.png](_img/346240819562d091.webp)
+    ![Group 96.png](_img/7a9aadfba181f1af.webp)
 
 - **Custom**
   - Define the Input schema on for this authentication
   - Provide Token & other necessary information shown in the screenshot below to setup the authentication mechanism
 
-    ![Group 98.png](_img/12c13304cc6f7473.webp)
+    ![Group 98.png](_img/49701d71743ebf5c.webp)
 
 Section 2: Triggers
 
@@ -92,7 +92,7 @@ In this section, Triggers can be defined on which the connection should get acti
   - `Webhook`
   - `Polling`
 
-    ![Frame 427319327 (4).png](_img/ac825feefab5f9c0.webp)
+    ![Frame 427319327 (4).png](_img/4c2cc86626df7285.webp)
 
 **Trigger Type = Webhook**
 
@@ -101,7 +101,7 @@ This type trigger works on setting up webhooks and gets activated as soon as an 
 - To set this up, define the `Input schema`
 - Choose `Webhook Registration Type` - either `Manual` or `Automatic`
 
-  ![Frame 427319334 (1).png](_img/c576c08fe83bed04.webp)
+  ![Frame 427319334 (1).png](_img/b1994e44c9755515.webp)
 
 **Trigger Type = Polling**
 
@@ -110,7 +110,7 @@ This type trigger depends on regular polling  on setting up webhooks and gets a
 - To set this up, define the `Input schema`
 - Choose `Pagination config` & other necessary settings as shown in the screenshot below
 
-  ![Group 102.png](_img/218c17d057cd542d.webp)
+  ![Group 102.png](_img/a61a8a675329f460.webp)
 
 Section 3: Actions
 
@@ -121,9 +121,9 @@ In this section,  Actions can be defined which need to be executed once a trigg
 - Provide a detailed `Description` for future references
 - Define the action details in the next section. For e.g. in the screenshot below, we are using GET action targeted from the entered URL
 
-![Frame 427319328 (2).png](_img/e4f0d5febe2b847f.webp)
+![Frame 427319328 (2).png](_img/57c8e05ba77333a1.webp)
 
-![Frame 427319335 (1).png](_img/10859bf9d016f574.webp)
+![Frame 427319335 (1).png](_img/a7a1cee6ab40ec5f.webp)
 
 Section 4: Settings
 
@@ -140,7 +140,7 @@ Under settings, user can define
 3. **Availability of this connector in Automation**
   - Switch On the toggle to enable this in Automation
 
-![Frame 427319329 (2).png](_img/be549bac1e91b9c5.webp)
+![Frame 427319329 (2).png](_img/6a91dfcdafa3ed29.webp)
 
 Step 4: Publish the connector
 

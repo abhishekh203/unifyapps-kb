@@ -17,13 +17,13 @@ To get to the Model Library:
 2. Under Agentic AI, select `Setup`
 3. On the Setup page, click on the `Model Library` button.
 
-![Frame 2043683863.png](_img/71fde78cc7166dc8.webp)
+![Frame 2043683863.png](_img/97e8586024b63cfb.webp)
 
 ## Proprietary Models
 
 UnifyApps offers out-of-the-box (OOTB) connectors for leading proprietary AI models with enterprise-grade API integration:
 
-![Frame 284.png](_img/fa3cd147ed5f2be4.webp)
+![Frame 284.png](_img/3564a39742b5eec6.webp)
 
 - **OpenAI:** Access to various GPT models including GPT-4 and GPT-3.5, optimized for various text generation and reasoning tasks.
   - This includes models like `gpt-4o-mini`, `gpt-4o`, `gpt-4`, and `gpt-3.5-turbo`.
@@ -32,9 +32,9 @@ UnifyApps offers out-of-the-box (OOTB) connectors for leading proprietary AI mod
 - **Google Gemini:** Google's advanced multimodal AI capabilities for text, image, and code generation.
   - The model library includes various Gemini models such as `models/gemini-2.0-flash-lite, models/gemini-2.0-flash, models/gemini-1.5-pro, models/gemini-1.5-flash-8b, gemini-2.5-pro-preview-03-25`, and `models/gemini-2.5-flash-preview-05-20.`
 
-![Frame 283.png](_img/324b0b6d55cdfd56.webp)
+![Frame 283.png](_img/216415eae3a6428e.webp)
 
-![Frame 284.png](_img/e43f5e56196c4e99.webp)
+![Frame 284.png](_img/cc87c6a03990c4f8.webp)
 
 - **Anthropic Claude:** Constitutional AI models designed for safety and helpfulness in complex reasoning tasks.
   - This includes models like `us.anthropic.claude-3-opus-20240229-v1:0, us.anthropic.claude-3-haiku-20240307-v1:0, us.anthropic.claude-3-sonnet-20250219-v1:0`, and `anthropic.claude-3-5-sonnet-20240620-v1:0.`

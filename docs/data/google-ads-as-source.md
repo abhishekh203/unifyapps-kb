@@ -11,7 +11,7 @@ UnifyApps enables seamless integration with Google Ads as a source for your data
 
 Google Ads is a powerful online advertising platform that enables businesses to create and manage advertising campaigns across Google's advertising network. UnifyApps provides native connectivity to extract data from Google Ads efficiently and securely, supporting both historical data loads and continuous data synchronization.
 
-![Frame 427319271.png](_img/69c4bacc3ccba1d4.webp)
+![Frame 427319271.png](_img/46e0cbe245f0fd69.webp)
 
 | **Parameter** | **Description** | **Example** |
 |---|---|---|
@@ -28,7 +28,7 @@ Google Ads is a powerful online advertising platform that enables businesses to 
 
 1. **Developer Token**:
 
-  ![Frame 427319273.png](_img/5b880bcbf756e298.webp)
+  ![Frame 427319273.png](_img/e4ad356d7feb168c.webp)
 
   - Sign in to your Google Ads Manager account
   - Navigate to `TOOLS & SETTINGS` **>** `SETUP` **>** `API Center`
@@ -41,7 +41,7 @@ Google Ads is a powerful online advertising platform that enables businesses to 
   - Choose the client account linked to your team for managing ad campaigns
 4. **OAuth 2.0 Credentials**:
 
-  ![Frame 427319272.png](_img/b3cc9730fc3e7a07.webp)
+  ![Frame 427319272.png](_img/8fccccdb265b6cba.webp)
 
 - Create a project in Google Cloud Console
 - Enable the Google Ads API

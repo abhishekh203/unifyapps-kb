@@ -13,7 +13,7 @@ HubSpot is a powerful customer relationship management (CRM) platform that helps
 
 ## Connection Configuration
 
-![Frame 427319275.png](_img/c3a3744d1cdf739a.webp)
+![Frame 427319275.png](_img/fcd1ede3a62f0ad7.webp)
 
 | **Parameter** | **Description** | **Example** |
 |---|---|---|
@@ -74,7 +74,7 @@ UnifyApps supports three authentication methods for HubSpot:
 4. Copy the Client ID and Client Secret
 5. Ensure your app has the required scopes: `objects.read, objects.write`
 
-![Frame 427319276.png](_img/e6b04ed42a1c0492.webp)
+![Frame 427319276.png](_img/b944e6434219cb6e.webp)
 
 ## Supported Entities
 

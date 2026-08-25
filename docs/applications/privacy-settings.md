@@ -1,4 +1,4 @@
-# Privacy Settings
+# Privacy settings component
 
 Source: https://www.unifyapps.com/docs/unify-applications/privacy-settings
 Section: applications
@@ -9,7 +9,7 @@ Section: applications
 
 The Privacy Settings section within your application's settings allows you to control who can access your application and to configure third-party Identity Providers for authentication. This ensures that you can manage your application's accessibility, making it either private for internal use or public for wider access, while also providing secure and streamlined sign-on experiences for your users.
 
-![Frame 9.png](_img/90598b19bf44f327.webp)
+![Frame 9.png](_img/4673be8daa61a9bb.webp)
 
 ## Navigating to Privacy Settings
 
@@ -36,7 +36,7 @@ You can choose who can access your app with two distinct options:
 
 Identity Providers (IdP) allow you to configure different methods for users to sign on to your application. This enables integration with external authentication services like Google, Okta, or other SAML-based providers for a seamless Single Sign-On (SSO) experience.
 
-![Frame 11.png](_img/7623888a6213acfe.webp)
+![Frame 11.png](_img/7fb53e3a1d88710b.webp)
 
 ### Adding a New Identity Provider
 
@@ -69,7 +69,7 @@ When you create a new Identity Provider, you will need to configure several fiel
 
 **Attribute Mapping**
 
-![Frame 12.png](_img/f4767c318198b559.webp)
+![Frame 12.png](_img/767bc935de21138b.webp)
 
 - **Default Attributes:** Map the attributes from the IdP's SAML assertion to the user attributes in your application.
   - `Email Attribute Statement`

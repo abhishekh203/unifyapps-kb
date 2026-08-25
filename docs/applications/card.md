@@ -1,4 +1,4 @@
-# Card
+# Card component
 
 Source: https://www.unifyapps.com/docs/unify-applications/card
 Section: applications
@@ -9,13 +9,13 @@ Section: applications
 
 The Card is used for creating widgets and complex layouts. It consists of 2 main sections: a Header and a Body. The Header appears at the top of the card, while the Body covers the remaining space. We can also add a footer to the card if needed. Additionally, the Card has a border by default, giving it a widget-like appearance.
 
-![Group 151.png](_img/f00d3690157093a4.webp)
+![Group 151.png](_img/963e2a367ccebaf6.webp)
 
 ## Key Properties
 
 - `Header and Body`**:** The Card’s Header and Body work like the Stack component, supporting direction and alignment for precise content organization. **Note:** You can refer to the [Stacks Article](https://www.unifyapps.com/docs/unify-applications/stack) for the same.
 
-  ![Group 189.png](_img/9d6ecfd440756a08.webp)
+  ![Group 189.png](_img/0383ddd4d1e430a7.webp)
 
 - `Collapsible`**:** Cards can be made collapsible, so you can choose if they start open or closed.
 - `Interactions`**:** Define the interactions that should occur when the card is clicked. Click the "`+`" button under "Interactions" to add a new interaction, such as triggering a data source or navigating to another page & many more. **Note:** You can refer to the [Interactions article](https://www.unifyapps.com/docs/unify-applications/handle-interactions-in-interface) for the same.
@@ -37,7 +37,7 @@ The Card is used for creating widgets and complex layouts. It consists of 2 main
 | `Background color` | Sets the background color for the Card. Includes a range of color choices to match your design theme. |
 | `Border width` | Defines the thickness of the Card’s border. Options typically include none, xs, mg, and xl, etc. |
 
-![Group 156.png](_img/bda72c9c3610c6f3.webp)
+![Group 156.png](_img/b5c91fe8c6d95a6b.webp)
 
 ## Defining Permissions
 

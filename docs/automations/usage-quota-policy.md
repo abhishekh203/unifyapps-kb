@@ -19,7 +19,7 @@ Unlike rate limiting (which controls traffic in short bursts), a usage quota enf
 | `Unit` | Defines the time unit for the duration (e.g., Minutes, Hours, Days, Months). **Required** |
 | `Number of Requests` | Specifies the maximum number of API requests allowed per client profile within the defined duration. Once this limit is reached, further requests are denied until the quota resets. **Required** |
 
-![image1 3.png](_img/53c333f0e005d096.webp)
+![image1 3.png](_img/82ddd1223d2023fa.webp)
 
 ## How It Works
 

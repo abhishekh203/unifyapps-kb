@@ -1,4 +1,4 @@
-# Image Grid
+# Image Grid component
 
 Source: https://www.unifyapps.com/docs/unify-applications/image-grid
 Section: applications
@@ -20,11 +20,11 @@ You may configure the Image Grid component by following the below steps:
 
 Choose type `Manual` (default option), then use the `Images` list to add items one by one by clicking the (`+`) icon. Each item represents an image card in the grid, and you can reorder them by drag and drop feature on the left of every Image item.
 
-![Group 186.png](_img/82143637e59753d5.webp)
+![Group 186.png](_img/366b3bb6052bbd37.webp)
 
 Once added, each image item can be individually configured for its source, label, and click behavior.
 
-![Master - Do not Edit (44).png](_img/491607374ac7c75f.webp)
+![Master - Do not Edit (44).png](_img/aa6270fd224f1cf7.webp)
 
 **Mapped**
 
@@ -32,11 +32,11 @@ The **Mapped** mode allows you to dynamically populate the Image Grid using data
 
 This is ideal for use cases where the image content changes frequently or is driven by backend data — such as product listings, user galleries, or media libraries. Mapped mode streamlines content management and ensures your image grid stays in sync with live data.
 
-![Master - Do not Edit (45).png](_img/aa8b641818be4368.webp)
+![Master - Do not Edit (45).png](_img/cde76059f1c1b1dd.webp)
 
 Once Mapped is selected in the Type field, you will have to click on the “`Mapped Images`” section to configure the array of image(s) by linking it to your data source.
 
-![Master - Do not Edit (46).png](_img/b3ff25cf36839fdd.webp)
+![Master - Do not Edit (46).png](_img/cab4162985645b7b.webp)
 
 **Image Properties:**
 
@@ -76,14 +76,14 @@ The first option allows you to choose how the grid behaves in different screen s
 - This option enables a **manual layout**, where you define the “Number of columns”.
 - Best used when you want consistent presentation across all devices.
 
-  ![Group 190.png](_img/743334be99b001f3.webp)
+  ![Group 190.png](_img/c9f954b07f6741cf.webp)
 
 **Responsive**
 
 - The layout automatically adjusts based on the screen size, or may keep the width of each image constant by choosing column width.
 - Great for mobile-first or dynamic interfaces where flexibility is key.
 
-  ![Group 191 (2).png](_img/bdef2fb781b22a90.webp)
+  ![Group 191 (2).png](_img/edf7299ebf78c694.webp)
 
 **Item height:**
 

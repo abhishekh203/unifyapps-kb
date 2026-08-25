@@ -1,4 +1,4 @@
-# Avatar
+# Avatar component
 
 Source: https://www.unifyapps.com/docs/unify-applications/avatar
 Section: applications
@@ -20,7 +20,7 @@ The avatar component offers two primary display types:
 1. `Icon`: Uses a predefined icon as the visual representation
 2. `Image`: Displays a user's photo or custom image
 
-  ![Frame 427319362 (2).png](_img/237ef5e5aa86554d.webp)
+  ![Frame 427319362 (2).png](_img/081f3b686b451313.webp)
 
 **Start Icon Selection**
 
@@ -41,7 +41,7 @@ The avatar component supports multiple text elements for clear user identificati
 - `Caption`: Provides secondary information such as email, role, or status
 - `Fallback Text`: Shows initials or alternative text when an image isn't available
 
-  ![Frame 427319363 (2).png](_img/34937fab6575d3d3.webp)
+  ![Frame 427319363 (2).png](_img/01505cab1e3dc548.webp)
 
 **Positioning and Alignment**
 
@@ -50,7 +50,7 @@ For optimal layout integration, the avatar component offers positioning options:
 - `Position`: Left or right alignment within its container
 - `Alignment`: Fine-tuned alignment controls for perfect placement
 
-  ![Frame 427319364 (2).png](_img/9b15d9c42f40be94.webp)
+  ![Frame 427319364 (2).png](_img/d2cc4bfc28cb0645.webp)
 
 ## Implementation Best Practices
 

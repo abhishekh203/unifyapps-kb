@@ -11,7 +11,7 @@ The Retry on Error is an **error-handling mechanism** that allows nodes within y
 
 This reduces the need for manual intervention and improving the overall success rate of your automations.
 
-![Frame 427319241 (1).png](_img/3be3d9362748030a.webp)
+![Frame 427319241 (1).png](_img/e5ccaf57430838bb.webp)
 
 ## Use Cases
 
@@ -39,7 +39,7 @@ This reduces the need for manual intervention and improving the overall success 
 4. **Set Maximum Delay:** Enter the maximum allowable delay between retries in milliseconds.
 5. **Define Backoff Factor:** In the `Backoff Factor` field, enter a value to determine the exponential increase in delay times. For example, a factor of 2 with an initial delay of 1000ms would result in delays of 1000ms, 2000ms, 4000ms, etc.
 
-  ![Frame 427319242 (1).png](_img/4ff3d355cf8f85b3.webp)
+  ![Frame 427319242 (1).png](_img/2c42ad0073a3f93c.webp)
 
 6. **Configure Conditional Retries (Optional)** : Use the condition builder to specify scenarios for retry attempts. Click `Add Condition` or `Add Condition Group` to create complex retry logic.
 7. **Set Final Error Handling**: In the '`In case step error occurs`' dropdown, select the desired behaviour after all retries are exhausted. Common options include **Stop automation,** **Continue automation** or **Follow an error path**.
@@ -47,4 +47,4 @@ This reduces the need for manual intervention and improving the overall success 
   - `Continue automation` will continue the execution even in case of any error.
   - `Follow error path` will allow defining a separate error branch to handle the flow execution.
 
-    ![Frame 427319243.png](_img/c30c8a0436712f49.webp)
+    ![Frame 427319243.png](_img/513a003569627757.webp)

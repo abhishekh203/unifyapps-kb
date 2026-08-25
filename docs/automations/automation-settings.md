@@ -22,8 +22,8 @@ Automation settings in UnifyApps cover two major elements related to an automati
     - Now, we define **country-tier** pairs for each value of the country. We set it such that if the value is India, we execute the automation in the global tier. In contrast, if the value is Germany, we execute it in the load testing tier.
     - If we receive any other value, we will continue to execute the automation in the default tier.
 
-      ![Frame 427319215 (10).png](_img/d68f3d06beaa7c00.webp)
+      ![Frame 427319215 (10).png](_img/c097092fc0bc15fe.webp)
 
 - **Data management:** Users have the capability at each automation to decide what data we want to capture into logs. By **default**, in any automation, we store both the traversed path and the I/O of each node; hence, the checkboxes are selected by default. But if you don't need either of these details to be logged, you can simply uncheck the respective box.
 
-  ![Frame 427319216 (8).png](_img/69761b74149e97fc.webp)
+  ![Frame 427319216 (8).png](_img/fc341677f37bf261.webp)

@@ -1,4 +1,4 @@
-# Audio Player
+# Audio Player component
 
 Source: https://www.unifyapps.com/docs/unify-applications/audio-player
 Section: applications
@@ -9,7 +9,7 @@ Section: applications
 
 The Audio Player component provides a standardized and interactive way to embed and control audio playback within your application. It allows users to play, pause, seek, and visualize audio content seamlessly. The player can be configured to load audio from a URL, offering flexibility for various use cases such as playing back recordings, podcasts, or instructional audio.
 
-![Frame 13.png](_img/b7e9ffe23ffa0bb9.webp)
+![Frame 13.png](_img/0b6089f98de35de2.webp)
 
 ## Audio Player Interface
 

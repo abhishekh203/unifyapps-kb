@@ -1,4 +1,4 @@
-# Chat
+# Chat component
 
 Source: https://www.unifyapps.com/docs/unify-applications/chat
 Section: applications
@@ -9,7 +9,7 @@ Section: applications
 
 The Chat component enables seamless communication between users by providing a structured and interactive messaging experience. It is widely used across various platforms, from customer support systems to collaborative workspaces, ensuring efficient and organized conversations.  Employees can engage in discussions, share updates, and collaborate in real time, streamlining workflows and improving productivity.
 
-![Master - Do not Edit@3x (2).png](_img/f25842668dafe41b.webp)
+![Master - Do not Edit@3x (2).png](_img/699fd0af79dcb4a5.webp)
 
 ## Configuring the Chat Component
 
@@ -28,7 +28,7 @@ Each chat session has a unique `Chat ID`, generated based on user IDs and stored
 
 Storing the Chat object ensures that users can always retrieve the correct, consistent chat history without creating duplicate chats.
 
-![Master - Do not Edit@3x (3).png](_img/318e14c7b8595bcb.webp)
+![Master - Do not Edit@3x (3).png](_img/b1999002745cf523.webp)
 
 ## Configuring Content
 
@@ -46,7 +46,7 @@ Use the **Appearance** settings to fine-tune the look and functionality of the C
 
 > **Note:** You can refer to Appearance Settings documentation to know more about defining Layout for each component .
 
-![Master - Do not Edit@3x (4).png](_img/d67505cef0479dc6.webp)
+![Master - Do not Edit@3x (4).png](_img/f5afc0ff126767d9.webp)
 
 ### Defining Permissions
 

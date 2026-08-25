@@ -35,7 +35,7 @@ The policy validates request parameters (query, header, path) and optionally the
  → Applicable only when the request Content-Type is application/json 
  → Requests that do not conform to the schema will be rejected |
 
-![image1 3 (2).png](_img/eddb57e645e8c7a3.webp)
+![image1 3 (2).png](_img/0a4ade57eb6de5a9.webp)
 
 ## How It Works
 

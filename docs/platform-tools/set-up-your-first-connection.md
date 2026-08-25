@@ -29,11 +29,11 @@ Follow these steps to create and configure your connection:
 
 1. **Initiate a New Connection** Once you are in the Connection Manager section of the Unify Apps platform, locate and click the “`New Location`” button to add a new connection. **Select the Application** You will see a list or a searchable catalog of applications and services that you can connect to. Find the application you want to connect (e.g., Slack, Salesforce, Google Sheets, MySQL). Click on the application to select it.
 
-  ![Frame 427319284 (2).png](_img/70cd24edbb48f378.webp)
+  ![Frame 427319284 (2).png](_img/4a17903ca8012b41.webp)
 
-  ![Frame 427319285.png](_img/42671bb36a22c571.webp)
+  ![Frame 427319285.png](_img/d1e976d978e28039.webp)
 
-  ![Frame 427319286.png](_img/ac7544446a3a7756.webp)
+  ![Frame 427319286.png](_img/a7d97808318a93b1.webp)
 
 2. **Configure the Connection Details** Now you'll configure the specific details for this connection instance:
   - `Connection Name`**:** Enter a unique and descriptive name for the connection in this field. This helps you identify it later (e.g., "My Production Salesforce", "Marketing Team Slack"). *Best Practice:* Use a name that indicates the application and its purpose or environment (e.g., "Personal Gmail Account", "Airtable - Marketing Campaigns Base", "Shared Support IMAP Mailbox"). This is crucial if you plan multiple connections to the same type of application.
@@ -65,7 +65,7 @@ Follow these steps to create and configure your connection:
 | `JWT Token` | Connection Name, Consumer Key (Client ID), Private Key (file upload or text), Username (of service user) | Used by services like Salesforce. Requires significant setup in the external app: creating a 'Connected App', generating a private key/certificate pair (e.g., using OpenSSL), and uploading the certificate. |
 | No Authentication | Connection Name | Used for connecting to public APIs or resources that don't require authentication. No credentials needed. |
 
-![Frame 427319287 (1).png](_img/6412af488ce2557e.webp)
+![Frame 427319287 (1).png](_img/44ab61d25f05ec5e.webp)
 
 > **Note:** For **OAuth 2.0**, instead of entering credentials directly here, you will likely see an `Authorize` button. Clicking this will redirect you to the application's login page in a new window or popup. Log in there to grant Unify Apps access.
 

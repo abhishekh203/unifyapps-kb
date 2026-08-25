@@ -19,11 +19,11 @@ The Step-by-step explanation of how interactions work is given below:
 
 1. **Select Event for the Interaction**: Click on “`Interactions`” in the property panel of the component and select the event for which you want to define an action. **Note:** Each component has its own set of events. For more details, refer to the component-specific [articles](/docs/unify-applications/add-components-to-your-interface).
 
-  ![Frame 427319207 (10).png](_img/7cde7905528c0a0a.webp)
+  ![Frame 427319207 (10).png](_img/06212391b55b6aee.webp)
 
 2. **Select the Action:** Define what action should happen when the event is triggered and configure the necessary parameters for the chosen action.`Control ModalGo to Page.` Different type of actions supported are as follows:
 
-  ![Frame 427319208 (10).png](_img/70146cf0f5fb29f4.webp)
+  ![Frame 427319208 (10).png](_img/66e4e911bbd7605c.webp)
 
 | **Action** | **Task Performed** |
 |---|---|
@@ -45,7 +45,7 @@ The Step-by-step explanation of how interactions work is given below:
 
 You can add conditions to control when the interaction should occur. You need to define the condition in the condition panel by using required fields or operators.
 
-![Frame 427319209 (7).png](_img/47a9986645498712.webp)
+![Frame 427319209 (7).png](_img/3a9124e623d7101d.webp)
 
 > **Note:** You can use the data pills from input data tab and also apply excel formulas directly while defining the conditions
 

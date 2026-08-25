@@ -1,4 +1,4 @@
-# Replace Value
+# Replace value
 
 Source: https://www.unifyapps.com/docs/unify-data/replace-value
 Section: data
@@ -7,7 +7,7 @@ Section: data
 
 The Replace Value transformation is a powerful tool that swaps out field values based on conditions you define. This simple yet versatile function helps clean data, standardize formats, and handle missing values—solving common data quality challenges with minimal effort.
 
-![Frame 427319224 (5).png](_img/32a226ef9fa07e3d.webp)
+![Frame 427319224 (5).png](_img/0a3a8761a3c9f165.webp)
 
 ## Why Use Replace Value?
 
@@ -26,7 +26,7 @@ The Replace Value transformation is a powerful tool that swaps out field values 
 4. Preview the results with test data
 5. Click "`Save`" to apply the transformation
 
-  ![Frame 427319225 (6).png](_img/4ff7ec1228b8e1f7.webp)
+  ![Frame 427319225 (6).png](_img/abf112557960c463.webp)
 
 ## Configuration Options
 
@@ -36,7 +36,7 @@ The Replace Value transformation is a powerful tool that swaps out field values 
   - Convert old product codes to new format (e.g., "PRD-001" to "PRODUCT-001")
 - **Filtering Criterion** The condition that triggers the replacement to occur. **Common Criteria:**
 
-  ![Frame 427319226 (6).png](_img/7f78c0be820349e1.webp)
+  ![Frame 427319226 (6).png](_img/11608b97ba0a8b0f.webp)
 
   - **IS NOT PRESENT** - Target empty or missing values
   - **EQUALS** - Replace exact matches only

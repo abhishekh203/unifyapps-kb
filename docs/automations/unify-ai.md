@@ -1,4 +1,4 @@
-# Unify AI
+# Agentic AI Platform for the Enterprise
 
 Source: https://www.unifyapps.com/docs/unify-automations/unify-ai
 Section: automations

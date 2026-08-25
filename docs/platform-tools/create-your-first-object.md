@@ -11,7 +11,7 @@ Let's create an object from scratch.
 
 1. Click on `New Object` to start creating an object. A modal should open up, asking for basic information regarding the object.
 
-  ![Frame 132 (4).png](_img/04e850ad170c20e5.webp)
+  ![Frame 132 (4).png](_img/9f3f440e7dd26eb8.webp)
 
 2. Fill in the plural and singular names for your object. Also, select the data storage mechanism type based on your needs. The available options are JSON store, Blob store, Key-value store, Event store, and Blob store. Each of these is explained in a later section.
 3. Click on `Create`, and you'll be taken to the landing page of your object, where you can design the schema of your object and enable additional configurations in settings.
@@ -20,7 +20,7 @@ Let's create an object from scratch.
 
 - You can add fields to your object's schema in bulk by pasting a sample JSON. Additionally, you can modify your schema by adding fields one by one.
 
-  ![Frame 133 (2).png](_img/74dbb37f2c112ed5.webp)
+  ![Frame 133 (2).png](_img/0c487349a9a507ae.webp)
 
 - Once you click on `Add Fields`, a modal opens up, prompting you to describe the nature of your new field. You'll be required to set the following parameters:
 
@@ -99,7 +99,7 @@ Lookups allow you to reference data from other objects in your current object, c
 - When creating a Single Select or Multi Select Dropdown field, you can choose '`Lookup`' as the source of options instead of a static list.
 - Select the target object from which you want to look up data. The field used to join the two objects must be a primary key in your lookup object.
 
-  ![Frame 134 (2).png](_img/c091abaff8436ef1.webp)
+  ![Frame 134 (2).png](_img/c533a14bc647cf13.webp)
 
 - In your lookup object, set the field you want to act as a display name by ticking the display name checkbox in the edit field modal.
 - Now, you can access data from your secondary object, thus enabling you to create cleaner and non-repetitive objects.

@@ -9,7 +9,7 @@ Section: automations
 
 Voicebot by UnifyApps enables sophisticated voice interaction capabilities within your automation workflows. This powerful integration allows you to create, manage, and process voice-based communications through AI-powered voice agents. The system provides real-time voice processing, session management, and intelligent response handling, making it perfect for customer service automation, voice-activated workflows, and interactive voice response systems.
 
-![Frame 1.png](_img/dc1d6526280ae8c0.webp)
+![Frame 1.png](_img/e2c8d4878c89057c.webp)
 
 ## Use Cases
 
@@ -25,7 +25,7 @@ A logistics company uses voice commands to trigger warehouse operations. Workers
 
 A market research firm automates survey collection through voice interactions. The voicebot initiates sessions with respondents, asks survey questions, processes spoken responses, and records answers in structured formats. This approach increases response rates and provides richer qualitative data compared to traditional text-based surveys.
 
-![Frame 5.png](_img/823e429e0bfcee0a.webp)
+![Frame 5.png](_img/514cbb9ff95b1ec4.webp)
 
 ## Send Response
 
@@ -66,7 +66,7 @@ The Send Response action provides:
 
 This action is essential for creating interactive voice experiences where your automation needs to provide intelligent responses based on user input or workflow logic.
 
-![Frame 4.png](_img/3bdf2dcd40bcc15c.webp)
+![Frame 4.png](_img/f89268d0c7a9cf93.webp)
 
 ## Respond to Voicebot Session
 
@@ -144,7 +144,7 @@ For each voice interaction processed, the action outputs:
 
 This action is crucial for creating intelligent voice interactions that understand user intent and provide contextually appropriate responses.
 
-![Frame 3.png](_img/f268e900f06e838d.webp)
+![Frame 3.png](_img/afda97a8f7180863.webp)
 
 ## Start Voicebot Session
 

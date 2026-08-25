@@ -25,4 +25,4 @@ The STOP Node only affects the branch it's placed in. If your automation has mul
 
 Unlike error states that might leave processes hanging or create logs filled with exceptions, the STOP Node provides a clean, intentional exit from the workflow.
 
-![Group 125.png](_img/aeff3da7f0af3ddc.webp)
+![Group 125.png](_img/06973e8333aa6c86.webp)

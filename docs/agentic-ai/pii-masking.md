@@ -19,36 +19,36 @@ While accessing the knowledge for user query regarding the bill amount,
 
 1. From the Guardrails section in your AI Agents Dashboard, click “`PII Masking`”.
 
-  ![Frame 427319429.png](_img/8ea50bcdf57efc15.webp)
+  ![Frame 427319429.png](_img/344d7260fd56a6c4.webp)
 
 2. Choose from three masking options:
   - **Regex Pattern-** Filter sensitive data using predefined regex patterns
   - **PII by UnifyApps-** Automatically detect and mask PII
   - **Automations-** Use custom automations to filter sensitive information
 
-    ![Frame 427319430.png](_img/c52770748122655b.webp)
+    ![Frame 427319430.png](_img/e7f0be554a14d97e.webp)
 
 ### Configure Masking via Regex pattern
 
 1. Click the “`+ Add Pattern`” button to define a new regex pattern for identifying specific types of sensitive information such as Social Security Numbers, phone numbers, or other data unique to your use case.
 
-  ![Frame 427319437.png](_img/b96db2e4aaf4c820.webp)
+  ![Frame 427319437.png](_img/f376375a0ee9c966.webp)
 
 2. Choose the appropriate guardrail behavior for each pattern:
   - `Block`: Prevents the sensitive information from being processed or displayed entirely.
   - `Mask`: Replaces the sensitive data with asterisks or other placeholders to ensure privacy without blocking the flow of conversation.
 
-    ![Frame 427319438.png](_img/c390da5fc55c9abb.webp)
+    ![Frame 427319438.png](_img/933d041e43dfde43.webp)
 
 3. You can view and manage your defined patterns under the Regex Pattern section. You can edit or remove patterns as needed by clicking on the three-dot menu.
 
-  ![Frame 427319436.png](_img/3a51c198c4d3d45b.webp)
+  ![Frame 427319436.png](_img/40626cf1e6e571d1.webp)
 
 ### Configure Masking via Automation
 
 1. In the `Setup` tab of the Callable trigger, Select the **Callable Interface** as "`PII Mask Knowledge Chunk Interface`".
 
-  ![Frame 427319450.png](_img/799ceda1259af6de.webp)
+  ![Frame 427319450.png](_img/d40f4b53f38b6139.webp)
 
 2. In the `Setup Schema`, define the expected input:
   - `Text`* – This is the required string input containing the content to be masked.

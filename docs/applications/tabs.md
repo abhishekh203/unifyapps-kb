@@ -1,4 +1,4 @@
-# Tabs
+# Tabs component
 
 Source: https://www.unifyapps.com/docs/unify-applications/tabs
 Section: applications
@@ -46,7 +46,7 @@ You can customize the appearance of tab with following properties:
 
 ## Add Components Inside a Tab
 
-![Frame 427319206 (15).png](_img/f8c86543799b418e.webp)
+![Frame 427319206 (15).png](_img/845aaef9af580ddc.webp)
 
 1. **Select Tab:** Click on the tab where you want to add components.
 2. **Add Component:** Click on the "`Add Component`" button under the selected tab.

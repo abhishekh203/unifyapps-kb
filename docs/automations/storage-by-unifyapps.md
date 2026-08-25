@@ -11,7 +11,7 @@ Storage by UnifyApps is a key feature of the UnifyApps Automation Builder, offer
 
  It allows users to easily perform a variety of data operations, including `creating`, `reading`, `updating`, and `deleting` records, as well as more advanced tasks like semantic search and metadata aggregation.
 
-![Frame 427319208 (9).png](_img/9b80f671483df1b8.webp)
+![Frame 427319208 (9).png](_img/33a989adbfd98f72.webp)
 
 ## Key Features
 

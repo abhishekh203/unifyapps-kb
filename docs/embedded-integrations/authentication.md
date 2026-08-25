@@ -1,4 +1,4 @@
-# Overview
+# Authentication
 
 Source: https://www.unifyapps.com/docs/embedded-integrations/authentication
 Section: embedded-integrations

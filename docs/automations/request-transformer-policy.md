@@ -37,7 +37,7 @@ This policy is useful for enforcing standards, enriching requests, removing unne
  → For **Rename**, this is the new key name 
  → For **Remove**, this may specify the field to be removed**Required** |
 
-![image1 4.png](_img/b761375d0cf3fca7.webp)
+![image1 4.png](_img/bf8300f39e14cccf.webp)
 
 ## How It Works
 

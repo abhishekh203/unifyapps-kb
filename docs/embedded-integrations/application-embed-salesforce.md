@@ -16,13 +16,13 @@ Embedding UnifyApps applications in Zendesk allows seamless integration of Unify
 - Ensure that “`Allow Authorisation Code and Credentials Flows`” is enabled in OAuth and OpenID Connect Settings.
 - This is required to fetch Salesforce data in UnifyApps
 
-  ![Frame 8 (1).png](_img/1d7942faf383ae33.webp)
+  ![Frame 8 (1).png](_img/a00a803247fd059a.webp)
 
 ### Pre-Requisite 2
 
 Enable “`Use Lightning Web Security for Lightning web components and Aura components`” in Session Settings.
 
-![Frame 9.png](_img/d4b91d71d54cae9b.webp)
+![Frame 9.png](_img/a9d913f752b1328e.webp)
 
 ### Step 1: Install UnifyApps
 
@@ -46,16 +46,16 @@ To begin the integration, you must install the UnifyApps package into your Sales
 
 -
 
-  ![Frame 10 (1).png](_img/cbb12a18de066cc8.webp)
+  ![Frame 10 (1).png](_img/d8617beec0dc826c.webp)
 
-  ![Frame 11 (1).png](_img/729ae36de864c9f2.webp)
+  ![Frame 11 (1).png](_img/52d1721e5074d13e.webp)
 
 ### Step 2: Configure UnifyApps
 
 - In Salesforce, Click on `App launcher` and open Unify Apps configuration.
 - Enter `Domain` & `Tenant ID`
 
-![Frame 12 (2).png](_img/0e6aa6aae6908c7d.webp)
+![Frame 12 (2).png](_img/dc7d785e07135378.webp)
 
 ### Step 3: Authenticate UnifyApps
 
@@ -63,28 +63,28 @@ To begin the integration, you must install the UnifyApps package into your Sales
 - Search for Auth Providers in setup.
 - Create a New Auth with AuthProvider Named “UnifyAppsAuthProvider”
 
-  ![Frame 13.png](_img/8ef0d8899c2b7426.webp)
+  ![Frame 13.png](_img/4b89d6f5c88e63ca.webp)
 
 - Choose UnifyAppsAuthProvider as Provider Type.
 - Keep Name & URL Suffix as unifyapps.
 - Choose an admin from your SF org for Execute Registration As Field.
 - Click on `Save` Button
 
-  ![Frame 14 (1).png](_img/4373768633385e45.webp)
+  ![Frame 14 (1).png](_img/ebd4fde823b45760.webp)
 
 ### Step 4: Named Credentials
 
 - Search for Named Credentials in Setup.
 - Edit unifyapps named credentials
 
-  ![Frame 22.png](_img/c9a7335913830a86.webp)
+  ![Frame 22.png](_img/fb7f4a24188000cc.webp)
 
 - Choose `OAuth 2.0` as Authentication Protocol.
 - Choose unifyapps as Authentication Provider.
 - Select “`Start Authentication Flow on Save`”
 - Click on `Save` Button
 
-  ![Frame 16 (1).png](_img/b70da2ce581513ce.webp)
+  ![Frame 16 (1).png](_img/45fe068886c68c4e.webp)
 
 ### Step 5: App Builder
 

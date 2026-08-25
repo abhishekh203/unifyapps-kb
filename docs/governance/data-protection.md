@@ -1,4 +1,4 @@
-# Data Protection
+# Data protection
 
 Source: https://www.unifyapps.com/docs/governance/data-protection
 Section: governance
@@ -13,31 +13,31 @@ Data backup and protection ensure that critical information remains safe, availa
 
 ## 
 
-![data1.png](_img/b50c4a153bdb5c52.webp)
+![data1.png](_img/47b5b1106aeb4e4b.webp)
 
 Whenever creating a New Backup, the platform asks for configuration details.
 
 Add the connection name and choose the backup provider.
 
-![data2.png](_img/07b13f20e9e7f277.webp)
+![data2.png](_img/93620a006b5df2ea.webp)
 
 While choosing the connection, click on ADD CONNECTION to make a new connection. Adding a new connection will require you to fill the connection configurations. The instructions are already given to ease your journey.
 
 Choose the relevant details and click on CREATE.
 
-![data3.png](_img/b4e40de927b021ab.webp)
+![data3.png](_img/d3f67d5e09f01322.webp)
 
 Select the repository and branch you want to connect. You can use an existing repository or create a new one to connect.
 
-![data5.png](_img/ca0a60559af557f6.webp)
+![data5.png](_img/93a1f5625db5c251.webp)
 
 Select the Platform Objects to include in the backup. You can choose individual platform objects or from a predefined group to include in the backup.
 
-![data6.png](_img/5e0f22fa51d5026c.webp)
+![data6.png](_img/6365ebd68cb487fb.webp)
 
 Define Frequency for backup. The platform provides two options to choose from: *SCHEDULED* or *REAL-TIME*
 
-![data7.png](_img/38ecde9619d54cb5.webp)
+![data7.png](_img/87420d43d2ca034b.webp)
 
 Click the CREATE button to confirm the creation of the backup.
 

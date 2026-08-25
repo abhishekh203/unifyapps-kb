@@ -11,7 +11,7 @@ Every time an automation is deployed, a new version of the automation is created
 
 This versioning system allows you to **keep track** of **all the changes** and you can revert to previous versions if needed.
 
-![Frame 427319239.png](_img/e199fd1467cde53e.webp)
+![Frame 427319239.png](_img/101254120f9f282b.webp)
 
 The current version that is currently deployed is associated with the “`current`” tag along with the version number.
 
@@ -24,4 +24,4 @@ To restore a version of automation, you need to:
 - Click on the `Version` to open the Version details page.
 - Click the “`Restore this version`” button, located in the top right corner of the page to restore the selected version
 
-![Frame 427319210 (7).png](_img/9747342aa8527cb4.webp)
+![Frame 427319210 (7).png](_img/5cf310fa9c6f4a64.webp)

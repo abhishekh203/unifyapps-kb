@@ -1,4 +1,4 @@
-# Overview
+# Overview component
 
 Source: https://www.unifyapps.com/docs/unify-applications/overview
 Section: applications
@@ -28,15 +28,15 @@ Unify Applications supports the development of both **web based** applications a
   - **Basic Components:** These are simpler components like `buttons` or `text fields`.
   - **Repeatable**: These elements are designed for repeating patterns, such as `lists` or `grids`, enabling dynamic data display. Each UI component comes with a property panel where users can define its content, interaction, and appearance. **Note:** You can add different types of components to make your application intuitive. Read more about Components [here](/docs/unify-applications/add-components-to-your-interface).
 
-    ![Frame 427319224 (1).png](_img/c968d3fbe882db28.webp)
+    ![Frame 427319224 (1).png](_img/a9f5e2458ee27b67.webp)
 
 2. **Canvas:** The Canvas is the central workspace where users design and build their applications. It provides a visual, drag-and-drop interface where UI components can be easily `placed`, `arranged`, and `customised`.
 
-  ![Frame 427319205 (2).png](_img/07865aaf8057ff92.webp)
+  ![Frame 427319205 (2).png](_img/b9f906da129f8473.webp)
 
 3. **Data Sources:** These are the essential components that fetch and manage data for the application. They can retrieve information from external applications or from UnifyApps' **internal database**, providing flexibility in data integration.
 
-![Frame 427319207.png](_img/9bc4f8f0574f51ae.webp)
+![Frame 427319207.png](_img/2f09fc6643b80814.webp)
 
 > **Note:** Data sources are essential for connecting and utilizing various external applications. You can read more about Data Sources [here](/docs/unify-applications/adding-data-sources).
 

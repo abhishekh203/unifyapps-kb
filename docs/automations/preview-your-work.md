@@ -1,4 +1,4 @@
-# Preview Your Work
+# Preview your work
 
 Source: https://www.unifyapps.com/docs/unify-automations/preview-your-work
 Section: automations
@@ -22,7 +22,7 @@ It enables users to monitor the success and failure of each step, ensuring effic
 - `Recent Activities`: All the updates made to the automation are logged in the activity section.
 - `Navigation`: Easily navigate through the preview to understand the automation and logic of your automation.
 
-  ![Frame 427319207 (6).png](_img/55a643e007c0b159.webp)
+  ![Frame 427319207 (6).png](_img/6f862b4c50260f08.webp)
 
 ### Run Summary
 
@@ -58,15 +58,15 @@ Each node prominently displays three key components:
 
 - **Input:** The Input section reveals the parameters and configurations specified during the automation setup.
 
-  ![Frame 427319208 (4).png](_img/4ee46212f9a5be7b.webp)
+  ![Frame 427319208 (4).png](_img/ad6c4082b848bedf.webp)
 
 - **Output:** The Output section provides the data structure of the output corresponding to the action selected.
 
-  ![Frame 427319208 (5).png](_img/979644df71afaf04.webp)
+  ![Frame 427319208 (5).png](_img/3f2d530004145050.webp)
 
 - **Details/Connection Details:** In the case of an application node, the Connection Details section outlines the following attributes:
 
-  ![Frame 427319209 (4).png](_img/46e970c8f4d4519a.webp)
+  ![Frame 427319209 (4).png](_img/29daa14420e92fae.webp)
 
   - The **Name** of the application
   - The **Action** selected for the application
@@ -77,4 +77,4 @@ In the case of an Internal node, the detail section outlines the following attri
 - The **Name** of the application (Internal Node)
 - The **Action** selected for the application.
 
-![Frame 427319205 (10).png](_img/b0df8b780b14fe14.webp)
+![Frame 427319205 (10).png](_img/e825f656f0f47a5c.webp)

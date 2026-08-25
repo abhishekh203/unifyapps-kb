@@ -1,4 +1,4 @@
-# Source System
+# Source system
 
 Source: https://www.unifyapps.com/docs/unify-data/source-system
 Section: data
@@ -11,7 +11,7 @@ Instead of evaluating the data values themselves (e.g., looking for the longest 
 
 It allows you to designate specific external systems as "sources of truth" for your entity, ensuring that data from your most trusted platforms takes precedence over less reliable sources.
 
-![Group_40.png](_img/121ac5960236e719.webp)
+![Group_40.png](_img/506edcd7d7e03048.webp)
 
 ## **The Logic: Hierarchy of Trust**
 

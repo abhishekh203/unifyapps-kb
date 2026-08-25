@@ -13,7 +13,7 @@ To effectively understand AI Agents by UnifyApps, let's go over the basic buildi
 
 Our AI agent operates through precise instructions that transform business needs into actionable intelligence. By establishing clear objectives and assigning contextually relevant roles, you provide the agent with its operational identity and purpose. This role-based approach ensures the agent understands both what to accomplish and how to approach tasks with the appropriate expertise. The instruction framework allows for customization of the agent's focus, tone, and methods to align with your specific workflows. Through this strategic direction, your AI assistant becomes a specialized extension of your team, tailored to navigate business challenges with capabilities you define.
 
-![Frame 427319340 (1).png](_img/e28759a838f38ffe.webp)
+![Frame 427319340 (1).png](_img/d06e74659a5a6a82.webp)
 
 ## Knowledge
 
@@ -21,7 +21,7 @@ Think of Knowledge in an AI Agent like a skilled employee's training and experie
 
 UnifyApps honors source application's **Role-Based Access Control (RBAC)**. For example, if a Google Doc is added as a knowledge source for an agent, then only the users who have access to that particular document will be receiving answers based on the contents of the document.
 
-![Frame 427319341 (1).png](_img/fd3b1b39cd02b6aa.webp)
+![Frame 427319341 (1).png](_img/d3e0070e54c93700.webp)
 
 ## Tasks
 
@@ -29,7 +29,7 @@ Tasks are like specialized skills that allow the AI Agent to perform specific ac
 
 For example, an IT support agent manages password reset requests through a simple sequence: verify user identity, generate a temporary password, send a secure reset email, and log the activity. This ensures secure and efficient password management.
 
-![Frame 427319342 (1).png](_img/e5372d4f47f905bf.webp)
+![Frame 427319342 (1).png](_img/579b302206f7e89e.webp)
 
 ## Tools
 
@@ -37,7 +37,7 @@ Our suite of AI operation tools serves as the backbone for executing tasks acros
 
 Fundamentally, they act as digital bridges that translate AI intelligence into concrete application functions, allowing the agent to interact with your existing systems just as a human would, but with greater consistency and scalability. Each tool is meticulously defined with clear inputs, execution parameters, and expected outputs, enabling them to be combined into sophisticated process chains while maintaining security protocols and governance standards. These tools transform abstract AI capabilities into tangible business value by providing the structured pathways through which intelligence becomes action.
 
-![Frame 427319345 (1).png](_img/994eec665afbfc00.webp)
+![Frame 427319345 (1).png](_img/18646034423069bb.webp)
 
 ## Guardrails
 
@@ -51,7 +51,7 @@ Guardrails are essential for ensuring that AI Agents:
 - Respect privacy and data security regulations.
 - Stay aligned with company policies and ethical standards.
 
-![Frame 427319347 (1).png](_img/7a12202ed80e2762.webp)
+![Frame 427319347 (1).png](_img/0291c7c18aed5003.webp)
 
 ## Prerequisite Actions
 
@@ -59,7 +59,7 @@ Prerequisite actions for AI Agents are a set of predefined steps that will be ex
 
 For example,  a customer support agent can have a prerequisite action defined to publish a contact details form to capture the user information before actually triggering a topic or a journey based on the issue type.
 
-![Frame 427319349.png](_img/fe9995b04ee84074.webp)
+![Frame 427319349.png](_img/700d80534d5e591e.webp)
 
 ## Create an Agent
 

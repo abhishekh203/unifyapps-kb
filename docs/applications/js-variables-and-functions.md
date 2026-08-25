@@ -31,13 +31,13 @@ These can be named using the name field and the data type can be selected from t
 - `Array`
   - Arrays are lists that can store multiple values in an ordered way.
 
-![Master - Do not Edit (37).png](_img/e9e57729ba84c844.webp)
+![Master - Do not Edit (37).png](_img/3a4c16be4ccad0c7.webp)
 
 **Initialization**
 
 This field allows you to set static initial value or map a data pill as the initial value. This is an optional field and can be filled if any default value is necessary.
 
-![Master - Do not Edit (38).png](_img/035d29b403b5aea1.webp)
+![Master - Do not Edit (38).png](_img/05aaff4298502b86.webp)
 
 > **Note:** You can refer to Component Specific Documentation to know more about data pills for each component.
 
@@ -61,7 +61,7 @@ Each variable type (Array, String, Boolean, Object, Number) has specific operati
 
 Here is a sample use case of variables where you can create a variable named ‘organisation’ and use it to assign default value to a form.
 
-![Data Source.png](_img/f900b4c8050592bc.webp)
+![Data Source.png](_img/a7192efd9036064e.webp)
 
 ## Functions
 
@@ -71,7 +71,7 @@ Functions in Javascript are designed to perform custom tasks. Functions can take
 
 You can write a Javascript function to fetch the current date formatted in Month - Day - Year and map the values in the UI components. In case there are multiple values in the functions, return them by creating a javascript object.
 
-![Data Source (1).png](_img/0d7d577cdf178ac7.webp)
+![Data Source (1).png](_img/2ddcf305622534c9.webp)
 
 ## **Best Practices**
 

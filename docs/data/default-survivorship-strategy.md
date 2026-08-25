@@ -13,7 +13,7 @@ It determines which value takes precedence when resolving conflicting records ac
 
 This global setting is automatically applied to all fields of the entity, ensuring a consistent approach to data mastery without requiring you to configure rules for every individual attribute manually.
 
-![Group_37.png](_img/53bd7bb6f066d6d0.webp)
+![Group_37.png](_img/73117b110d41e336.webp)
 
 ## **Configuration Options**
 

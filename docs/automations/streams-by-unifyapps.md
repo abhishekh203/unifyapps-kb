@@ -9,7 +9,7 @@ Section: automations
 
 Streams by UnifyApps provides powerful event streaming capabilities for real-time data processing and event-driven automation. This functionality enables you to publish, consume, and process events across your applications in a reliable and scalable way, facilitating seamless communication between different components of your system.
 
-![Frame 427319346 (4).png](_img/02dbff11f21ac438.webp)
+![Frame 427319346 (4).png](_img/d6b244f4a2ff6cbe.webp)
 
 ## Use Cases
 
@@ -27,7 +27,7 @@ Streams by UnifyApps provides powerful event streaming capabilities for real-tim
 
 This action allows you to consume new events from a specified stream, triggering subsequent automation steps for each event or batch of events.
 
-![Frame 427319347 (5).png](_img/927b53891b7aade2.webp)
+![Frame 427319347 (5).png](_img/0f66973a77b17763.webp)
 
 **Input Fields:**
 
@@ -47,7 +47,7 @@ This action allows you to consume new events from a specified stream, triggering
 
 This action enables you to send events to a specified stream for real-time processing by consumers.
 
-![Frame 427319349 (4).png](_img/e0a2fe44ae325be4.webp)
+![Frame 427319349 (4).png](_img/288f58b6bd520622.webp)
 
 **Input Fields:**
 
@@ -63,7 +63,7 @@ This action enables you to send events to a specified stream for real-time proce
 
 ### Publish event to stream at
 
-![Frame 427319348 (5).png](_img/41212d4746f1ad02.webp)
+![Frame 427319348 (5).png](_img/44f1500704581391.webp)
 
 This action allows you to schedule events to be published at a specific time in the future.
 
@@ -82,7 +82,7 @@ This action allows you to schedule events to be published at a specific time in 
 
 ### Publish event to stream with delay
 
-![Frame 427319350 (5).png](_img/cb7a4db7beb47102.webp)
+![Frame 427319350 (5).png](_img/6623d63e6087c851.webp)
 
 This action publishes events to a stream after a specified delay period.
 
@@ -102,7 +102,7 @@ This action publishes events to a stream after a specified delay period.
 
 ### Update DLQ status for stream
 
-![Frame 427319351 (3).png](_img/bdf79b08433bf2d1.webp)
+![Frame 427319351 (3).png](_img/7794dc8afc91159f.webp)
 
 This action allows you to update the Dead Letter Queue (DLQ) status for an event in a stream, handling message processing failures and retries.
 
@@ -122,7 +122,7 @@ This action allows you to update the Dead Letter Queue (DLQ) status for an event
 
 After executing a Streams action, you can track the status and results of the operation in the Output tab.
 
-![Frame 427319352 (4).png](_img/d25539444dc50a4e.webp)
+![Frame 427319352 (4).png](_img/20031dbc41b19b20.webp)
 
 **Common Output Fields:**
 

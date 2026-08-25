@@ -1,4 +1,4 @@
-# Video
+# Video component
 
 Source: https://www.unifyapps.com/docs/unify-applications/video
 Section: applications
@@ -38,7 +38,7 @@ Following options are available for the users:
 2. **Controls size**
   - You can choose from different size options for video controls : xs, sm,md,lg Other generic layout and visibility options are also available, details for which can be found in the table below:
 
-    ![Group 118.png](_img/3aa8aafb29f19c6f.webp)
+    ![Group 118.png](_img/06313c1a56abf9ec.webp)
 
 | Attributes | Properties |
 |---|---|

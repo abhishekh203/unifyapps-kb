@@ -1,4 +1,4 @@
-# Klaviyo as Source
+# Klaviyo as source
 
 Source: https://www.unifyapps.com/docs/unify-data/klaviyo-as-source
 Section: data
@@ -13,7 +13,7 @@ Klaviyo is a powerful customer data and marketing automation platform that helps
 
 ## Connection Configuration
 
-![Frame 427319287.png](_img/213861d0438a9c39.webp)
+![Frame 427319287.png](_img/ce144ac9da92381a.webp)
 
 | **Parameter** | **Description** | **Example** |
 |---|---|---|
@@ -41,7 +41,7 @@ UnifyApps supports three authentication methods for Klaviyo:
 7. Copy the generated API key immediately, as it won't be fully visible again after you leave the page
 8. Store the API key securely, treating it like a password
 
-![Frame 149.png](_img/d020a7f4d22ac062.webp)
+![Frame 149.png](_img/31d27a370c53f505.webp)
 
 ### 2. OAuth Authentication
 
@@ -53,7 +53,7 @@ UnifyApps supports three authentication methods for Klaviyo:
 
 **How to set up OAuth authentication:**
 
-![Frame 150.png](_img/d3a1c56a05443362.webp)
+![Frame 150.png](_img/9728430337d406ac.webp)
 
 1. Navigate to the **Manage apps** page in Klaviyo
 2. Select **Create app** to create your new application
@@ -63,7 +63,7 @@ UnifyApps supports three authentication methods for Klaviyo:
 6. Specify which scopes your app needs (using a space-separated list)
 7. Add the callback URL from UnifyApps to your **Redirect URLs/Callback URLs** list
 
-![Frame 151.png](_img/0694acd81347a9d7.webp)
+![Frame 151.png](_img/8e5becb0d3817c09.webp)
 
 **Available Scopes:** For UnifyApps integration, the following read scopes are typically needed:
 
@@ -88,7 +88,7 @@ Additional available scopes include:
 - Tracking settings: `tracking-settings:read`, `tracking-settings:write`
 - Reviews: `reviews:read`
 
-![Frame 427319288.png](_img/431d00fd09442500.webp)
+![Frame 427319288.png](_img/74cf65997d7874b0.webp)
 
 Specify only the scopes your integration requires, following the principle of least privilege.
 

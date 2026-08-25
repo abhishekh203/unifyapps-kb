@@ -13,7 +13,7 @@ Facebook Ads is a powerful digital advertising platform that enables businesses 
 
 ## Connection Configuration
 
-![Frame 427319280.png](_img/e74d0e57938fcc67.webp)
+![Frame 427319280.png](_img/8a3646769afbc5f2.webp)
 
 | **Parameter** | **Description** | **Example** |
 |---|---|---|
@@ -32,7 +32,7 @@ UnifyApps supports three authentication methods for Facebook Ads:
 
 **How to obtain a User Token:**
 
-![Frame 427319281.png](_img/43110eab9a788a6b.webp)
+![Frame 427319281.png](_img/de6f61485bc299c5.webp)
 
 1. Log into your Facebook Developers Console
 2. Navigate to your App's settings
@@ -52,7 +52,7 @@ UnifyApps supports three authentication methods for Facebook Ads:
 
 **How to set up OAuth authentication:**
 
-![Frame 427319284.png](_img/2862c7945fc5177c.webp)
+![Frame 427319284.png](_img/56b03612dc4619c2.webp)
 
 - Log into your Facebook Developers Console
 - Add the "`Facebook Login`" product to your app
@@ -62,7 +62,7 @@ UnifyApps supports three authentication methods for Facebook Ads:
 
 #### 3. OAuth with Client Credentials
 
-![Frame 427319285.png](_img/6a747304bdefe42c.webp)
+![Frame 427319285.png](_img/31781e5b4943592e.webp)
 
 | **Parameter** | **Description** | **Example** |
 |---|---|---|
@@ -79,7 +79,7 @@ UnifyApps supports three authentication methods for Facebook Ads:
 
 **How to find your Account ID:**
 
-![Frame 427319282.png](_img/546b5344705da366.webp)
+![Frame 427319282.png](_img/44936d5ead05d073.webp)
 
 1. Go to Ads Manager
 2. Your ad account ID number is shown above the search and filter bar in the account drop-down menu

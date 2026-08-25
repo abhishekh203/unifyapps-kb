@@ -9,7 +9,7 @@ Section: automations
 
 Video by UnifyApps enables comprehensive video processing and manipulation within your automation workflows. This powerful integration allows you to extract frames from videos, process video content, and manipulate video files for various business applications. The system supports multiple video formats and provides precise frame-level control, making it perfect for content analysis, thumbnail generation, quality control, and media processing tasks.
 
-![Frame 6 (1).png](_img/3d67d36508226ad1.webp)
+![Frame 6 (1).png](_img/39d741827ab2be41.webp)
 
 ## Use Cases
 
@@ -27,9 +27,9 @@ A media production company implements automated quality checks by extracting fra
 
 ## Extract Image from Video
 
-![Group 156 (1).png](_img/3fbf23436bb22029.webp)
+![Group 156 (1).png](_img/95dda5196e0add10.webp)
 
-![Frame 8.png](_img/f6d5b34a079e6d42.webp)
+![Frame 8.png](_img/2f10d9be1da06169.webp)
 
 The Extract Image action in Video by UnifyApps enables precise extraction of still frames from video files. This action provides frame-level control for capturing specific moments within videos, supporting various video formats and offering flexible configuration options for different extraction scenarios.
 

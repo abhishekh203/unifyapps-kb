@@ -9,7 +9,7 @@ Section: governance
 
 **Users** represent the accounts created for a specific unifyapps environment. Users are individuals who interact with the platform and its various applications. Each user has specific roles and permissions that define their access to the system.
 
-![Frame 427319495.png](_img/a55efe796d8b9a03.webp)
+![Frame 427319495.png](_img/d3c96e2bd617d605.webp)
 
 ## User Information
 
@@ -34,16 +34,16 @@ To create a new user in UnifyApps, follow these steps:
 
 1. Click on the **"**`New User`**"** Button Navigate to the user management section and click on the **"**`New User`**"** button. A new page will open up with three tabs:
 
-  ![Frame 427319496.png](_img/936d556bd49c9d46.webp)
+  ![Frame 427319496.png](_img/b37c9a3837e7d26e.webp)
 
   - User Details
   - User Roles
   - User Teams
 2. In **User Details Tab** This tab contains the following fields, which need to be filled in:
 
-  ![Frame 427319210 (18).png](_img/b0140143ff19dd50.webp)
+  ![Frame 427319210 (18).png](_img/06d4511a5f1a0fa4.webp)
 
-  ![Frame 427319209 (24).png](_img/b40feab556a2f98e.webp)
+  ![Frame 427319209 (24).png](_img/b2f0887be3d32d94.webp)
 
   - `Name`*(Required)*: The full name of the user. (*Required*)
   - `Username`*(Required*): The unique identifier for the user to log in.
@@ -84,11 +84,11 @@ To create a new user in UnifyApps, follow these steps:
   - `Is Manager`: Tick this box if the user is a manager.
 3. In **User Roles Tab** Select one or more user roles from the available options.
 
-  ![Frame 427319497.png](_img/e4023be6db319401.webp)
+  ![Frame 427319497.png](_img/04d2b69200838c02.webp)
 
 4. In **User Teams Tab** Select one or more user teams from the available options.
 
-  ![Frame 427319498.png](_img/284001647896acbc.webp)
+  ![Frame 427319498.png](_img/ccd93fba2330a4c6.webp)
 
 5. Click **"**`Create User`**"** to complete the process.
 

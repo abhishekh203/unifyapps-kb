@@ -11,7 +11,7 @@ Object selection is an important step in configuring your data pipelines within 
 
 This process involves choosing the necessary objects, such as **tables** in databases or **folders** in file storage systems like Amazon S3 and Google Cloud Storage.
 
-![Frame 427319214.png](_img/dcc5520c655a8c99.webp)
+![Frame 427319214.png](_img/1e1bd57a2af77eaa.webp)
 
 In this article, we'll walk you through the process of **object selection**, helping you understand:
 
@@ -36,7 +36,7 @@ These objects include:
   - Click the `Add Objects` button.
   - This action will open a third pane displaying the available objects from the source.
 
-    ![Frame 427319236.png](_img/cd0c4cfceb9654a7.webp)
+    ![Frame 427319236.png](_img/9666a94986cab927.webp)
 
 2. **Select Objects** Choose the objects you need by following these steps:
   - **Select the Required Objects**:
@@ -46,20 +46,20 @@ These objects include:
     - For database tables, you'll see a list of fields (**columns**).
     - For file storage systems, you might see sub-folders.
 
-      ![Frame 427319208 (9).png](_img/5025f9fc95902548.webp)
+      ![Frame 427319208 (9).png](_img/285bd9d93ca948e3.webp)
 
 3. **Select Fields** After expanding the objects, you can selectively choose the fields or sub-folders required for your data pipeline.
   - **Choose the Necessary Fields/Folders**:
     - Check the `boxes` next to the fields or folders you need.
     - The `Primary Keys` will be indicated in a separate column for database tables.
 
-      ![Frame 427319208 (10).png](_img/3eedab8bdf47de18.webp)
+      ![Frame 427319208 (10).png](_img/ac4c90e10de677b2.webp)
 
 4. **Save Selections** Once you have selected the necessary fields or folders, you need to save your selections to include them in your data pipeline.
   - **Save the Selected Objects and Fields/Folders**:
     - Click `Save` to add the selected objects and fields/folders to your data pipeline.
 
-      ![Frame 427319208 (11).png](_img/8c45a98987446284.webp)
+      ![Frame 427319208 (11).png](_img/e9dfbdc42c7bfdd7.webp)
 
 ## Objects List View
 
@@ -79,7 +79,7 @@ Each object in the list view has an object ingestion toggle that allows you to c
   - Turning off the sync `stops data movement` for the object but preserves the schema mapping.
   - This feature allows you to `re-enable sync` with the same mapping later.
 
-    ![Frame 427319208 (12).png](_img/4c54f6d3538b54cc.webp)
+    ![Frame 427319208 (12).png](_img/9dae9ca443ab687e.webp)
 
 ## Best Practices
 

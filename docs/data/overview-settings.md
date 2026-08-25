@@ -1,4 +1,4 @@
-# Overview
+# Overview settings
 
 Source: https://www.unifyapps.com/docs/unify-data/overview-settings
 Section: data
@@ -11,7 +11,7 @@ Data pipeline settings determine how your data processing operations behave, whe
 
 Proper configuration is essential for creating efficient and reliable data pipelines that meet your organization's needs.
 
-![Frame 427319232.png](_img/44649f20e1423e84.webp)
+![Frame 427319232.png](_img/5eda37aaeef8a407.webp)
 
 ## Pipeline Settings Retry on Failure
 
@@ -41,7 +41,7 @@ In case of `Interval`, you need to define the following conditions for your inte
 3. **Starting at**: Set the start time for the schedule.
 4. **Ending at**: Set an end time (if applicable).
 
-![Frame 427319233.png](_img/f662f78efabae4bd.webp)
+![Frame 427319233.png](_img/44aa48d544388fbb.webp)
 
 `Use Cases` **:**
 
@@ -56,7 +56,7 @@ In case of `Interval`, you need to define the following conditions for your inte
 
 `CRON` This provides support for standard CRON syntax for more complex scheduling needs.
 
-![Frame 427319234.png](_img/4812c40b67c40ec1.webp)
+![Frame 427319234.png](_img/8bbf916ad61cfb4c.webp)
 
 `Use Cases` **:**
 
@@ -76,7 +76,7 @@ This setting essentially defines the time frame from which the pipeline should i
 1. **Historical -** This is all the data present in the source before the pipeline was deployed.
 2. **Live -** Live data consists of new data coming to the source after the pipeline has been deployed.
 
-![Frame 427319235.png](_img/91f3a4807a73dd3f.webp)
+![Frame 427319235.png](_img/aa3c6e71624631f9.webp)
 
 So currently, you have three modes of data ingestion available to configure in your data pipeline:
 

@@ -30,7 +30,7 @@ GRANT INSERT, UPDATE, DELETE ON <schema>.<table> TO <username>;
 
 ## Connection Configuration
 
-![Frame 427319245.png](_img/51dbdde9905446d3.webp)
+![Frame 427319245.png](_img/a51e5295185181a6.webp)
 
 | **Parameter** | **Description** | **Example** |
 |---|---|---|
@@ -86,7 +86,7 @@ All common Oracle data types are supported, including specialized types for fina
 
 ## Destination Loading Timezone Configuration
 
-![Frame 427319296.png](_img/190ea6f1d5bb7e56.webp)
+![Frame 427319296.png](_img/b687de79173965e0.webp)
 
 When configuring your Oracle destination pipeline, you can set the Destination Loading Timezone in the pipeline settings tab:
 

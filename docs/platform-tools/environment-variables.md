@@ -11,7 +11,7 @@ Environment Variables in the UnifyApps platform are dynamic key-value pairs that
 
 These variables are resolved at runtime based on the environment in which the asset is deployed, enabling streamlined configuration without manual code changes.
 
-![Frame 427319345.png](_img/a77892a325c72931.webp)
+![Frame 427319345.png](_img/632a73cbece9612c.webp)
 
 ## Key Capabilities & Use Cases
 
@@ -43,7 +43,7 @@ They help in dynamically adapting the behavior of these elements per environment
 
 ## How to Create an Environment Variable?
 
-![Frame 427319346.png](_img/bca3e5f3663a8ab5.webp)
+![Frame 427319346.png](_img/e681580127e8ce85.webp)
 
 To create a new environment variable, follow these steps:
 
@@ -54,7 +54,7 @@ To create a new environment variable, follow these steps:
 5. Check `Mark as Sensitive` if the value is confidential (e.g., tokens, secrets)
 6. Click `Create`
 
-![Frame 427319347.png](_img/23548686e1efd802.webp)
+![Frame 427319347.png](_img/aaf1ea7d5e7ab0cb.webp)
 
 **Example:**
 
@@ -65,7 +65,7 @@ To create a new environment variable, follow these steps:
 
 > **Note:** When an automation or application using environment variables is **exported via a change set** to another environment the **variable key is retained** but the **value is not transferred**.
 
-![Frame 427319348.png](_img/dd62d0a8f0177111.webp)
+![Frame 427319348.png](_img/bb2d4f0d0bf2c546.webp)
 
 ## Best Practice
 

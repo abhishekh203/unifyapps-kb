@@ -9,7 +9,7 @@ Section: automations
 
 The Delay Node in UnifyApps is designed to manage timing within automation workflows by introducing pauses at key steps. It provides precise control over scheduling with options to delay actions until a specific date and time or for a set duration between actions.
 
-![Frame 427319365 (1).png](_img/b2b660517bb071f0.webp)
+![Frame 427319365 (1).png](_img/faab4ff514674e17.webp)
 
 ## Use Case Example
 
@@ -20,11 +20,11 @@ The Delay Node in UnifyApps is designed to manage timing within automation workf
 
 1. **Schedule Delay Until** The "`Schedule Delay Until`" action pauses an automation sequence until a specified date and time, enabling actions to occur precisely when needed. This is ideal for time-bound tasks that require specific future scheduling.
 
-  ![Frame 427319366 (1).png](_img/5590addf3e6a4de5.webp)
+  ![Frame 427319366 (1).png](_img/9c3d67c228ef1b3a.webp)
 
 2. **Set Delay Duration** The "`Set Delay Duration`" action introduces a fixed interval between actions in automation, allowing for controlled pauses between sequential steps. This is beneficial when actions need gradual timing rather than instant execution.
 
-  ![Frame 427319367 (1).png](_img/5470bfe2aff20c21.webp)
+  ![Frame 427319367 (1).png](_img/532f6ef92e8aa45c.webp)
 
 ## Notes
 

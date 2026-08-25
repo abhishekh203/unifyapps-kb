@@ -20,7 +20,7 @@ The Connector SDK can be accessed through the platform tools.
 1. Go to the platform tools and Click on "`Connector SDK`".
 2. You will see a list of all custom connectors created in the environment.
 
-  ![Frame 4584 (1).png](_img/c5420530f7c501ad.webp)
+  ![Frame 4584 (1).png](_img/3b599597ceeb9a79.webp)
 
 **Create a New Custom Connector**
 
@@ -28,14 +28,14 @@ Creating a new custom connector involves defining its basic properties. This ste
 
 1. Click on "`New Custom Connector`" in the top right corner.
 
-  ![Frame 4585.png](_img/b580a7bbc42ea803.webp)
+  ![Frame 4585.png](_img/b6335b53165dcc6b.webp)
 
 2. Enter the Connector Name (e.g., "Asana Custom Connector").
 3. Provide a description for better understanding.
 4. Enter the base URL (the consistent part or root of your website's address).
 5. Click the "`Create`" button.
 
-  ![Frame 4586.png](_img/e2235b045704bbaa.webp)
+  ![Frame 4586.png](_img/669e8e99b11ea43c.webp)
 
 ## Configure Authentication
 
@@ -43,13 +43,13 @@ Defining how your connector will authenticate with the target application involv
 
 1. In the Authentication tab, click on "`New Authentication`".
 
-  ![Frame 4587.png](_img/eee4cb1e93f7dece.webp)
+  ![Frame 4587.png](_img/52f153a066b65668.webp)
 
 2. Provide a name for the authentication method (e.g., "API Key").
 3. Define the authentication type for the API request (e.g., Access Token).
 4. Click the "`Create`" button.
 
-  ![Frame 4589.png](_img/90623cfd1f860c50.webp)
+  ![Frame 4589.png](_img/6d432caf5805d07a.webp)
 
 **Set Up Input Schema**
 
@@ -59,7 +59,7 @@ The input schema defines what information is required from the user for authenti
 2. You can set up the input schema through "`Setup using JSON`" or add fields manually.
 3. Create a field (e.g., "Access Token") with the appropriate field type (e.g., String).
 
-  ![Frame 4590.png](_img/10fefc0c487300b9.webp)
+  ![Frame 4590.png](_img/1c892dcf39652f25.webp)
 
 **Configure Connection Request**
 
@@ -70,7 +70,7 @@ The connection request specifies how the authentication information is sent to t
 3. Set the value for the header (e.g., "Bearer {{access_token}}").
 4. Click the "`Save`" button to establish authentication.
 
-  ![Frame 4591.png](_img/0f0a77297b574a23.webp)
+  ![Frame 4591.png](_img/1adb8a93bf241530.webp)
 
 ## Create an Action
 
@@ -83,7 +83,7 @@ Each action represents a specific operation your connector can perform. This ste
 3. Add a description (e.g., "Get task details using task ID in ASANA").
 4. Click the "`Create`" button.
 
-  ![Frame 4592.png](_img/f496b88b39c1105a.webp)
+  ![Frame 4592.png](_img/631c61fdc243e713.webp)
 
 **Configure Action Input**
 
@@ -91,7 +91,7 @@ Action inputs define what necessary data from the user is needed to perform the 
 
 1. Create fields in the input schema as required (e.g., "Task ID" as a string).
 
-  ![Frame 4593.png](_img/11aef390f64b5d6d.webp)
+  ![Frame 4593.png](_img/3f37865debefccc2.webp)
 
 **Define HTTP Request**
 
@@ -100,7 +100,7 @@ The HTTP request specifies how your connector interacts with the API. This step 
 1. Define the schema of the API manually or import a curl command.
 2. If you need to Map dynamic values that are being fetched from input as path or query parameter or as a header, then use double curly braces (e.g., {{task_id}}).
 
-  ![Frame 4594.png](_img/db76eee6bc930847.webp)
+  ![Frame 4594.png](_img/e49cdba760d3867f.webp)
 
 **Define Output Schema**
 
@@ -110,7 +110,7 @@ The output schema defines what data your action will return.
 2. Set up fields manually or use "`Setup using JSON`" with a sample output JSON schema.
 3. Click the "`Save`" button.
 
-  ![Frame 4595.png](_img/45f5a7ce2f8dc684.webp)
+  ![Frame 4595.png](_img/c1bb83bbd94a19ff.webp)
 
 **Deploy and Publish**
 

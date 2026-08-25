@@ -58,7 +58,7 @@ Text, Image, Audio, and Tabular Data (as shown in the tabs) each have unique cha
 3. Audio modality needs transcription settings.
 4. Tabular Data can be indexed through tables to sql or by generating simple embeddings.
 
-  ![Frame 427319322.png](_img/22133f0080573cc8.webp)
+  ![Frame 427319322.png](_img/b1abbc98d05748e6.webp)
 
 For Example, let’s assume in this scenario **Default Strategy** applies with:
 
@@ -116,39 +116,39 @@ To configure the Indexing process in UnifyApps AI Agents, follow these easy step
 
 1. Select an `Embedding Model` to convert organized data into vector points for fast retrieval. This will enable efficient matching against user queries.
 
-  ![Frame 427319323.png](_img/f86e632428e952ca.webp)
+  ![Frame 427319323.png](_img/31df4ca6325d5e31.webp)
 
 2. For `Indexing Strategies`,
   - Set the maximum number of characters allowed in each chunk of text to optimize retrieval in the “`Max Chunk Size`” field.
   - Then, Choose the “`Chunking Algorithm`” for how the content will be split into chunks.
 
-    ![Frame 427319324.png](_img/96fff969a24a1429.webp)
+    ![Frame 427319324.png](_img/f175017464be00fa.webp)
 
   - You can also choose different algorithms for different MIME types and can customize indexing settings based on the MIME type.
 
-    ![Frame 427319325.png](_img/8b3652995839b3ec.webp)
+    ![Frame 427319325.png](_img/faa2e80169742523.webp)
 
   - Optionally, you can add a delimiter to define where splits in the data should occur.
 
-    ![Frame 427319327.png](_img/78809fe1ca5f8a67.webp)
+    ![Frame 427319327.png](_img/1432eadc6d1527b0.webp)
 
   - You can toggle the “`Use Summarizing Model`” option to create concise summaries of longer text chunks.
 
-    ![Frame 427319328.png](_img/470b3889ec5dfc3f.webp)
+    ![Frame 427319328.png](_img/c66c1f4531000735.webp)
 
 3. For `Metadata Enrichment`,
   - Choose the “`Processing Method`” to process and extract metadata from your content.
   - Then, “`Select a Model`” that will assist in metadata extraction.
 
-    ![Frame 427319330 (1).png](_img/947ddc1660c39ca4.webp)
+    ![Frame 427319330 (1).png](_img/46919d75c380a770.webp)
 
   - Optionally, you can add custom metadata Parameters to enrich the indexing process by clicking on the “`Add Parameter`” button.
 
-    ![Frame 427319331.png](_img/f7219d4f9bf29e38.webp)
+    ![Frame 427319331.png](_img/7f9bf002551dcc35.webp)
 
   - Define a “`Vector Store`” for storing the data that will be indexed. This storage helps quickly find and retrieve relevant data points.
 
-    ![Frame 427319332.png](_img/c2575cc7cca03d20.webp)
+    ![Frame 427319332.png](_img/0dee868a755e5b9f.webp)
 
 These steps allow you to organize and structure data efficiently for faster lookup and retrieval in UnifyApps AI Agents.
 

@@ -1,4 +1,4 @@
-# Utilities
+# Utilities component
 
 Source: https://www.unifyapps.com/docs/unify-applications/utilities
 Section: applications

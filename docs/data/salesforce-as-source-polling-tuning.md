@@ -18,7 +18,7 @@ When configuring Salesforce as a source in your data pipeline, the polling mecha
 
 ## Configuring Polling Settings for Salesforce
 
-![Frame 427319243 (4).png](_img/52ffe192c7cbc285.webp)
+![Frame 427319243 (4).png](_img/f64caf7ec941442f.webp)
 
 To configure polling settings for your Salesforce source:
 

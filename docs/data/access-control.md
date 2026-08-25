@@ -1,11 +1,11 @@
-# Access Control
+# Access control
 
 Source: https://www.unifyapps.com/docs/unify-data/access-control
 Section: data
 
 ---
 
-![Group_41.png](_img/8b24385423b9cda5.webp)
+![Group_41.png](_img/09ec3e0cd6f80f26.webp)
 
 Access Control in the UnifyApps Unified Data Model (MDM) is powered by a **Role-Based Access Control (RBAC)** framework. This system ensures that users only see and interact with the data they are permitted to access. 
  Using RBAC, administrators can define roles, configure access policies, and apply granular controls at both the **record level** and **attribute (column) level**, ensuring strong data governance across the platform.
@@ -28,7 +28,7 @@ An Access Control Policy defines **how much** of an Entity’s data a role is al
 
 ## How Access Control Works
 
-![Group_42.png](_img/532445b2d94280fb.webp)
+![Group_42.png](_img/8ce1273b277dba7c.webp)
 
 1. **Create a Role** Administrators define a role representing a category of users with similar responsibilities or access needs.
 2. **Configure an Access Control Policy** For each policy, define:

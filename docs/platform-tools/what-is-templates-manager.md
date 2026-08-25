@@ -46,4 +46,4 @@ The system supports dynamic content insertion through variables, allowing person
 1. **Template Naming:** Assign a unique identifier that will appear in the template library
 2. **Communication Channel Selection**: Users can specify the delivery method (Email, WhatsApp, SMS, or Prompt)
 
-![Frame 427319356 (4).png](_img/fbdb56ebaac877e8.webp)
+![Frame 427319356 (4).png](_img/244b7bc3a7f07645.webp)

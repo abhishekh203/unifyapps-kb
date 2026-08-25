@@ -19,11 +19,11 @@ Experiments are structured evaluation sessions that:
 
 ## Create a New Experiment
 
-![Frame 427319430.png](_img/9eb80b3ef6aa2ff1.webp)
+![Frame 427319430.png](_img/8ee0c716c7b62b0e.webp)
 
 Creating an experiment brings together your datasets, metrics, and evaluation targets into a cohesive testing framework. Here's how to set up comprehensive agent evaluations.
 
-![Frame 427319431.png](_img/f310644a996feaa3.webp)
+![Frame 427319431.png](_img/c72c9fef88f06ed3.webp)
 
 **Step 1: Configure Basic Details**
 
@@ -32,7 +32,7 @@ Navigate to the Experiments section and click "`Create New Experiment`" to begin
 - `Name`: Provide a descriptive identifier (e.g., "Experiment for Banking Agent")
 - `Description`: Document the experiment's purpose and scope (e.g., "Evaluating the Banking Agent on adverse scenarios during the account opening journey")
 
-![Frame 427319432.png](_img/d5d4840a4f0ddcb4.webp)
+![Frame 427319432.png](_img/e6cd6c97df36a30b.webp)
 
 **Step 2: Select Dataset and Output Source**
 
@@ -52,7 +52,7 @@ Navigate to the Experiments section and click "`Create New Experiment`" to begin
   - Choose the specific version to test
   - Useful for testing workflow-based implementations
 
-![Frame 427319433.png](_img/cda5e2248f0d1607.webp)
+![Frame 427319433.png](_img/e5440d8069d65a73.webp)
 
 **Step 3: Select Evaluation Metrics**
 
@@ -78,7 +78,7 @@ You can filter metrics using:
 - Type filters (AI, Automation, Human in the loop)
 - Sort options for easier navigation
 
-![Frame 427319434.png](_img/2c37a73fca877921.webp)
+![Frame 427319434.png](_img/101f67adc99b3ef7.webp)
 
 **Step 4: Configure Custom Evaluator Metrics**
 

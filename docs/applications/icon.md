@@ -1,4 +1,4 @@
-# Icon
+# Icon component
 
 Source: https://www.unifyapps.com/docs/unify-applications/icon
 Section: applications
@@ -9,7 +9,7 @@ Section: applications
 
 An icon is a small image or symbol used to **represent a function** in an application. This article will walk you through how you can configure icon components.
 
-![Frame 427319205 (15).png](_img/81c3bbbd1432e1dc.webp)
+![Frame 427319205 (15).png](_img/f6e839d290939f3d.webp)
 
 ## Key Properties
 

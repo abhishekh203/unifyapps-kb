@@ -1,11 +1,11 @@
-# Configure Tools
+# Configure tools
 
 Source: https://www.unifyapps.com/docs/unify-agentic-ai/configure-tools
 Section: agentic-ai
 
 ---
 
-![Frame 427319441.png](_img/f6ea17b6a162bdef.webp)
+![Frame 427319441.png](_img/a749ed570a1eb005.webp)
 
 UnifyApps comes equipped with an extensive library of default tools that seamlessly integrate with your AI Agents, enabling them to perform complex operations across multiple platforms without writing a single line of code. These pre-built integrations empower your agents to pull data directly from various sources, trigger workflows, and execute actions across your entire tech stack. Let's explore how to leverage these powerful default tools to create sophisticated AI-driven automations.
 

@@ -21,4 +21,4 @@ Successfully processing a rejected record involves a three-step loop: Analyze, C
 2. **Correct the Issue** Basedon your analysis, take the necessary corrective action:
 3. **Resubmit the Record** Once the underlying issue is resolved, you can re-process the record
 
-![Group_55.png](_img/309971dd072644d7.webp)
+![Group_55.png](_img/18bfac3c4acd56ab.webp)

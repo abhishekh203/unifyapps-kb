@@ -36,7 +36,7 @@ There are multiple ways in which you can enable access and resolve timeout issue
   - Verify SSH key permissions
   - Ensure the tunnel endpoint is correctly specified
 
-![Frame 4727.png](_img/16c69971cd3b7f92.webp)
+![Frame 4727.png](_img/e4ad3bd528d921f2.webp)
 
 ## Incorrect Input Details
 
@@ -64,7 +64,7 @@ This section encompasses a broad category of errors that arise when the provided
   - Verify port numbers match service requirements
   - Check service-specific documentation for parameter formats
 
-![Frame 4728.png](_img/65939c7784708e5a.webp)
+![Frame 4728.png](_img/4389b6345cca7d2e.webp)
 
 ## Mandatory Fields Not Filled
 
@@ -81,7 +81,7 @@ This error type occurs when required configuration fields are left empty. Each i
   - Validate field format requirements
   - Ensure all dependent fields are properly configured
 
-![Frame 4729.png](_img/4701fd1389332de3.webp)
+![Frame 4729.png](_img/3fb0a42ec216cf37.webp)
 
 ## OAuth Redirection Issues
 
@@ -115,12 +115,12 @@ OAuth redirection errors are specific to connections that utilise OAuth authenti
 - Look for the specific error message in the alert banner, which briefly describes what went wrong during the connection attempt.
 - Use the "`Show Details`" button to open an expanded error panel on the right side of your screen.
 
-  ![Frame 4730.png](_img/63d1a4a29cf0f027.webp)
+  ![Frame 4730.png](_img/85abcb6956bd281c.webp)
 
 - The expanded error panel directly displays the complete error response from the service you're trying to connect to.
 - Review the technical details in the error panel, which include HTTP status codes, timestamps, and service-specific error messages.
 
-  ![Frame 4731.png](_img/6b5b1c5f69949158.webp)
+  ![Frame 4731.png](_img/45cfc2f16a7b0625.webp)
 
 - You can follow some general sanity checks, such as:
   - Verify that all required fields in your connection configuration have been filled out correctly.

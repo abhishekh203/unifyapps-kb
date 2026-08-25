@@ -1,4 +1,4 @@
-# QR Code
+# QR code component
 
 Source: https://www.unifyapps.com/docs/unify-applications/qr-code
 Section: applications
@@ -25,32 +25,32 @@ By choosing the right type, you can turn any part of your app into an interactiv
   - Click `+ Add Component` on your page or Stack.
   - Search for “`QRCode`” and select the **QRCode** tile.
 
-    ![Frame 427319365 (2).png](_img/277ae51722c6da62.webp)
+    ![Frame 427319365 (2).png](_img/7febc811a964a4de.webp)
 
 2. **Content Types** Switch to the `Content` tab and pick your type:
   - `URL`
     - **Type:** URL
     - **URL field:** Enter any link (e.g. https://www.unifyapps.com)
 
-      ![Frame 427319366 (2).png](_img/d19c803c46013df0.webp)
+      ![Frame 427319366 (2).png](_img/00fe83e495e0bb1b.webp)
 
   - `Text`
     - **Type:** Text
     - **Text field:** Enter your string (up to 1 KB)
 
-      ![Frame 427319367 (2).png](_img/e6aa43e87e3326e9.webp)
+      ![Frame 427319367 (2).png](_img/a3af4e255d4ba95e.webp)
 
   - `Visiting Card`
     - **Type:** Visiting Card
     - **Fields:** Populate Name, Mobile, Email, Company, Address, etc.
 
-      ![Frame 427319368 (1).png](_img/a2f45826599d04cf.webp)
+      ![Frame 427319368 (1).png](_img/317261d62921fc05.webp)
 
 3. **Add-ons** Optionally overlay a logo on your QR code:
   - Under `Add-ons`, click `+ Logo`.
   - Provide an `Image URL`, `Alt Text`, and choose `Image Fitting`.
 
-    ![Frame 427319369 (1).png](_img/5fb45d7b4e76720f.webp)
+    ![Frame 427319369 (1).png](_img/5b1b46501d8d56dd.webp)
 
 4. **Appearance** Fine-tune layout and visibility in the **Appearance** tab:
   - **Width / Height** (px or %)
@@ -58,4 +58,4 @@ By choosing the right type, you can turn any part of your app into an interactiv
   - **Rotation** (degrees)
   - **Visibility** toggles (static or rule-based)
 
-    ![Frame 427319370 (1).png](_img/d9d9a66e5ef5d595.webp)
+    ![Frame 427319370 (1).png](_img/a76f5df358068acd.webp)

@@ -21,27 +21,27 @@ To configure the Response Generation settings for an AI Agent:
 
 1. Select the “`Answer Generation Model`” which is responsible for generating answers based on the input query and available data.
 
-  ![Frame 427319447.png](_img/7e51b6886346a8e7.webp)
+  ![Frame 427319447.png](_img/0fba4d99fcbd7aed.webp)
 
 2. Choose the `language type` in which the agent will communicate with users.
 
-  ![Frame 427319446.png](_img/8678110192ad1a7f.webp)
+  ![Frame 427319446.png](_img/fde91e10ad465d9d.webp)
 
 3. Set the overall `Tone` of the Agent’s responses. You can select Neutral, Friendly, Formal, or Empathetic based on how the AI is expected to interact with users.
 
-  ![Frame 427319445.png](_img/a54d9518acf3ccc0.webp)
+  ![Frame 427319445.png](_img/0106ec62a6c741fd.webp)
 
 4. Define the writing `Style` for the agent’s replies. It can be Conversational, Technical, Narrative, or Instructional depending on the context of the conversations.
 
-  ![Frame 427319444.png](_img/778a105029dae22f.webp)
+  ![Frame 427319444.png](_img/a657b73906e79739.webp)
 
 5. Specify the `Format` of the responses to be presented.
 
-  ![Frame 427319443.png](_img/7c4f99529f90fecc.webp)
+  ![Frame 427319443.png](_img/c31d482410625acd.webp)
 
 6. Toggle `Chain of Thought` to show agent's step-by-step reasoning process.
 
-  ![Frame 427319442.png](_img/aebf98385b43af47.webp)
+  ![Frame 427319442.png](_img/2c911f637e9f7e1b.webp)
 
 7. Enable `Watermarking` to add identifiers to any agent-generated images for verification purposes. Choose a watermarking technique and input custom text for the watermark, if necessary.
 

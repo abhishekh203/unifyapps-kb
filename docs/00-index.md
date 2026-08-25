@@ -3,23 +3,26 @@
 Source site: https://www.unifyapps.com/docs (pulled and saved locally; local-first from here on).
 
 > **To find a page fast, use [`MANIFEST.md`](MANIFEST.md)** — curated one-line descriptions for all
-> 361 pages + a topic quick-jump (data sources, pagination, callables, transforms, …). Use it before grepping.
+> 388 pages + a topic quick-jump (data sources, pagination, callables, transforms, …). Use it before grepping.
 
-**All conceptual sections fully scraped to local markdown (363 pages)** via `scripts/scrape_docs.py`
-(re-runnable; skips already-saved). Only the 1000+ connectors stay fetch-on-use.
+**All conceptual sections fully scraped to local markdown (388 pages)** via `scripts/scrape_docs.py`
+(re-runnable; skips already-saved; `--force` to refresh; `--connectors` includes unify-integrations).
+Connectors are now fully mirrored too (2026-08-25) — the whole docs site is local.
+**Last full refresh from the site: 2026-08-25** (27 new pages added; connector pages formerly under
+unify-automations moved to unify-integrations on the site — local copies kept in `automations/`).
 
 The 8 "courses" / sections:
 
 | # | Section | Local folder | Pages | Status |
 |---|---------|-----------|------|--------|
-| 1 | Unify Applications (no-code app builder) | `applications/` | 78 | ✅ fully saved |
-| 2 | Unify Automations (workflows) | `automations/` | 103 | ✅ fully saved |
-| 3 | Unify Data (replication, objects, transforms) | `data/` | 99 | ✅ fully saved |
-| 4 | Unify Agentic AI (agents) | `agentic-ai/` | 49 | ✅ fully saved |
-| 5 | Unify Integrations (connectors) | `integrations/` | 247 listed | 🔎 [`integrations/INDEX.md`](integrations/INDEX.md) — names+URLs; fetch each page on first use |
-| 6 | Embedded Integrations (SDKs) | `embedded-integrations/` | 9 | ✅ fully saved |
-| 7 | Platform Tools | `platform-tools/` | 12 | ✅ fully saved |
-| 8 | Governance (policies, roles, compliance) | `governance/` | 11 | ✅ fully saved |
+| 1 | Unify Applications (no-code app builder) | `applications/` | 79 | ✅ fully saved |
+| 2 | Unify Automations (workflows) | `automations/` | 107 | ✅ fully saved |
+| 3 | Unify Data (replication, objects, transforms) | `data/` | 105 | ✅ fully saved |
+| 4 | Unify Agentic AI (agents) | `agentic-ai/` | 52 | ✅ fully saved |
+| 5 | Unify Integrations (connectors) | `integrations/` | 288 | ✅ fully saved — [`integrations/INDEX.md`](integrations/INDEX.md) |
+| 6 | Embedded Integrations (SDKs) | `embedded-integrations/` | 11 | ✅ fully saved |
+| 7 | Platform Tools | `platform-tools/` | 13 | ✅ fully saved |
+| 8 | Governance (policies, roles, compliance) | `governance/` | 21 | ✅ fully saved |
 
 Each `overview.md` is a hand-written summary; the other files are the scraped article pages
 (full click-by-click builder steps — these are the real depth). 24 category/hub pages had no body

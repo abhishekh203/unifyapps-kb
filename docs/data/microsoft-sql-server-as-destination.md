@@ -13,7 +13,7 @@ Microsoft SQL Server is widely used for enterprise applications including busine
 
 ## Connection Configuration
 
-![Frame 427319308 (3).png](_img/b441d5127f66815e.webp)
+![Frame 427319308 (3).png](_img/305eb02b65bbac45.webp)
 
 | **Parameter** | **Description** | **Example** |
 |---|---|---|
@@ -41,7 +41,7 @@ UnifyApps provides flexible configuration options for MSSQL destinations through
 
 **Destination Timezone (Optional)**
 
-![Frame 427319308 (3).png](_img/cdf0602107ca0c1f.webp)
+![Frame 427319308 (3).png](_img/ccd8fcbef6a046ef.webp)
 
 The Destination Timezone setting in the Pipeline Settings tab allows you to adjust the timezone of date and time fields when loading data to your destination.
 

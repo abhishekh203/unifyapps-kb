@@ -1,4 +1,4 @@
-# Text
+# Text component
 
 Source: https://www.unifyapps.com/docs/unify-applications/text
 Section: applications
@@ -16,7 +16,7 @@ In this article you will learn about how to configure text components..
 1. **Text**: This field expects the actual text content to be displayed. You can use Data Pills as well to show Dynamic Content.
 2. **Type**: This field defines the format of the text like plain text, HTML, or other markup languages. **Note:** Data Pills can be used to dynamically populate the text content from various data sources. For more information on data mapping, refer to the [Data Pills](/docs/unify-applications/text)article.
 
-  ![Group 68.png](_img/26f37f75bdd4094b.webp)
+  ![Group 68.png](_img/ff65dc2336fe2063.webp)
 
 ## Style Text Component
 
@@ -33,7 +33,7 @@ The appearance of the Text component can be customized to fit the design require
 | `Min Width` | Set the minimum width. |
 | `Max Width` | Set the maximum width. |
 
-![Frame 427319208 (1).png](_img/10b3eeb1550a3bd8.webp)
+![Frame 427319208 (1).png](_img/716394eb3cb4babc.webp)
 
 ## Best Practices
 

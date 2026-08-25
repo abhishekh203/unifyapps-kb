@@ -1,4 +1,4 @@
-# Loader
+# Loader component
 
 Source: https://www.unifyapps.com/docs/unify-applications/loader
 Section: applications
@@ -23,16 +23,16 @@ This is the primary setting that determines the visual style of the loading indi
 - `AI Loader`**:** Displays a specific animation themed around AI processing (often represented by a chat bubble or similar icon). This type does not have a separate size option.
 - `Content Loader`**:** Displays a placeholder animation typically used to indicate that content sections are loading (often resembling lines or blocks where content will appear). This type does not have a separate size option.
 
-![Master - Do not Edit@3x (8).png](_img/a1260f2cd0174c37.webp)
+![Master - Do not Edit@3x (8).png](_img/5462ec7534d5b149.webp)
 
-![Frame 427319272 (1).png](_img/dd6a865f30d793bd.webp)
+![Frame 427319272 (1).png](_img/263c51b713d8f024.webp)
 
 ### Visibility
 
 - Control when the Loader component is displayed or hidden. This is crucial for showing the loader only when necessary (e.g., while a data source is fetching).
 - Use the conditional visibility settings (eye icon, link icon, formula icon) to define rules based on application state or data source properties
 
-  ![Master - Do not Edit (65).png](_img/0429fe4ba0b3b874.webp)
+  ![Master - Do not Edit (65).png](_img/cc235cfd02c3dd52.webp)
 
 ### Layout
 
@@ -44,7 +44,7 @@ This is the primary setting that determines the visual style of the loading indi
 - **Flex Layout:** Control alignment and distribution if the loader is within a Flex container.
 - **Visibility (Layout):** Basic visibility toggle within layout settings.
 
-  ![Frame 427319273 (3).png](_img/23406c94a7abaefb.webp)
+  ![Frame 427319273 (3).png](_img/146cec645bbac508.webp)
 
 ## Best Practices
 

@@ -11,7 +11,7 @@ Components serve as the building blocks of your application, enabling you to **d
 
 In this article, you will learn about the types of components and how to add them to your interface.
 
-![Frame 427319210 (1).png](_img/31ded3ae1e896ad2.webp)
+![Frame 427319210 (1).png](_img/389903bfb98bbafa.webp)
 
 ## Layout Components
 
@@ -81,7 +81,7 @@ These elements are designed for repeating patterns, such as lists or grids, enab
 
 1. **Access the Component Library** Navigate to the left sidebar to explore various categories of components such as **Layout**, **Rich**, **Repeatables**, and **Basic**. Browse through the available components and select the ones that best fit your application’s needs. **Note:** It’s always recommended to rename the component. Click the component in the hierarchy panel, select "**Rename**" from the three-dot menu, type the new name, and the name of your component will be changed.
 
-  ![Light template.png](_img/dfbf14f3e6b7b0e3.webp)
+  ![Light template.png](_img/e71bc2aef9992366.webp)
 
 2. **Configure Component Properties** Click on the component to open its properties panel on the right side, where you can modify settings like **data bindings**, **appearance**, and **interactions**, **permissions** & much more. You can read more about properties of each component in their specific articles. **Note:** Before you start adding components, create a **rough sketch** of your application layout. This will help you visualize the structure and placement of various elements.
 

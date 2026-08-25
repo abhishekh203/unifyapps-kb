@@ -1,4 +1,4 @@
-# Nested Table
+# Nested table component
 
 Source: https://www.unifyapps.com/docs/unify-applications/nested-table
 Section: applications
@@ -13,7 +13,7 @@ The **Nested Table** component allows you to display data in a hierarchical stru
 
 You may configure the Data Table component by following the below steps:
 
-![Master - Do not Edit (55).png](_img/998febaa8d1fff31.webp)
+![Master - Do not Edit (55).png](_img/aa1b2b96f76a48b2.webp)
 
 1. Add a Nested Table component to your canvas
 2. **Content Configuration**
@@ -22,7 +22,7 @@ You may configure the Data Table component by following the below steps:
   - **Columns**: Defines the columns for each row. You can add standard columns or insert a nested table as a column.
 3. **Nested Table Configuration**
 
-  ![Master - Do not Edit (56).png](_img/b625b3372c66f1e2.webp)
+  ![Master - Do not Edit (56).png](_img/44f6ab2fe9cf1f44.webp)
 
   - **Data Source:** Defines the data displayed in the nested table. It must also be an array of objects, with each object representing a row in the nested table.
   - **Has Children**: Specifies the key in the parent row that determines if child rows exist. This enables the expand/collapse functionality.

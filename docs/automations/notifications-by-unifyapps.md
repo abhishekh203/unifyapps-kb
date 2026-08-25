@@ -9,7 +9,7 @@ Section: automations
 
 The Notification by UnifyApps node provides a seamless way to manage and trigger notifications across various workflows. This node is ideal for maintaining communication consistency, fetching user-specific preferences, and sending tailored alerts to enhance user engagement.
 
-![Frame 427319219 (10).png](_img/dde6b7d54b2f12a8.webp)
+![Frame 427319219 (10).png](_img/ed08e15125e39baa.webp)
 
 ## Use Cases
 
@@ -19,7 +19,7 @@ The Notification by UnifyApps node provides a seamless way to manage and trigger
 
 ## Fetch Notifications
 
-![Frame 427319221 (8).png](_img/8fe128893575f1f2.webp)
+![Frame 427319221 (8).png](_img/7c3c1da9aeef628e.webp)
 
 Retrieve notifications based on specific tag filters. This action is useful for obtaining user activity or alert logs with detailed metadata.
 
@@ -35,7 +35,7 @@ Retrieve notifications based on specific tag filters. This action is useful for 
 
 ## Get Notification Preferences
 
-![Frame 427319224 (4).png](_img/e74417bc2200e1ef.webp)
+![Frame 427319224 (4).png](_img/554163259317a580.webp)
 
 Fetch the notification preferences for a specific user and event type. Useful for understanding how users have configured their alert settings.
 
@@ -52,13 +52,13 @@ Fetch the notification preferences for a specific user and event type. Useful fo
 
 ## Send Notification
 
-![Frame 427319225 (5).png](_img/3833e40f63d53485.webp)
+![Frame 427319225 (5).png](_img/ab0b77042c5b464e.webp)
 
 Trigger a custom notification for specific users or groups. Enables real-time alerts tailored to events or user actions.
 
 **Input Requirements:**
 
-![Frame 427319226 (5).png](_img/52dd6fd8312ed8ae.webp)
+![Frame 427319226 (5).png](_img/d5682b57cbb2b391.webp)
 
 - `Application ID`**:** Choose the application context (optional).
 - `Event Type`**:** Select the event triggering the notification (e.g., export delayed).

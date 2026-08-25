@@ -1,4 +1,4 @@
-# Version Control
+# Version control component
 
 Source: https://www.unifyapps.com/docs/unify-applications/version-control
 Section: applications
@@ -19,7 +19,7 @@ Version Control in UnifyApps enables users to track, manage, and restore previou
   - Published By
   - Published On
 
-![Frame 427319402.png](_img/06d10a31c78aa448.webp)
+![Frame 427319402.png](_img/ef150d405da38b1d.webp)
 
 **Version Restoration**
 
@@ -42,12 +42,12 @@ Version Control in UnifyApps enables users to track, manage, and restore previou
 1. Locate the desired version in the version list
 2. Click the "`Restore this version`" button
 
-![Frame 427319401.png](_img/fb3db0f643243ee5.webp)
+![Frame 427319401.png](_img/295f4a9c0c66a885.webp)
 
 3. Confirm the restoration
 4. The system will display a confirmation message: "`Application restored successfully`"
 
-![Frame 427319400.png](_img/7f09ef18f077d000.webp)
+![Frame 427319400.png](_img/d73492d9ecf2d743.webp)
 
 ## Supported Information
 

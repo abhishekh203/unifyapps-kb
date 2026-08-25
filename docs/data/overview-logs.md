@@ -1,4 +1,4 @@
-# Overview
+# Overview Logs
 
 Source: https://www.unifyapps.com/docs/unify-data/overview-logs
 Section: data
@@ -18,7 +18,7 @@ Understanding these metrics is crucial for maintaining efficient data movements 
   - **Why it matters?**: It tells you how much data you're dealing with.
   - **Example**: If you usually process 10,000 customer records daily, but today you see 50,000, it might mean there's a big new batch of customers or possibly a data error.
 
-    ![Frame 427319237 (1).png](_img/fcdb5d1a58c26cb4.webp)
+    ![Frame 427319237 (1).png](_img/bea6048217e409dd.webp)
 
 2. Load Successful
   - **Description**: How many records were successfully added to your destination system.
@@ -40,47 +40,47 @@ Understanding these metrics is crucial for maintaining efficient data movements 
   - **Why it matters?**: Helps you spot patterns or times when issues often occur.
   - **Example**: If you notice that most failed loads happen around 2 AM every night, you might find that's when another big job is running, causing conflicts.
 
-    ![Frame 427319236 (2).png](_img/195ded969c57c81a.webp)
+    ![Frame 427319236 (2).png](_img/c27fcc40742c10a0.webp)
 
 7. Throughput
   - **Description**: How many records your system processes per minute or second.
   - **Why it matters?**: Shows how fast your system is working.
   - **Example**: If you normally process 1,000 records per minute, but it drops to 500, something might be slowing your system down.
 
-    ![Frame 427319236 (3).png](_img/ed572657b2228930.webp)
+    ![Frame 427319236 (3).png](_img/c9be390a95a78a5a.webp)
 
 8. Read Latency
   - **Description**: How long it takes to read a record from the source objects.
   - **Why it matters?**: Important for when you need up-to-date data quickly.
   - **Example**: If it usually takes a few seconds for new sales data to be available for reporting, but now it's taking 5 minutes, your sales team might be working with outdated information. **Note:** Read latency is 0 for Snapshot phase, since during that time all the load is read at once. Hence, the read latency graph will not be present during snapshot phase.
 
-    ![Frame 427319238 (1).png](_img/5f02fc0afa6c2328.webp)
+    ![Frame 427319238 (1).png](_img/745aabaea3db0019.webp)
 
 9. Average Processing Duration
   - **Description**: The average time it takes to process one record.
   - **Why it matters?**: Helps you understand and plan for how long jobs will take.
 
-    ![Frame 427319238 (2).png](_img/7a6128af1ebd1acf.webp)
+    ![Frame 427319238 (2).png](_img/9e77f49725b6a9a5.webp)
 
 10. Logs Table
   - **Description**: A detailed list showing how different types of data were processed.
   - **Why it matters?**: Lets you see if certain types of data are causing more issues than others.
   - **Example**: You might see that while most data types have few issues, address data has a high failure rate, indicating you need to look at how addresses are being handled.
 
-    ![Frame 427319213 (2).png](_img/348f2fe0e519e195.webp)
+    ![Frame 427319213 (2).png](_img/35715263b71665b4.webp)
 
 11. Object Logs
   - **Description**: Detailed logs for individual records processed for an object.
   - **Example?**: Log entry showing a specific record failed due to error in performing transformation.
   - **Use Case**: Investigating why the transformation failed. For instance, a cast transformation from string to date might fail if it actually receives a string in the source.
 
-    ![Frame 427319214 (3).png](_img/f7c48db5793c762e.webp)
+    ![Frame 427319214 (3).png](_img/2d7c9cf0445ebb15.webp)
 
 12. Record Details
   - **Record Status**: Indicates the status of the record
   - **Error Message**: Specifies the nature of the failure (transformation error in this case).
 
-    ![Frame 427319215 (3).png](_img/bc49e0a299be32fc.webp)
+    ![Frame 427319215 (3).png](_img/bae989d31cb1aa1e.webp)
 
 ## Event Details
 
@@ -111,7 +111,7 @@ Understanding these metrics is crucial for maintaining efficient data movements 
 
 - This shows the entire source event query.
 
-![Frame 427319216 (2).png](_img/4618f861876042bf.webp)
+![Frame 427319216 (2).png](_img/652b3457c8adebb5.webp)
 
 ## Using Filters Effectively
 
@@ -125,7 +125,7 @@ Use time filters to zoom in on specific periods:
 
 **Example**: By looking at the last 24 hours, you might see that most errors happen right after midnight, when your daily update job runs.
 
-![Frame 427319217 (2).png](_img/51ab923bf00fc223.webp)
+![Frame 427319217 (2).png](_img/83d7f08c5a804a1c.webp)
 
 **Other Filters**
 
@@ -137,7 +137,7 @@ Combine filters to pinpoint issues:
 
 **Example**: By filtering for "`Accounts`" and Time filter as “`Last Quarter`” you will discover the trends for data transfer of all the account data during the last quarter.
 
-![Frame 427319211 (5).png](_img/dad3ab65db9be737.webp)
+![Frame 427319211 (5).png](_img/477c604837d47896.webp)
 
 ## Tips for Using Logs
 

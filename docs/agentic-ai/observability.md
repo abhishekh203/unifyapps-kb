@@ -18,7 +18,7 @@ Track and analyze individual user interactions with your agent:
   - Average traces per session
   - Average token consumption
 
-    ![Frame 427319472.png](_img/39430bad11d909c3.webp)
+    ![Frame 427319472.png](_img/1c3d40fd2f102de4.webp)
 
 ## Traces
 
@@ -34,7 +34,7 @@ Understand the technical flow of agent interactions by examining how messages ar
   - Average latency
   - Average token consumption
 
-    ![Frame 427319473.png](_img/7c3419370099bbdf.webp)
+    ![Frame 427319473.png](_img/64a52728b9a4868c.webp)
 
 Both traces and sessions serve different purposes. Sessions just provides the interaction overview between user and agent. Whereas traces focus on summarizing how bot is responding to user query for every conversation pair.
 

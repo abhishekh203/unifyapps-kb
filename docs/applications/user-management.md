@@ -1,4 +1,4 @@
-# User Management
+# User management component
 
 Source: https://www.unifyapps.com/docs/unify-applications/user-management
 Section: applications
@@ -7,85 +7,62 @@ Section: applications
 
 ## Overview
 
-User management is a crucial aspect of application governance. It allows you to **control** access, **assign** roles, and **organize** users into teams to maintain security, streamline automations, and ensure proper data access within your application.
+The User Management feature in Application Governance by UnifyApps helps manage application user access efficiently. It facilitates the assignment of roles, teams, and specific permissions through role-based access control (RBAC), ensuring secure and organized user management within applications.
 
-This article will help you with user management tasks.
+## Use Cases
 
-## Add New Users
+**Access Control**
 
-To add a new user to your application:
+Administrators assign roles and teams to application users, ensuring appropriate access levels based on responsibilities and security requirements.
 
-![Frame 427319218 (7).png](_img/ff99e801d4931b12.webp)
+**Compliance and Security**
 
-1. Navigate to the "`Settings`" tab of your application.
-2. Click on "`Governance`" in the left sidebar.
-3. Select "`Users`" from the submenu.
-4. Click the "`+ New User`" or "`+ Add User`" button.
-5. Fill in the required user details:
-  - Name
-  - Username
-  - Password
-  - State
-  - Email
-  - Any additional fields based on your user object schema **Note:** The input fields for users are dependent on the schema of the users object in Unify Objects. You can customize and expand user information by modifying the schema of the user object.
-6. Click "`Create User`" to add the new user to your application.
+Organizations enforce RBAC by configuring precise user permissions, enhancing compliance with internal security policies and regulatory standards.
 
-## Change User Role & Permissions
+## Step-by-Step Guide
 
-Roles and permissions define what actions a user can perform within the application.
+**Assign Roles and Teams (Outside Builder in Settings)**
 
-![Frame 427319219 (6).png](_img/8c2413477ea7f36b.webp)
+1. Navigate to the Application Governance section.
+2. Select the `User Management` tab.
 
-To change a user's role and permissions:
+  ![Frame 427319413.png](_img/0ecafaf502a5f926.webp)
 
-1. Go to the Users section in Governance settings.
-2. Find the user you want to modify and click the three dot"`...`" menu.
-3. Select "`Roles`" from the dropdown.
-4. In the "`User Roles`" tab, check or uncheck roles as needed.
-5. Click "`Save`" to apply the changes.
+3. Click on the `Add User` button.
+4. Select the user from the dropdown menu.
+5. Assign the appropriate `Role` and `Team` from the dropdown.
 
-## Change User Team
+![Frame 427319410.png](_img/705a84c5fe4f0f26.webp)
 
-Teams help organize users into groups for easier management and access control.
+**Set Access Conditions (Inside Builder)**
 
-![Frame 427319220 (5).png](_img/705b0bb3edcf9a5a.webp)
+- Open the application builder.
+- Select the specific item in the builder for which you want to define access conditions.
+- Click on `Add Condition`.
+- Define conditions for access (e.g., User is part of Team A, Role is Admin).
 
-To add a user to a team:
+![Frame 427319411.png](_img/3c6bebc73127aac8.webp)
 
-1. In the Users section, find the desired user and click the three dot "`...`" menu.
-2. Select "`Team`" from the dropdown.
-3. In the "`User Teams`" tab, check the boxes next to the teams you want to add the user to.
-4. Click "`Save`" to confirm the changes.
+**Configure Permissions (Inside Builder)**
 
-> **Note:** Users can be added to multiple teams as well to reflect various roles or responsibilities within the organization.
+- Open the application builder.
+- Select the specific item in the builder for which you want to define access conditions.
+- Click on `Permissions`.
+- Select the specific permissions required for the user based on their role or team.
 
-## Edit User Details
+![Frame 427319412.png](_img/1375d64d46d7ecb5.webp)
 
-To edit a user's information:
+> **Note:** Either **Set Access Conditions** or **Configure Permissions** can be used independently based on application requirements.
 
-![Frame 427319221 (5).png](_img/8389f54d5306ad0a.webp)
+## Inputs and Configurations
 
-1. Locate the user in the Users list.
-2. Click the three dot "`...`" menu next to their name.
-3. Select "`Edit`" from the dropdown.
-4. Modify the necessary fields in the "`User Details`" tab.
-5. Click "`Save`" to update the user's information.
+- `User`: Select the user to manage access for.
+- `Roles`: Choose predefined roles to assign.
+- `Teams`: Choose predefined teams for organizing users.
+- `Conditions`: Optional conditions to enforce specific access scenarios.
+- `Permissions`: Granular access rights selectable from available permissions.
 
-## Delete a User
+## Outputs
 
-To remove a user from your application:
-
-![Frame 427319222 (3).png](_img/dafaea0e9b605e67.webp)
-
-1. Find the user in the Users list.
-2. Click the three dot "`...`" menu next to their name.
-3. Select "`Delete`" from the dropdown.
-4. Confirm the deletion in the popup dialog.
-
-## Best Practices
-
-1. Regularly **review** user roles and permissions to maintain proper access control.
-2. Use descriptive usernames and enforce **strong password** policies.
-3. **Organize** users into teams based on their responsibilities or departments.
-4. Implement the principle of **least privilege**, granting users only the permissions they need.
-5. Periodically **audit** user accounts and remove inactive or unnecessary users.
+- Assigned roles and teams are displayed in the user's profile.
+- Configured permissions or conditions define exact actions a user can perform.

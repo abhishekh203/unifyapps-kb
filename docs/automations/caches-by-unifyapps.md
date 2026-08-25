@@ -9,7 +9,7 @@ Section: automations
 
 Caches by UnifyApps provides powerful caching capabilities for automations and workflows. This means you can update, evict, and manage cached values for specific nodes in your automation, improving performance, reducing computation time, and enabling more efficient data handling in your applications.
 
-![Frame 427319293.png](_img/25682a01d5974508.webp)
+![Frame 427319293.png](_img/e0f2b759eb980f73.webp)
 
 ## Use Cases
 
@@ -22,7 +22,7 @@ Caches by UnifyApps provides powerful caching capabilities for automations and w
 
 The Update Node Cache action in Caches by UnifyApps enables users to set or refresh cached values for specific nodes within an automation. This powerful feature improves performance by storing frequently accessed data and reducing redundant computations.
 
-![Group 159.png](_img/93cb3f1513f4de95.webp)
+![Group 159.png](_img/fa35afb8ad7a8f8e.webp)
 
 **Input Fields:**
 
@@ -48,7 +48,7 @@ The Update Node Cache action "`Updates the cached value for a specific node in a
 
 The Evict Node Cache action in Caches by UnifyApps allows users to remove cached data from specific nodes or across an entire automation. This functionality helps maintain cache freshness and manage memory resources effectively.
 
-![Frame 427319291.png](_img/6a3314c71298dbb4.webp)
+![Frame 427319291.png](_img/c37a0700b793cfd2.webp)
 
 **Input Fields:**
 

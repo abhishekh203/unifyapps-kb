@@ -19,7 +19,7 @@ The Node ID uniquely identifies that step, even if:
 - The node name changes
 - The workflow is duplicated or versioned
 
-![node_id.png](_img/b876109bc6d94b70.webp)
+![node_id.png](_img/028dd31a8360bb51.webp)
 
 ## Common use cases
 

@@ -15,7 +15,7 @@ CRM connectors in UnifyApps enable seamless integration between various CRM syst
 
 To ensure that every new lead captured on our website is promptly followed up with personalised emails, we use a CRM connector to automate the process.
 
-![Frame 427319218 (8).png](_img/e9ffad2face3dcc2.webp)
+![Frame 427319218 (8).png](_img/632f5f3df2b1419d.webp)
 
 1. We **configure** a webhook to trigger the automation whenever a new lead fills up a form on our website.
 2. We then **create** a new lead record in our CRM app(in this case, Salesforce).

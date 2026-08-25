@@ -27,7 +27,7 @@ Let's look at an example where we will download a list of image URLs individuall
 
 1. First, we have our list of image URLs and then pass it to Loop using “`for loop`” for every URL present in the list.
 
-  ![Frame 427319205 (9).png](_img/64806289f7015c72.webp)
+  ![Frame 427319205 (9).png](_img/956ce1cb5a2cf664.webp)
 
 2. Then, we use [Files by UnifyApps](/docs/unify-automations/loop) to download the image files one after the other from their URLs and create a file object out of them.
 3. Finally, we pass it to the Amazon S3 node, allowing us to upload the images to our server.
@@ -38,11 +38,11 @@ This action allows users to execute repetitive tasks by iterating through each i
 
 Users can choose to execute a `single item at a time` or process `items in batches`.
 
-![Frame 427319206 (10).png](_img/a3bc7f79eb0025f2.webp)
+![Frame 427319206 (10).png](_img/a3d1d0c7cb53cad0.webp)
 
 > **Note:** When batch execution is selected, users must specify the batch size, with a maximum limit of **100** items per batch.
 
-![Frame 427319207 (5).png](_img/9f03298e2e65024c.webp)
+![Frame 427319207 (5).png](_img/1faac45c178267b2.webp)
 
 | **Input Fields** | **Description** |
 |---|---|
@@ -55,7 +55,7 @@ This action allows users to execute a logic block if a specified condition remai
 
 Users can apply conditions through the input pane and can add multiple conditions.
 
-![Frame 427319206 (11).png](_img/69cecc27a46bcb29.webp)
+![Frame 427319206 (11).png](_img/abdd39b717b4d2ee.webp)
 
 | **Input Field** | **Description** |
 |---|---|
@@ -74,4 +74,4 @@ For **example**, a recipe can contain a For loop inside a While loop. Following
 - REPEAT search for contacts using SOQL query in Salesforce WHILE pages of search results remain.
 - FOR EACH record in a page of search results, retrieve contact details.
 
-  ![Frame 427319209 (13).png](_img/7052b36369c9436f.webp)
+  ![Frame 427319209 (13).png](_img/bb3b1a5aa2ce2e1e.webp)

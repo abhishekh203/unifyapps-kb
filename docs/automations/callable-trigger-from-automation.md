@@ -9,7 +9,7 @@ Section: automations
 
 Trigger from Automation allows you to trigger one automation from another automation. It helps you to break complex automation into simpler, reusable components.
 
-![Frame 427319218 (5).png](_img/5b6ce5fd36c956cf.webp)
+![Frame 427319218 (5).png](_img/a262bf200ffc5901.webp)
 
 ## How to Create Child Automation?
 
@@ -21,7 +21,7 @@ Here's a step-by-step guide to setting up a child automation:
 
 Select Callable Trigger, and from the available event types, select “`Trigger from automation`”.
 
-![Frame 427319219 (4).png](_img/5f5731deab6fc54b.webp)
+![Frame 427319219 (4).png](_img/9feeaa42fa02742f.webp)
 
 **Step 2: Define setup Schema**
 
@@ -35,7 +35,7 @@ For each field expected from the parent automation, provide the following detail
 - `Exclude field in runs`**:** Indicates if the field would be included in output **JSON** or not.
 - `Help text`**:** Offer a brief **explanation** for clarity and future reference.
 
-  ![Frame 427319220 (3).png](_img/bace706a69c13f92.webp)
+  ![Frame 427319220 (3).png](_img/dc9ede924f829f5e.webp)
 
 **Step 3: Define setup Schema**
 
@@ -49,7 +49,7 @@ Define the sequence of actions that will be executed once the automation has bee
 
 The final step is to return the data to the parent automation. To return the data, map the data pill to the corresponding field in the "`Result Schema`" section of the "`Return data to Automation`" action within the callable node.
 
-![Frame 427319221 (3).png](_img/332d52f381be9067.webp)
+![Frame 427319221 (3).png](_img/4ca9f59a7359a1f0.webp)
 
 ## How to Call child automation?
 

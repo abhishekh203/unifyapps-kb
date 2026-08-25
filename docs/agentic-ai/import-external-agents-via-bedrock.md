@@ -16,23 +16,23 @@ This guide walks you through the process of integrating third-party agents from 
   - Click on the dropdown button beside the + New Agent button in the top-right corner.
   - From the dropdown menu, select `Add External Agent from Bedrock`**.**
 
-    ![Frame 427319229 (4).png](_img/85a7ace77c78fc61.webp)
+    ![Frame 427319229 (4).png](_img/f1fecf74ef37ed7f.webp)
 
 2. **Configure Connection Settings** On the "New External Agent" page, you'll need to configure the following:
 
-  ![Frame 427319227 (5).png](_img/f6b8216df19011cc.webp)
+  ![Frame 427319227 (5).png](_img/6835cf6ebb8d86c5.webp)
 
   - **Connection**: Click the dropdown to select an existing connection
     - Choose from available connections
     - If no suitable connection exists, click **+ Add New Connection** to create a new one
 
-      ![Frame 427319231 (4).png](_img/54b65869bec37caf.webp)
+      ![Frame 427319231 (4).png](_img/a48f37420b6d3d30.webp)
 
   - **Agent**: After selecting a connection, choose the specific agent
     - The dropdown will populate with available agents from the selected connection
     - Use the **Refresh Results** button if you need to update the agent list
 
-      ![Frame 427319230 (4).png](_img/3daa927a0df6c6d0.webp)
+      ![Frame 427319230 (4).png](_img/7269d4843b1faeed.webp)
 
   - **Display Name**: Enter a name for the agent as it will appear in your platform
     - This name will be used to identify the agent once integrated
@@ -58,4 +58,4 @@ This guide walks you through the process of integrating third-party agents from 
   - Use **Test Agent** to verify functionality
   - **Publish** the agent to make it available.
 
-![Frame 427319228 (4).png](_img/dac02d602f83b028.webp)
+![Frame 427319228 (4).png](_img/4fefa6d8dda52c0b.webp)

@@ -9,7 +9,7 @@ Section: automations
 
 Audit by UnifyApps enables monitoring and tracking of changes across your system with detailed audit records. This means you can access a comprehensive history of data modifications, view who made changes, when they occurred, and what exactly was altered, making it ideal for compliance, accountability, and troubleshooting.
 
-![Frame 427319317 (1).png](_img/c95e3c3b740f2c32.webp)
+![Frame 427319317 (1).png](_img/4904d5b79d497bce.webp)
 
 ## Use Cases
 
@@ -25,7 +25,7 @@ The Get audit records action in Audit by UnifyApps allows users to retrieve and 
 
 **Input Fields:**
 
-![Frame 427319318 (3).png](_img/2d6aaec7abb9295e.webp)
+![Frame 427319318 (3).png](_img/f0b739fd8c6da972.webp)
 
 **For general audit records:**
 
@@ -44,7 +44,7 @@ The Get audit records action in Audit by UnifyApps allows users to retrieve and 
 - `Asset ID`**:** Provide the unique identifier for the selected asset
 - `Filter`**:** Same filtering capabilities as general audit records
 
-  ![Frame 427319319 (2).png](_img/143eacfe6c31a0ca.webp)
+  ![Frame 427319319 (2).png](_img/005e841b0cb10ea7.webp)
 
 **Pagination:**
 
@@ -58,7 +58,7 @@ The Get audit records action in Audit by UnifyApps allows users to retrieve and 
 
 **Output:**
 
-![Group 155.png](_img/fe7accfd255c06f6.webp)
+![Group 155.png](_img/94fa86232db84b42.webp)
 
 The action returns detailed audit records with a hierarchical structure:
 

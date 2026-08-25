@@ -31,20 +31,20 @@ Our platform allows you to select your preferred AI model for hallucination dete
 1. From the Guardrails section in the left-hand menu on your AI Agent dashboard, select “`Hallucinations`”.
 2. Choose your AI model (e.g., GPT-4o, Meta Llama3.3 70B Instruct, Deepseek R1, Mistral etc) from the Hallucination Detection Model dropdown.
 
-![Frame 427319455.png](_img/d14165ad67485220.webp)
+![Frame 427319455.png](_img/a137606a7796a620.webp)
 
 3. Toggle the “`Enable Grounding`” option to activate grounding for the AI model. When enabled, it will ensure responses are based on supplied reference data.
 4. Adjust the Grounding Score Threshold slider to set how strictly the AI Agent's responses need to align with facts.
 
 Higher score ensures more stringent filtering, blocking any response that falls below the set threshold.
 
-![Frame 427319456.png](_img/fbdc2837d2ea96ea.webp)
+![Frame 427319456.png](_img/7753023038856c73.webp)
 
 5. Toggle the “`Enable Relevance`” option to activate relevance validation for the LLM model.
 6. Adjust the Relevance Score Threshold slider to define the relevance threshold. This slider controls how closely the AI Agent's response must match the user's query.
 
 Higher thresholds block responses that are less aligned with the user's question, ensuring more relevant replies.
 
-![Frame 427319457.png](_img/852db36a284aaf37.webp)
+![Frame 427319457.png](_img/58ace50864ca65db.webp)
 
 7. By customizing these settings, our platform allows you to control the accuracy and relevance, ensuring that generated responses are reliable, fact-based, and highly relevant to user queries.

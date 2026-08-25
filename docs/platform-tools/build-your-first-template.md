@@ -17,7 +17,7 @@ Templates in UnifyApps are versatile tools that allow you to create reusable tex
 2. Click on `Templates Manager`
 3. Select "`+ New Template`" to begin creating a template
 
-![Frame 427319370.png](_img/cf682f9d9c777fe4.webp)
+![Frame 427319370.png](_img/38a457fd05493e28.webp)
 
 ### Creating a New Template
 
@@ -33,7 +33,7 @@ When creating a new template, you'll need to configure several key settings:
   - SMS
   - Prompt
 
-![Frame 427319371.png](_img/802627fc2e2798cb.webp)
+![Frame 427319371.png](_img/34f260eafa827cd4.webp)
 
 **Template Variables**
 
@@ -42,7 +42,7 @@ When creating a new template, you'll need to configure several key settings:
   - Error Message
   - Custom parameters specific to your use case
 
-![Frame 427319372.png](_img/369a716a6a5ac52a.webp)
+![Frame 427319372.png](_img/383c18d4222feab7.webp)
 
 **Adding Template Content**
 
@@ -62,9 +62,9 @@ When creating a new template, you'll need to configure several key settings:
   - AI-driven templates with specific instructions
   - Flexible input for different use cases
 
-![Frame 427319373.png](_img/1574051cd2a26c78.webp)
+![Frame 427319373.png](_img/ef8cc04f77a83acd.webp)
 
-![Frame 427319374.png](_img/a8b62d6004444a09.webp)
+![Frame 427319374.png](_img/08672f7b08aaee0c.webp)
 
 ## Using Templates in Automation
 
@@ -75,7 +75,7 @@ When creating a new template, you'll need to configure several key settings:
 3. Configure input parameters
 4. Use the template's output in subsequent steps
 
-![Frame 427319375.png](_img/a420e46c2ce799a3.webp)
+![Frame 427319375.png](_img/9f58423401b9e732.webp)
 
 **Common Use Cases**
 

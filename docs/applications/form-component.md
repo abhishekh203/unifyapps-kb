@@ -1,4 +1,4 @@
-# Form
+# Form component
 
 Source: https://www.unifyapps.com/docs/unify-applications/form-component
 Section: applications
@@ -9,7 +9,7 @@ Section: applications
 
 The Form is an interactive component used to collect inputs from users. It supports different input types, such as text, password, date-time, phone number, OTP, and email. You can create multiple fields for various input types, and once these fields are filled, interactions can be triggered based on form submission.
 
-![Group 172.png](_img/cace50f1258d9427.webp)
+![Group 172.png](_img/34733c632e39bf58.webp)
 
 ## Key Properties
 
@@ -38,7 +38,7 @@ After the form fields are added, they can be configured with the following prope
 | `Default Value` | Set a default value for the field. |
 | `Add Ons` | Add suffix or prefix icons to the field. |
 
-![Group 171.png](_img/00f1bde14503e35f.webp)
+![Group 171.png](_img/9dcefa4ff4cda2c1.webp)
 
 ## Customizing the Appearance
 

@@ -1,4 +1,4 @@
-# Container
+# Container component
 
 Source: https://www.unifyapps.com/docs/unify-applications/container
 Section: applications
@@ -23,13 +23,13 @@ This article will guide you through configuring Containers.
   - Users can select from various column layouts (e.g. - **full** , **1:1** , **1:2** , **2:1**) to control the distribution of content.
   - Users can also select from various options ranging from single to multiple columns (**up to 6**), enabling defined breakdown of containers into columns.
 
-    ![Frame 427319210 (3).png](_img/e19c390c565183b8.webp)
+    ![Frame 427319210 (3).png](_img/c8247e9c3ad20397.webp)
 
 2. **Adding components in your Container**
   - Once the layout of the container has been selected you would find it in hierarchy with segregations as defined in the previous step.
   - Select and add the desired components (e.g., `text`, `images`, `charts`) to the container as per your design. **Note:** You can also have a container, or a stack inside a container allowing you to control the layout in all possible ways.
 
-    ![Frame 427319213.png](_img/a520e8269ee6ef6f.webp)
+    ![Frame 427319213.png](_img/60b37fe1bf2ecaa6.webp)
 
 ## Style your Container
 

@@ -9,7 +9,7 @@ Section: automations
 
 Integrating child automation into a parent automation **enhances reusability** in your automation processes.
 
-![Frame 427319209 (19).png](_img/728d0c74607c4004.webp)
+![Frame 427319209 (19).png](_img/7af4750e4f271783.webp)
 
 ## How to Call Child Automation?
 
@@ -21,7 +21,7 @@ Here's a step-by-step guide to call a child automation:
 
 - Within the parent automation, select the “`call another automation`” action within the “`callable`” node.
 
-  ![Frame 427319210 (13).png](_img/862f75f551b465d6.webp)
+  ![Frame 427319210 (13).png](_img/531a3929be84f43d.webp)
 
 **Step 2: Select Child Automation**
 
@@ -37,7 +37,7 @@ Determine how the parent automation should proceed after calling the child autom
 - If `True`, the parent automation will pause until the child automation finishes executing. This is useful when the parent automation depends on the child automation’s output.
 - If `False`, the parent automation will proceed without waiting for the child automation to finish. This is suitable for independent or parallel processes.
 
-  ![Frame 427319211 (13).png](_img/2917e164dd71d19e.webp)
+  ![Frame 427319211 (13).png](_img/66a16f75f3d118a4.webp)
 
 **Step 4: Map Input Parameters**
 
@@ -47,11 +47,11 @@ For every parameter outlined in the child automation's input schema, assign corr
 - Outputs from earlier steps in the parent automation
 - Dynamic values calculated at runtime
 
-  ![Frame 427319506.png](_img/6d95ca53ceafbd47.webp)
+  ![Frame 427319506.png](_img/5ab687c58947d741.webp)
 
 **Step 5: Handle Child Automation Output**
 
 - If the parent automation waits for the child automation to complete, you can utilise the child's output in subsequent steps of the parent automation.
 - Map the output from the child automation to variables in the parent automation or directly incorporate it into further actions as needed.
 
-  ![Frame 427319213 (9).png](_img/01b2bebb9b4e8979.webp)
+  ![Frame 427319213 (9).png](_img/51ba9002f72b1ad1.webp)

@@ -1,4 +1,4 @@
-# Carousel
+# Carousel component
 
 Source: https://www.unifyapps.com/docs/unify-applications/carousel
 Section: applications
@@ -9,7 +9,7 @@ Section: applications
 
 Carousel by UnifyApps delivers a dynamic, interactive slideshow component that enables you to showcase multiple pieces of content in an engaging, space-efficient format. This versatile component allows you to create compelling visual presentations, image galleries, product showcases, and content rotations that capture user attention while maintaining a clean interface design.
 
-![Frame 427319377.png](_img/203dfbb74a3ee549.webp)
+![Frame 427319377.png](_img/27b23fd25f89c96e.webp)
 
 ## Use Cases
 
@@ -46,7 +46,7 @@ Configure the slides and media that will be displayed within your Carousel compo
   - Slide 2
   - Slide 3
 
-![Frame 427319379.png](_img/3fde99309ced7f06.webp)
+![Frame 427319379.png](_img/9a3d960a02970dfb.webp)
 
 - `Data Source`: Connect to external data for dynamic content population
 - `Primary Key`: Define unique identifiers for mapped content
@@ -70,7 +70,7 @@ The Carousel component integrates seamlessly into your application interface and
 
 Tailor the visual presentation of the Carousel component to align with your application's design language and enhance user engagement.
 
-![Frame 427319378.png](_img/8a79a8da88ad85cc.webp)
+![Frame 427319378.png](_img/f281c494dd947824.webp)
 
 **Appearance Settings:**
 
@@ -135,7 +135,7 @@ Tailor the visual presentation of the Carousel component to align with your appl
 
 **Mapped Configuration:**
 
-![Frame 427319380.png](_img/c6e8dbe544f3f7f9.webp)
+![Frame 427319380.png](_img/fe01c4658df5dd10.webp)
 
 - Dynamically generate slides based on external data sources
 - Perfect for product catalogs, news feeds, or user-generated content

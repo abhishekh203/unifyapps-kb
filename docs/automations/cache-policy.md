@@ -1,4 +1,4 @@
-# Cache Policy
+# Cache policy
 
 Source: https://www.unifyapps.com/docs/unify-automations/cache-policy
 Section: automations
@@ -24,7 +24,7 @@ A Cache Policy stores API responses temporarily to:
 | `Time Interval` | Defines the unit of time for the TTL period (e.g., Seconds, Minutes, Hours) **Required** |
 | `Cache Key` | Defines the unique key used to identify cached responses. The cache key determines how requests are matched to cached data. You can configure one or more cache keys (e.g., query parameters, headers, or request attributes). **Required** |
 
-![image1 6 (3).png](_img/90a616774edddfdb.webp)
+![image1 6 (3).png](_img/bbcee37154e7053b.webp)
 
 ## How It Works
 

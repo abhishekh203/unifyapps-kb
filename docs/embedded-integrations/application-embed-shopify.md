@@ -18,38 +18,38 @@ Embedding UnifyApps applications in Shopify allows seamless integration of Unify
 
 ### Step 2: Search for UnifyApps in the Shopify App Store
 
-![Frame 1 (1).png](_img/9ae89d42eb964ae3.webp)
+![Frame 1 (1).png](_img/9fa1ab4d8f5ec0a8.webp)
 
 - Navigate to the Shopify App Store and search for "`UnifyApps`".
 
 ### Step 3: Install the UnifyApps Application
 
-![Frame 2 (2).png](_img/bf2ef70021d170de.webp)
+![Frame 2 (2).png](_img/09010abc57e7c6ee.webp)
 
 - Click on the UnifyApps application and install it in your Shopify store.
 
 ### Step 4: Provide a Tenant App URL
 
-![Frame 3 (1).png](_img/659467e61c19602a.webp)
+![Frame 3 (1).png](_img/f283f079cb7921a7.webp)
 
 - Inside the UnifyApps application, provide the main URL of the environment your application is hosted on. For example: https://xyz.abc.unifyapps.com
 
 ### Step 5: Navigate to the Online Store Customization Section
 
-![Frame 4 (1).png](_img/3613161c5744efb6.webp)
+![Frame 4 (1).png](_img/00e9d66c752d807a.webp)
 
 - Go to the online store where you want to embed the UnifyApps application.
 - Click on `Customize` to modify the store layout.
 
 ### Step 6: Add UnifyApps as a Section
 
-![Frame 5.png](_img/d49fccb376c227f4.webp)
+![Frame 5.png](_img/6000106e9fbd36e6.webp)
 
 - In the `Sections` tab, click `Add Section` at the desired location within the sequence of elements on your page.
 
 ### Step 7: Configure UnifyApps Interface
 
-![Frame 6.png](_img/d11d0452d55d0e3d.webp)
+![Frame 6.png](_img/ddf5a729a8641476.webp)
 
 - Select `UnifyApps` from the available sections.
 - Enter the required `Interface ID` and `Page ID` based on your application’s URL structure.
@@ -57,6 +57,6 @@ Embedding UnifyApps applications in Shopify allows seamless integration of Unify
 
 ### Step 8: Adjust the Display Width
 
-![Frame 7.png](_img/26230df29ff12bad.webp)
+![Frame 7.png](_img/66e5802bac4b1c2a.webp)
 
 - Configure the width of the UnifyApps interface according to your store layout needs.

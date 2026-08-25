@@ -46,7 +46,7 @@ The platform offers two primary types of change sets:
 2. Under the `Change Set` section, select `Outbound Change Sets`.
 3. Click on `New Outbound Change Set` to begin the creation process.
 
-  ![Group 13.png](_img/5108cf61658b7273.webp)
+  ![Group 13.png](_img/197813850c862fc3.webp)
 
 **Step 2: Configure the Change Set**
 
@@ -57,7 +57,7 @@ Provide essential configuration details:
 - `Change Set Type`: Select either "Move Change Set" or "Export Change Set"
 - `Destination Environment`: Choose the target environment where assets will be migrated (e.g., QA Active, Production)
 
-![Group 14.png](_img/9d373d321723d922.webp)
+![Group 14.png](_img/552637e542a8e436.webp)
 
 **Step 3: Select Assets to Import**
 
@@ -75,7 +75,7 @@ Provide essential configuration details:
 4. For each asset, choose the appropriate version (e.g., Latest Deployed Version, Last Saved Version).
 5. Note that dependent assets will be automatically identified and can be included in the migration.
 
-  ![Group 15.png](_img/7dd0167417d15c8f.webp)
+  ![Group 15.png](_img/a7898f3faeb915be.webp)
 
 **Step 4: Review Change Set**
 
@@ -84,7 +84,7 @@ Provide essential configuration details:
 3. Verify that all components and their dependencies are correctly included.
 4. Use the search functionality to locate specific assets in larger change sets.
 
-  ![Group 16.png](_img/971c699a9663cb8e.webp)
+  ![Group 16.png](_img/9a6e3997b9a17b78.webp)
 
 **Step 5: Deploy the Change Set**
 

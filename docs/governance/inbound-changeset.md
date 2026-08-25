@@ -9,7 +9,7 @@ Section: governance
 
 Change Set by UnifyApps provides powerful tools for managing and deploying changes across different environments within your UnifyApps instance. This functionality allows teams to package configurations, automations, and assets into change sets that can be imported, reviewed, and deployed in a controlled manner, ensuring seamless updates and migrations with proper governance.
 
-![Frame 427319338.png](_img/17bf7dfcfe444d6d.webp)
+![Frame 427319338.png](_img/d3698ff8bf1138d8.webp)
 
 ## Use Cases
 
@@ -27,7 +27,7 @@ Change Set by UnifyApps provides powerful tools for managing and deploying chang
 
 Inbound Change Sets are packages of changes that can be imported and deployed into your current environment. They provide a structured way to receive and implement changes from other environments or team members.
 
-![Frame 427319339.png](_img/9e47b0cfb5855f4c.webp)
+![Frame 427319339.png](_img/bb654a3bec991a50.webp)
 
 **Key Features:**
 
@@ -41,7 +41,7 @@ Inbound Change Sets are packages of changes that can be imported and deployed in
 
 The Import Change Set feature allows you to bring pre-configured change sets into your environment for review and deployment.
 
-![Frame 427319340.png](_img/d3655570a363f027.webp)
+![Frame 427319340.png](_img/f1485b76e9ccde02.webp)
 
 **Input Fields:**
 
@@ -54,7 +54,7 @@ The Import Change Set feature allows you to bring pre-configured change sets int
 
 Creating a new inbound change set allows you to define which assets to import from connected environments and configure how they should be deployed.
 
-![Frame 427319341.png](_img/dc91338c537d0437.webp)
+![Frame 427319341.png](_img/de4be43c202b4f4e.webp)
 
 **Configuration Steps:**
 
@@ -70,7 +70,7 @@ Creating a new inbound change set allows you to define which assets to import fr
 
 **Deployment Summary** Before deploying a change set, you can review a detailed summary of all included assets and their current status.
 
-![Frame 427319342.png](_img/f5e68be3f4e854ac.webp)
+![Frame 427319342.png](_img/2fb981ac89e9ea58.webp)
 
 **Key Information:**
 
@@ -83,7 +83,7 @@ Creating a new inbound change set allows you to define which assets to import fr
 
 When ready to deploy, you can configure how the deployment should handle existing assets.
 
-![Frame 427319343.png](_img/cba54e025acd3c2d.webp)
+![Frame 427319343.png](_img/5990694685efc220.webp)
 
 **Update Methods:**
 
@@ -94,7 +94,7 @@ When ready to deploy, you can configure how the deployment should handle existin
 
 Change Sets can be shared with users or teams to enable collaborative review and approval.
 
-![Group 12.png](_img/e127afa97208b226.webp)
+![Group 12.png](_img/b6638f3b8888a329.webp)
 
 **Sharing Options:**
 

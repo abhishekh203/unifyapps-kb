@@ -29,7 +29,7 @@ To set up an Athena source, navigate to the Connections section, click New Conne
 
 ### IAM Role Authentication
 
-![Frame 427319300.png](_img/a6caad4e445625b8.webp)
+![Frame 427319300.png](_img/604e8da824d6e99e.webp)
 
 For IAM Role-based authentication, follow these steps:
 
@@ -56,11 +56,11 @@ Required connection fields:
 - `IAM Role ARN`: The Amazon Resource Name of the IAM role
 - `External ID`: The external ID provided by UnifyApps for secure role assumption
 
-![Frame 427319303.png](_img/11a5e80e2d8433a1.webp)
+![Frame 427319303.png](_img/c4438b4eeffaf9b6.webp)
 
 ### Instance Role Authentication
 
-![Frame 427319301.png](_img/2bd8f23f7dc2143e.webp)
+![Frame 427319301.png](_img/90a54e04982ff10c.webp)
 
 For Instance Role-based authentication, configure as follows:
 
@@ -76,7 +76,7 @@ Required connection fields:
 
 ### Access Key Authentication
 
-![Frame 427319302 (1).png](_img/c865ecfc66629bb4.webp)
+![Frame 427319302 (1).png](_img/71f3314a6ff4cf56.webp)
 
 For Access Key-based authentication, you'll need AWS access credentials:
 
@@ -94,11 +94,11 @@ Required connection fields:
 - `Access Key ID`: Your AWS access key identifier
 - `Secret Access Key`: Your AWS secret access key
 
-![Frame 427319304.png](_img/b2ecaf3f3ff957da.webp)
+![Frame 427319304.png](_img/eab62779fcc0d34f.webp)
 
 ## Server Timezone and Staging Configuration
 
-![Frame 427319299.png](_img/cccf4a6cd77411fa.webp)
+![Frame 427319299.png](_img/67d2d90c7a3d0a85.webp)
 
 When adding objects from an Athena source, you'll need to configure two important settings:
 
@@ -132,7 +132,7 @@ This method leverages Athena's serverless architecture and optimizes for cost-ef
 
 **Live Data (Incremental Updates)**
 
-![Frame 427319305.png](_img/833cef58c01c6aa8.webp)
+![Frame 427319305.png](_img/bc57db20b45a65fd.webp)
 
 For ongoing changes, UnifyApps implements cursor-based polling:
 

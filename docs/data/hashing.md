@@ -40,9 +40,9 @@ Store the output in a new field or replace the existing field
 7. Apply any additional filters if needed
 8. Test and save your transformation
 
-  ![Frame 206.png](_img/192619125d23ecee.webp)
+  ![Frame 206.png](_img/89b183f132d882a3.webp)
 
-  ![Frame 207.png](_img/9b3bac65869413ec.webp)
+  ![Frame 207.png](_img/3579bbc93534dda0.webp)
 
 ## Use Cases
 

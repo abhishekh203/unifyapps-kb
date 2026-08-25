@@ -18,7 +18,7 @@ Configuration Components Defining a custom rule involves four key components:
 - **Recency:** Selects the value with the most recent "Last Updated" timestamp.
 - **Frequency:** Selects the value that appears most often across the duplicate records.**Min/Max Value:** Selects the lowest or highest numerical value available.
 
-![Group_36.png](_img/f60e8d398926cbf0.webp)
+![Group_36.png](_img/a975c844034dc15a.webp)
 
 ### **Fallback Strategies**
 
@@ -43,7 +43,7 @@ You can layer multiple fallback strategies to create a "waterfall" of logic.
 - **Recency:** Use the most recently updated value.
 - **Min/Max Value:** Select the lowest or highest numeric value.
 
-![Group_39.png](_img/aaf058d6bd7c7ad4.webp)
+![Group_39.png](_img/5bae6480841636be.webp)
 
 ### **Filters**
 
@@ -65,4 +65,4 @@ Clicking the (+) icon in the Filters column launches the "Apply Filter" interfac
 
 **2. Complex Logic:** You can chain multiple criteria together using Condition Groups to create sophisticated Boolean logic (AND/OR statements), ensuring the rule targets exactly the right data segment.
 
-![Group_34.png](_img/ca01fb75559deaa0.webp)
+![Group_34.png](_img/4dbd28ec62059850.webp)

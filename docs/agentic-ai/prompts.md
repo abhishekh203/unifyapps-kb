@@ -44,15 +44,15 @@ By following these guidelines, you can ensure that your AI agents function prope
 1. In the AI Agents dashboard, select the "`Prompts`" option from the left-hand sidebar.
 2. On the Prompts page, click the “`+ Add Prompt`” button. This action will lead you to begin adding a new Prompt to your AI Agent.
 
-  ![Frame 427319284 (1).png](_img/b18181ff7d8b63cb.webp)
+  ![Frame 427319284 (1).png](_img/6893398283d155c8.webp)
 
 3. In the "`Prompt Name`" field, provide a descriptive name for your prompt that indicates its purpose.
 
-  ![Frame 427319293.png](_img/107c40609bea704a.webp)
+  ![Frame 427319293.png](_img/76b44b32cd898892.webp)
 
 4. Click on the **"**`Prompt Type`**"** dropdown menu and choose the most suitable option for your prompt. You can choose from the following options:
 
-  ![Frame 427319294.png](_img/0a4ca72e87783c90.webp)
+  ![Frame 427319294.png](_img/25a664946f0a614b.webp)
 
   - `Response Generation`: It is an instruction provided to the model to set the context, specify the desired behavior, or guide its responses.
   - `Rephraser`: Select this when you need the AI agent to rephrase or restructure the input text, helping to improve clarity or change the tone.
@@ -61,7 +61,7 @@ By following these guidelines, you can ensure that your AI agents function prope
 5. In the "`Write your prompt`" field, enter the specific instructions you want the AI agent to respond to. Be clear and concise to ensure accurate execution.
 6. On the right, you will find Variables such as `Conversation History`, `User Query`, `Knowledge`, and `Available Tasks`. Add these to your prompt as needed to make it more dynamic and context-aware.
 
-  ![Frame 427319295.png](_img/7c6370ab73746c4f.webp)
+  ![Frame 427319295.png](_img/126c1317561b234c.webp)
 
 7. Before finalizing, you can test your prompt by clicking the "`Test Prompt`" button to ensure it works as intended.
 8. Once you’ve entered all details and tested your prompt, click “`Save`**”** to finalize and add the prompt to your AI agent.

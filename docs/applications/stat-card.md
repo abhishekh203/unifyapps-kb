@@ -1,4 +1,4 @@
-# Stat Card
+# Stat card component
 
 Source: https://www.unifyapps.com/docs/unify-applications/stat-card
 Section: applications
@@ -13,7 +13,7 @@ Stat Card component is designed to **display key statistics** or **metrics** in 
 
 You can define content for your stat card using the following properties:
 
-![Frame 427319209 (6).png](_img/842978fddeb4e8f7.webp)
+![Frame 427319209 (6).png](_img/c99608c81a690831.webp)
 
 | **Property** | **Description** |
 |---|---|
@@ -34,7 +34,7 @@ The Trend Color setting visually **indicates performance** by changing the text 
 
 You can add a Secondary value with following properties:
 
-![Frame 427319208 (9).png](_img/77adf9c8d080f8db.webp)
+![Frame 427319208 (9).png](_img/67eae02e3e8b7f2b.webp)
 
 | **Property** | **Description** |
 |---|---|

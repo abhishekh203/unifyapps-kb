@@ -7,7 +7,7 @@ Section: data
 
 Extract Text is a powerful transformation that allows you to isolate specific parts of a string using regular expressions. This process is crucial for parsing complex text data, extracting meaningful information, and preparing data for further analysis or processing.
 
-![Frame 427319221 (9).png](_img/e9c85fd4c111c269.webp)
+![Frame 427319221 (9).png](_img/1b1f4f2e05529b0b.webp)
 
 ## Why Use Text Extraction?
 
@@ -25,7 +25,7 @@ Follow these steps to apply the Extract Text transformation:
 3. Specify the "`Group Number`" to extract the desired part of the match.
 4. Click "`Save`" to apply the transformation. **Note:** Test your regular expressions on a sample of your data to ensure they capture the intended information accurately.
 
-  ![Frame 427319222 (8).png](_img/f3e77ba0f28608b3.webp)
+  ![Frame 427319222 (8).png](_img/702df5cac2cecd29.webp)
 
 ## Extract Text Configuration
 
@@ -41,7 +41,7 @@ Two key components are required for text extraction:
   - $1 returns just the first group: INV
   - $2 returns just the second group: 12345
 
-![Frame 427319223 (7).png](_img/51e68990c15cac0e.webp)
+![Frame 427319223 (7).png](_img/f5adfaa336fff41f.webp)
 
 > **Note:** Use regex testing tools to visualize and refine your pattern matching before applying it to your data.
 

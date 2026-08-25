@@ -25,15 +25,15 @@ Let’s illustrate this better with the below examples
 1. In the AI Agents dashboard, select the "`Prerequisite Action`" option from the left-hand sidebar.
 2. Click on the “`+ New Prerequisite Action`” button. This will prompt you to create an action that the AI agent needs to perform before starting its main operations.
 
-  ![Frame 427319448.png](_img/9b0f51cb921bf017.webp)
+  ![Frame 427319448.png](_img/0c7b98e37c16a702.webp)
 
 3. Once you've clicked the “`New Action`” button, you'll be presented with a list of existing callable automations on the platform. Select the appropriate automation by clicking on it.
 4. After selecting the necessary automation, click “`Add`” to associate the action with the AI agent. The agent will now perform this action before moving on to other actions.
 
-  ![Frame 427319234 (1).png](_img/015a5cb956e99b90.webp)
+  ![Frame 427319234 (1).png](_img/20e5fcf09c0e6a51.webp)
 
 5. You can manage, edit, or delete existing prerequisite actions from the dashboard by clicking on the three-dot menu next to each action.
 
-  ![Frame 427319231 (1).png](_img/db48b4ba5eb21596.webp)
+  ![Frame 427319231 (1).png](_img/b3d4a2bbd5839ba6.webp)
 
 By setting up Prerequisite Actions, UnifyApps AI Agents ensure that all necessary steps are completed before initiating the main actions, enabling smoother and more accurate action execution.

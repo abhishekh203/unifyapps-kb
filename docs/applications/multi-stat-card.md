@@ -1,4 +1,4 @@
-# Multi stat Card
+# Multi stat card component
 
 Source: https://www.unifyapps.com/docs/unify-applications/multi-stat-card
 Section: applications
@@ -11,7 +11,7 @@ The Multi Stat Card component is designed to display key statistics or metrics i
 
 ## Defining Content for a Multi Stat Card
 
-![Master - Do not Edit (7).png](_img/4a5848a254d862c8.webp)
+![Master - Do not Edit (7).png](_img/060db80d3539cbe2.webp)
 
 You can define content for your multi stat card using the following properties:
 
@@ -32,7 +32,7 @@ The Trend Color setting visually indicates performance by changing the text colo
 
 ### Adding Secondary Stats in a Multi Stat Card
 
-![Master - Do not Edit (8).png](_img/d4625596571f8a80.webp)
+![Master - Do not Edit (8).png](_img/6499bec296a6ad9e.webp)
 
 Multi Stat Cards can show multiple additional values (e.g., *Critical values*, *Exceptions*, etc.) that provide more context to the primary value displayed on the card. It is typically used to represent trends, comparisons, or supplementary data points that enhance the understanding of the main statistic
 
@@ -64,7 +64,7 @@ You can add a Trend with following properties:
 
 ## Customizing the Appearance of Multi StatCard
 
-![Group 143.png](_img/a77b0f13c2d49912.webp)
+![Group 143.png](_img/1a7868c8c7ce291d.webp)
 
 You can customize the appearance of multi stat card by using the following properties.
 

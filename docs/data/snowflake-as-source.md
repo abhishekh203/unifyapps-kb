@@ -13,7 +13,7 @@ Snowflake is a cloud-native data warehouse platform known for its scalability, p
 
 ## Connection Configuration
 
-![Frame 427319297.png](_img/3360a77428071a42.webp)
+![Frame 427319297.png](_img/e0c9b63768725004.webp)
 
 | **Parameter** | **Description** | **Example** |
 |---|---|---|
@@ -77,7 +77,7 @@ This shows:
 
 JWT authentication uses public-private key pairs for secure connection.
 
-![Frame 427319298.png](_img/846ed418d76d08f8.webp)
+![Frame 427319298.png](_img/92bbfda4dea6169c.webp)
 
 **Prerequisites:**
 

@@ -1,4 +1,4 @@
-# Using repeatable
+# Using repeatable component
 
 Source: https://www.unifyapps.com/docs/unify-applications/using-repeatable
 Section: applications
@@ -69,11 +69,11 @@ The **Appearance** tab allows you to control how your list or grid of items is d
   - **Grid:** Arranges items in a grid with multiple columns.
     - **Columns:** Specify the number of columns you want the grid to have.
 
-![Frame 427319414.png](_img/e3437f69464695c5.webp)
+![Frame 427319414.png](_img/0c67f85806deca5a.webp)
 
-![Frame 427319415.png](_img/f935797f7fd286ed.webp)
+![Frame 427319415.png](_img/3263b8c8b955cfa6.webp)
 
-![Frame 427319416.png](_img/14e40853567fa6df.webp)
+![Frame 427319416.png](_img/0f53b2acdb8091a6.webp)
 
 ### Common Layout & Styling
 

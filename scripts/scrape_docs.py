@@ -3,8 +3,9 @@
 into clean local markdown, with images downloaded locally. Local-first knowledge base.
 
 Re-runnable. Flags:
-  --force      re-process & overwrite existing .md files
-  --no-images  skip downloading images (text only)
+  --force       re-process & overwrite existing .md files
+  --no-images   skip downloading images (text only)
+  --connectors  ALSO scrape unify-integrations connector pages -> docs/integrations/
 Handles: h2-h6, paragraphs, nested ul/ol lists, inline code, bold/italic, links,
 note-wrapper callouts, tables, code blocks, and images (downloaded to <section>/_img/)."""
 import os, re, sys, html, time, hashlib, urllib.parse, urllib.request
@@ -19,6 +20,7 @@ BASE = "https://www.unifyapps.com"
 
 FORCE = "--force" in sys.argv
 NO_IMAGES = "--no-images" in sys.argv
+CONNECTORS = "--connectors" in sys.argv
 
 SECTION_MAP = {
     "unify-applications": "applications", "unify-automations": "automations",
@@ -265,9 +267,11 @@ def parse(url):
     if not parts:
         return None
     section = parts[0]
-    if section == SKIP_SECTION or section not in SECTION_MAP:
-        return None
     slug = "-".join(parts[1:]) if len(parts) > 1 else "overview"
+    if section == SKIP_SECTION:
+        return ("integrations", slug) if CONNECTORS and len(parts) > 1 else None
+    if section not in SECTION_MAP:
+        return None
     return SECTION_MAP[section], slug
 
 

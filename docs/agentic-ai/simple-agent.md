@@ -1,4 +1,4 @@
-# Simple Agent
+# Simple agent
 
 Source: https://www.unifyapps.com/docs/unify-agentic-ai/simple-agent
 Section: agentic-ai
@@ -15,12 +15,12 @@ Follow these steps to create and configure a Simple Agent:
   - **Simple Agent** – AI solution to meet your unique business needs.
   - **Advanced Agent** – AI to deliver personalized interactions across business workflows.
 
-    ![Frame 427319351.png](_img/f727b5473f4490fe.webp)
+    ![Frame 427319351.png](_img/8a79477d0cc49673.webp)
 
 4. Select `Simple Agent` and click `Next`.
 5. **Give your agent a name** – Enter a descriptive name that reflects your agent’s role (e.g., *HR Assistant*, *Support Bot*).
 
-  ![Frame 427319225 (7).png](_img/ad2920ecc703b233.webp)
+  ![Frame 427319225 (7).png](_img/6535e1d2c61518f2.webp)
 
 6. **Add a description:** Optionally describe what this agent does.
 7. In the **Instructions** field, write clear guidance that defines the agent's behavior and tone. Example: *"Answer questions based on HR policy documents. Keep your tone helpful and professional."* This helps the underlying model respond appropriately.
@@ -37,8 +37,8 @@ Follow these steps to create and configure a Simple Agent:
 12. **Select Department:** Choose the relevant department (e.g., HR, IT, Finance) to organize your agents.
 13. Click `Save` to finalize the setup. The `Save` button will transform to `Deploy` so that you can easily deploy this agent to be used across multiple channels. You can view version history by clicking on the 3 dots on the top right and select your desired version you want to work on.
 
-  ![Frame 427319232 (3).png](_img/92b96d0dd30c19af.webp)
+  ![Frame 427319232 (3).png](_img/12bcacd7dacec94d.webp)
 
-  ![Frame 427319233 (3).png](_img/8f03f005431dd84c.webp)
+  ![Frame 427319233 (3).png](_img/a948b4d48735e02b.webp)
 
 14. Use the chat panel on the right to interact with the agent and test responses in real time. Adjust agent settings as needed for performance optimization.

@@ -1,4 +1,4 @@
-# Stepped Container
+# Stepped Container component
 
 Source: https://www.unifyapps.com/docs/unify-applications/stepped-container
 Section: applications
@@ -25,7 +25,7 @@ Stepper Container by UnifyApps serves as the foundational wrapper component that
 
 The Stepper Container component acts as the master controller that houses and coordinates individual step components, managing their lifecycle, navigation, and shared state.
 
-![Frame 427319376.png](_img/e22001d6f36fc5d7.webp)
+![Frame 427319376.png](_img/954308bf1678c928.webp)
 
 **Key Elements:**
 
@@ -54,7 +54,7 @@ Configure the container properties and behavior that will govern all nested step
 
 The Stepper Container component provides the foundational structure for multi-step interfaces and must be properly configured before adding individual step components.
 
-![Frame 427319373.png](_img/366262045517f6dd.webp)
+![Frame 427319373.png](_img/99ebacffbd3b997c.webp)
 
 **Implementation Steps:**
 

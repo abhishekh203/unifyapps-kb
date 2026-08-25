@@ -1,4 +1,4 @@
-# Add a Model
+# Add a model
 
 Source: https://www.unifyapps.com/docs/unify-agentic-ai/add-a-model
 Section: agentic-ai
@@ -13,7 +13,7 @@ The UnifyApps Models provides a comprehensive collection of enterprise models, e
 
 To begin, navigate to the `Setup` section within the UnifyApps platform. You should see a dashboard displaying a list of currently available models.
 
-![Frame 2043683863.png](_img/71fde78cc7166dc8.webp)
+![Frame 2043683863.png](_img/97e8586024b63cfb.webp)
 
 ## Understanding the Models Interface
 
@@ -23,7 +23,7 @@ The Models interface is designed for easy navigation and management of your AI m
 - **Filter and Sort Options:** You can filter models by various criteria and sort them to find what you need.
 - **Model Categories/Providers:** Models are categorized by their providers, such as OpenAI, Gemini, Anthropic, Deepseek, AI Anthropic Via Bedrock, and Qwen. Each category displays the number of models available under that provider.
 
-![Frame 427319412.png](_img/75f13adae01ac1a8.webp)
+![Frame 427319412.png](_img/7c41c60374312fe4.webp)
 
 ## Adding a New Model
 
@@ -40,19 +40,19 @@ From the Models screen, click on the `+ Add Model` button. This will open the `A
 - AI Anthropic Via Bedrock
 - Qwen
 
-![Frame 427319410.png](_img/4e5303a678a0e199.webp)
+![Frame 427319410.png](_img/e52a0da89380df85.webp)
 
 **Step 2: Select a Connection**
 
 After choosing a Model Provider, you will need to select a connection for your model. A connection links your UnifyApps environment to the external AI model service. You can choose an existing connection. If an appropriate connection doesn't exist, you might need to create a new one. For example, when setting up an `AI Anthropic` connection, you would provide a connection name, project, API Key, and set request timeout duration and rate limit policies. Connections often involve authentication types such as Access Token, JWT Auth, OAuth 2.0, Basic, or Custom.
 
-![Frame 427319413.png](_img/bc4cf0b9f2adb8ce.webp)
+![Frame 427319413.png](_img/8f0558817071b644.webp)
 
 **Step 3: Select Models**
 
 Once a connection is established, proceed to the `Select Models` step. Here, you can choose the specific models from the selected provider that you wish to add to your library. The interface will display a list of available models with details such as input and output costs if applicable. For instance, if Anthropic is your chosen provider, you might see models like `us.anthropic.claude-3-opus-20240229-v1:0` or `us.anthropic.claude-3-5-haiku-20241022-v1:0.`
 
-![Frame 427319414 (1).png](_img/eafcf8fc0553e759.webp)
+![Frame 427319414 (1).png](_img/4ac83c3562ffaf22.webp)
 
 **Step 4: Define Model Parameters**
 
@@ -64,4 +64,4 @@ The final step is to `Define Model Parameters`. In this section, you can set var
 - **Frequency Penalty:** Reduces the likelihood of the model repeating common words or phrases.
 - **Presence Penalty:** Controls the model's tendency to introduce new topics.
 
-![Frame 427319416 (1).png](_img/137189c130e995c6.webp)
+![Frame 427319416 (1).png](_img/90885b3bfcfee3ac.webp)

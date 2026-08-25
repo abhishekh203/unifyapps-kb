@@ -19,7 +19,7 @@ When configuring a data source in UnifyApps Data Pipelines:
 4. All timestamp data is converted from the source timezone to UTC before being stored in the destination
 5. This conversion preserves the exact temporal moment while standardizing the format
 
-  ![Frame 427319209 (25).png](_img/c83ce8b89fd219cc.webp)
+  ![Frame 427319209 (25).png](_img/88d550d41384876d.webp)
 
 ## Why UTC Standardization Matters?
 

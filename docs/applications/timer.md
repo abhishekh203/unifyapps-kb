@@ -1,4 +1,4 @@
-# Timer
+# Timer component
 
 Source: https://www.unifyapps.com/docs/unify-applications/timer
 Section: applications
@@ -9,7 +9,7 @@ Section: applications
 
 The Timer lets users track time and define events through countdown or stopwatch modes. It allows users to measure elapsed time, set countdowns with specific durations, customize time display formats, and trigger actions when time changes.
 
-![Group 168.png](_img/610e5bc86aa0080b.webp)
+![Group 168.png](_img/9d34ed11b7959043.webp)
 
 ## Adding Timer to your Application
 
@@ -47,7 +47,7 @@ Here are the configuration properties for a countdown timer:
 
 Use the appearance settings to align the look and functionality of the timeline component with your application’s needs.
 
-![Group 173.png](_img/8ceecefc9d0f8edc.webp)
+![Group 173.png](_img/3063c43cc58dde48.webp)
 
 > **Note:** You can refer to Appearance Settings documentation to know more about defining Layout for each component.
 

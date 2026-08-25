@@ -1,4 +1,4 @@
-# Code By UnifyApps
+# Code by UnifyApps
 
 Source: https://www.unifyapps.com/docs/unify-automations/code-by-unifyapps
 Section: automations
@@ -9,7 +9,7 @@ Section: automations
 
 **Code by UnifyApps** is a powerful automation component that allows users to execute custom code as part of their automation workflows. It serves as a flexible action step that supports multiple programming languages including Groovy, Java, JavaScript, Python, and custom snippets, enabling developers to implement complex logic and integrations that might not be feasible with standard pre-built actions.
 
-![image7.png](_img/e2f6196924b88847.webp)
+![image7.png](_img/e82dd3e0ca4bbbaf.webp)
 
 ## Actions supported
 
@@ -106,12 +106,12 @@ Let's demonstrate how to properly set up a code using Code by UnifyApps. In this
 - Start off by defining the input parameters for the code block. In our scenario, we will just need to take in the subject from the upstream automation.
 - Since we are expecting to extract certain elements from the subject, go ahead and define your necessary output parameters. **Note:** Ensure that you are using appropriate casing since these input/output parameters will be used in your code as well. Good practice is to either use snake casing or camel casing for the keys of the variables.
 
-  ![Frame 4734 (1).png](_img/8f737941de404294.webp)
+  ![Frame 4734 (1).png](_img/a3ad8eaca51c0481.webp)
 
 - Next, we can write the code as required in the editor. We can also expand the editor for easier use.
 - Remember to return the desired output statements using a return statement. **Note:** It is essential to return the output of the code so as to be able to use it in the downstream automation. You have to map the variables in your code against the output parameters defined and then write a return statement.
 
-  ![Frame 4736.png](_img/a14f816418d06841.webp)
+  ![Frame 4736.png](_img/1479ef5788c6501b.webp)
 
 - We also have the ability to run the code in an asynchronous mode, i.e., that the workflow won’t wait for the code to finish and simply move on to the next steps.
 - Finally, you have to map the input parameters with their respective data pills and the code is then ready to execute.
@@ -126,34 +126,34 @@ It is a simple example of converting the entered number to string by using the g
 
 We took a number as the input in this example.
 
-![image4.png](_img/77bc72d8f44bddad.webp)
+![image4.png](_img/fa9ce532e43f1f50.webp)
 
 2. Selecting the app as “*CODE BY UNIFYAPPS”* and action as “*EXECUTE GROOVY CODE”.*
 - Define the input schema as well as the desired output schema.
 - Enter the code snippet of the function in the section “ENTER THE GROOVY CODE”.
 - Also, map the input from the previous step to this step so that the code knows where the input value is.
 
-![image5.png](_img/6145eb9fc019fc30.webp)
+![image5.png](_img/0c24d52ad22960fe.webp)
 
 The platform has a feature to autofill the input parameters from the previous steps.
 
-![image13.png](_img/460a7057fbe93039.webp)
+![image13.png](_img/5c16f2f5078b5d74.webp)
 
-![image6.png](_img/303311e5d1552cd0.webp)
+![image6.png](_img/f5485553173eb5c3.webp)
 
 3. The output of this code returns the typecasted value (number ⇒ string) and the data pill is made available to be further used in the workflow.
 
-![image10.png](_img/b06e7bff0edfbb89.webp)
+![image10.png](_img/2374c1a833d2796b.webp)
 
-![image12.png](_img/fc851377d0517fd6.webp)
+![image12.png](_img/717ba552c6a5e076.webp)
 
 4. Map the output pill to the next step to continue the workflow or to return the result.
 
-![image11.png](_img/0253a06d4201473d.webp)
+![image11.png](_img/814ca73281c0ef63.webp)
 
 5. Now whenever this automation is being triggered and run, it will return the result as a “STRING”.
 
-![image2.png](_img/4d3acf91eefc5b8b.webp)
+![image2.png](_img/f5eec50429c4d19e.webp)
 
 ## Implementing Python Script
 
@@ -165,19 +165,19 @@ Let’s demonstrate how to properly execute Python Script using Code by UnifyApp
 
 We took a number as the input in this example.
 
-![image9.png](_img/77ebe09e7d131b69.webp)
+![image9.png](_img/8865a7bba1f5414b.webp)
 
 2. Selecting the app as “*CODE BY UNIFYAPPS”* and action as “*EXECUTE PYTHON SCRIPT”.*
 - Define the input schema as well as the desired output schema.
 - Enter the code snippet of the function in the section “ENTER THE PYTHON CODE”.
 - Also, map the input from the previous step to this step so that the code knows where to get the input value from.
 
-![image3.png](_img/a5d606db25ff3116.webp)
+![image3.png](_img/0e1bc2f835b9676f.webp)
 
 3. The output of this code returns the typecasted value (number ⇒ string) and the data pill is made available to be further used in the workflow.
 
-![image8.png](_img/6fda673188a359fc.webp)
+![image8.png](_img/c808b63a4cbf499e.webp)
 
 4. Map the output pill to the next step to continue the workflow or to return the result.
 
-![image14.png](_img/c150e03542d42ebf.webp)
+![image14.png](_img/048663da53404414.webp)

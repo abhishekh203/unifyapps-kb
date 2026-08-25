@@ -9,7 +9,7 @@ Section: governance
 
 Teams in UnifyApps represent groups of users that are organized based on specific functions, departments, or projects. Teams help categorize users according to their responsibilities, ensuring proper organization and efficient collaboration within the platform.
 
-![Frame 427319501.png](_img/b85a3483b9b51725.webp)
+![Frame 427319501.png](_img/1f4bc4b1e7082d0e.webp)
 
 ## Team Information
 
@@ -35,33 +35,33 @@ To create a new team in UnifyApps, follow these steps:
 
 1. **Click on the "**`New Team`**" Button** Navigate to the Teams section and click on the "`New Team`" button in the top-right corner. A modal will open with the following fields:
 
-  ![Group 4 (1).png](_img/371316a1d078061e.webp)
+  ![Group 4 (1).png](_img/df4cba28848b8ff1.webp)
 
   - `Team Name (Required)`**:** Enter a unique name for the team.
   - `About this Team`**:** Add a brief description of the team's purpose or function. Click "`Create Team`" to proceed to the team configuration page.
 2. **Configure Team Settings** After creating the team, you'll be directed to the team's configuration page, which contains three tabs:
   - **In Users Tab** This tab allows you to manage the users assigned to the team:
 
-    ![Group 5 (1).png](_img/847cfd1787ab1123.webp)
+    ![Group 5 (1).png](_img/4b61b8791196af64.webp)
 
     - View existing team users with their name, username, and last active time
     - Click "`Add Users`" to select users to add to the team
 
-      ![Group 6.png](_img/0df0043bc05186b0.webp)
+      ![Group 6.png](_img/4d7533acb7f5f28c.webp)
 
     - Use Filter, Sort, and Search options to manage larger team lists
 
-      ![Group 7.png](_img/7cd7a274f8da54b0.webp)
+      ![Group 7.png](_img/17dc444f150c94ae.webp)
 
     - Remove users from the team as needed
   - **In User Criteria Match Tab** This tab allows you to set up automatic user assignment based on specific criteria:
 
-    ![Group 8 (1).png](_img/d9057a5400d77cf9.webp)
+    ![Group 8 (1).png](_img/52f499f937f14d00.webp)
 
     - Define conditions that will automatically add users to the team when those conditions are met
     - Click "`Add Condition`" to create a new condition
 
-      ![Group 9 (1).png](_img/b6e5647b27b454ad.webp)
+      ![Group 9 (1).png](_img/78e4947297d55a2e.webp)
 
     - For each condition, you can specify:
       - **Where:** Select the user attribute to evaluate (options include Application ID, Created Time, Email, Phone Number, Custom Attributes, Test Boolean, Deployment Notes, Deployment Tag, Entity Type, and more)
@@ -71,7 +71,7 @@ To create a new team in UnifyApps, follow these steps:
     - This feature helps manage which users are added to teams based on user attributes, eliminating the need for manual updates.
   - **In Roles Tab** This tab allows you to configure the permissions for team members:
 
-    ![Group 10 (1).png](_img/8502080c824df44e.webp)
+    ![Group 10 (1).png](_img/fbb1a532432d2e8d.webp)
 
     - **Add Team Roles:** Select roles to assign to the team members
     - Search functionality is available to find specific roles in large role lists

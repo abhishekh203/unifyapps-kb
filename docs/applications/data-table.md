@@ -1,4 +1,4 @@
-# Data Table
+# Data table component
 
 Source: https://www.unifyapps.com/docs/unify-applications/data-table
 Section: applications
@@ -17,7 +17,7 @@ You may configure the Data Table component by following the below steps:
 2. In the `Source` section of the content tab, choose whether you want to use a `static array` (for prototyping / testing) or map it to a `live data source` like a data source or an object.
   - The data mapped to the component in any case should be an array of object(s). In the screenshot example:
 
-    ![Master - Do not Edit (47).png](_img/30673aa1989fa972.webp)
+    ![Master - Do not Edit (47).png](_img/b61851f93fee823f.webp)
 
     - Source is set to “Mapped” and contains a static array of user data (in JSON format).
     - The data array includes fields like id, name, role, createdAt, tags, site, etc.
@@ -31,7 +31,7 @@ You may configure the Data Table component by following the below steps:
 - Enable/disable columns by toggling the eye icon.
 - Reorder them by using the drag and drop feature at the left of each column header.
 
-![Master - Do not Edit (48).png](_img/d5fae2db66aefabf.webp)
+![Master - Do not Edit (48).png](_img/4a5224df35e04712.webp)
 
 - Click on each column to configure its settings (label, data type, formatting, rendering logic, etc.
 1. `Name`: The label displayed as the column header in the table.
@@ -67,11 +67,11 @@ You may configure the Data Table component by following the below steps:
   - **Visibility**: Controls whether the action is visible or hidden, based on conditions or app logic.
   - **Permissions**: Allows adding/restricting action visibility based on user roles or permissions. **Note:** Icons can also be be rendered based on certain if/else conditions.
 
-    ![Master - Do not Edit (49).png](_img/d0ad723bac667fd8.webp)
+    ![Master - Do not Edit (49).png](_img/cb65c48b096bd2e8.webp)
 
 7. A `Decorator` is a slot-based layout container (typically a Stack component) added to a specific table column by clicking the (`+`) icon in the `Slot` section, allowing you to embed and arrange multiple components (like icons, buttons, text, or images etc.) inside a cell. This turns a basic data cell into a flexible, interactive space.
 
-  ![Master - Do not Edit (54).png](_img/36489420cbc8a2c0.webp)
+  ![Master - Do not Edit (54).png](_img/a38e44c137dbb290.webp)
 
 8. `Add-Ons`: Add summary rows for columns to show aggregates like sum, average, count, etc. based on the column type. Displays summary metrics beneath the table, configurable per-column — e.g. total number of users or average progress.
   - **Type**: Defines the data type of the summary value you want to display in the column footer.
@@ -87,7 +87,7 @@ You may configure the Data Table component by following the below steps:
     - **Cell Background**: Sets background color for the summary cell.
     - **Cell Text**: Sets text color. **Note:** You can also use dynamic bindings for these style values via the conditions icon next to each option.
 
-      ![Master - Do not Edit (54).png](_img/36489420cbc8a2c0.webp)
+      ![Master - Do not Edit (54).png](_img/a38e44c137dbb290.webp)
 
 9. **Events**: This is where you can define your cell interactions, so as to trigger data sources, automations, or workflows.
 10. **Column width:** Define column width in pixels. **Grow**: Allows the column to flexibly expand and occupy remaining space in the table layout if enabled.
@@ -110,7 +110,7 @@ You may configure the Data Table component by following the below steps:
 - `Visibility`: Control when to show or hide the action using conditions.
 - `Permissions`: Define role-based or custom access for who can see/trigger this action.
 
-![Group 192.png](_img/2b9886d86e009f23.webp)
+![Group 192.png](_img/7b82dfda7ddb6369.webp)
 
 - **Row Selection**:
   - **Single**: Allows selecting one row at a time.
@@ -124,20 +124,20 @@ You may configure the Data Table component by following the below steps:
 
 > **Note:** Adding a bulk action will automatically override the **Row Selection** toggle to **Multiple** — it cannot be set to Single or None while bulk actions exist.
 
-![Master - Do not Edit (52).png](_img/0cf8991a05c99337.webp)
+![Master - Do not Edit (52).png](_img/3eb476ba9ef7efe2.webp)
 
 ## Add-ons
 
 1. **Toolbar:** The Toolbar provides multiple functionalities that enhance table usability and allow users to customize data views according to their needs: **Note:** Once the toolbar is added, your bulk actions automatically moves to the toolbar at the top of the table instead of a hovering menu. **Standard Actions:**
 
-  ![Group 193.png](_img/e3c0216c4b306365.webp)
+  ![Group 193.png](_img/2c3281bb81b77e31.webp)
 
   - **Filter:** Filters let users narrow down data based on specific fields.
     - Only fields marked as filterable (at the object level for Object data sources) will appear in filter options.
     - For custom data sources (like callables or arrays), you’ll need to create and map filters manually.
     - You can also add visible quick filters in the filter section for easy, one-click filtering on key fields.
 
-      ![Group 195.png](_img/8ad5e696ac7efa74.webp)
+      ![Group 195.png](_img/f37e860b73bf3df9.webp)
 
   - **Sort:** The Sort functionality enables users to organize their data when needed, helping them view information in their preferred order.
   - **Search Filter:** The Search Filter adds a search bar for users to quickly find records by matching text within specific fields — ideal for navigating large datasets.
@@ -145,13 +145,13 @@ You may configure the Data Table component by following the below steps:
   - **Hide Fields:** The Hide Fields feature lets users hide unnecessary columns, creating a cleaner, more focused table view for easier data navigation.
 2. **Pagination:** In the case where you have mapped an object to your data table, you can directly set up the pagination by defining Page Size and Total Records. You may also set up the initial page (by default set to page 1 if left empty). If you have mapped a data source to fetch the data using an automation, you will have to first define your page size as usual and then map Page size and Offset pills (`Table` > `Content` > `Page` > `Page Size and Offset`) to your callable to dynamically define pagination in your automation.
 
-  ![Group 197.png](_img/770b0b104dabb7e9.webp)
+  ![Group 197.png](_img/9e9197caeac03295.webp)
 
-  ![Group 198.png](_img/342e48266995d753.webp)
+  ![Group 198.png](_img/658de79f58555f90.webp)
 
 3. **Save Action:** The Save Action lets users confirm and save edits made in the table. A popup prompts for confirmation, and once saved, changes are updated in the mapped datasource object. This option is only available if at least one of the columns is set as editable in the table.
 
-  ![Group 195 (1).png](_img/8451d26a6ed86453.webp)
+  ![Group 195 (1).png](_img/d58a243b6b4c54b6.webp)
 
 4. **Summary:** This option is only available if you add a summary to any of the columns of the data table. Lets you configure conditional visibility, set cell background and/or cell text color. You can also use dynamic bindings for these style values via the conditions icon next to each option.
 
@@ -167,7 +167,7 @@ You may configure the Data Table component by following the below steps:
 
 **Current Row:** The latest row object a user interacted with — updates with each new selection (`Table` > `Context` > `Current Row`).
 
-![Group 199.png](_img/ab26100f6fcc501b.webp)
+![Group 199.png](_img/f3d255e279d2aae8.webp)
 
 ## Appearance Customization
 

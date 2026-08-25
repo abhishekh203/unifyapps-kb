@@ -17,7 +17,7 @@ When configured, UnifyApps implements a hash-based verification system that enab
 
 ## Configuring Avoid Duplicate Operations in Pipeline Settings
 
-![Frame 427319242 (4).png](_img/b93dafa09e64a88a.webp)
+![Frame 427319242 (4).png](_img/c938b5d0d042101e.webp)
 
 To enable duplicate prevention in your UnifyApps data pipeline:
 

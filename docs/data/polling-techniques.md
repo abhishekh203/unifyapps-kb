@@ -19,7 +19,7 @@ In enterprise data integration scenarios, the specific polling technique employe
 
 **Polling with Pagination and Offsets** Polling with Pagination and Offsets breaks large datasets into manageable chunks using pagination parameters. This technique allows for efficient processing through controlled batch sizes, preventing memory issues and enabling resilient data extraction.
 
-![Frame 427319217 (11).png](_img/603eb73cd115e14f.webp)
+![Frame 427319217 (11).png](_img/ba102380fed174de.webp)
 
 ## Implementation Considerations
 

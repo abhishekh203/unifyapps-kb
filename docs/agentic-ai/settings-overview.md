@@ -1,4 +1,4 @@
-# Overview
+# Settings overview
 
 Source: https://www.unifyapps.com/docs/unify-agentic-ai/settings-overview
 Section: agentic-ai
@@ -17,7 +17,7 @@ Customize the basic identity of your agent:
 - `Agent Name` **:** Name your agent (e.g., *Sales AI Agent*). This is mandatory.
 - `Description` **:** Add a short summary of what the agent does (optional but helpful for teams).
 
-  ![Frame 427319462.png](_img/99dab6b7bcbcbc36.webp)
+  ![Frame 427319462.png](_img/28f8c7292a079a32.webp)
 
 ## 2. AI Models
 
@@ -27,12 +27,12 @@ This section lets you define the models used for various tasks your agent perfor
   - `Task Detection Model` **:** AI model that identifies when the user query contains an actionable task.
   - `Task Execution Model` **:** Model responsible for executing the identified task using connected tools or workflows.
 
-    ![Frame 427319464.png](_img/d41326e4967d6d2f.webp)
+    ![Frame 427319464.png](_img/5736fce8ff62a923.webp)
 
 - **Indexing**
   - `Embedding Model` **:** Converts knowledge content into vector embeddings used for semantic search. (e.g., text-embedding-3-small)
 
-    ![Frame 427319465.png](_img/b1ad30143f822c62.webp)
+    ![Frame 427319465.png](_img/9198098581fdfc1b.webp)
 
 - **Pre Processing**
   - `Query Rephrasing Model` : Rewrites or simplifies user queries for better retrieval accuracy. (e.g., Claude 3.5 Sonnet)
@@ -44,7 +44,7 @@ This section lets you define the models used for various tasks your agent perfor
   - `Content Filter Model` : Filters unsafe or inappropriate content in both user prompts and AI responses.
   - `Denied Topic Detection Model` : Used for identifying and filtering denied topics in user inputs and generated responses
 
-    ![Frame 427319466.png](_img/27d858c971987c2c.webp)
+    ![Frame 427319466.png](_img/5be3e735df4ef9d1.webp)
 
 ## 3. Indexing
 
@@ -53,7 +53,7 @@ This section lets you define the models used for various tasks your agent perfor
 - When a user asks a question, the AI Agent can quickly find relevant information by comparing the query with these indexed vectors.
 - Users can configure indexing by selecting the appropriate Embedding Model, enriching data with custom metadata, segmenting data through Chunking, and storing vectors for efficient data lookup, thus enhancing the speed and accuracy of AI's responses.
 
-![Frame 427319467.png](_img/9fd18354b296047e.webp)
+![Frame 427319467.png](_img/2e7f3897fb9c8f13.webp)
 
 ## 4. Pre-Processing
 
@@ -62,10 +62,10 @@ This section lets you define the models used for various tasks your agent perfor
 - The retrieved information undergoes a comprehensive scoring process that evaluates factors like relevance, accuracy, and completeness to determine how well each chunk answers the user's question.
 - The scoring mechanism prioritizes the most valuable information, ensuring the system leverages the best available knowledge to construct accurate and meaningful responses to users.
 
-![Frame 427319468.png](_img/931ca0aced0edd22.webp)
+![Frame 427319468.png](_img/eaff9b31069f04cf.webp)
 
 ## 5 . Response Generation
 
 This section covers attributes related to response generation by the agent. Here users can select the LLM for generating  responses, controlling response style or choosing the language and tone of responses.
 
-![Frame 427319469.png](_img/242cd538e17c55a0.webp)
+![Frame 427319469.png](_img/53c036fccf69cb09.webp)

@@ -13,7 +13,7 @@ Located within the mdm module, an Entity acts as a structured container that def
 
 Establishing robust Entities is the critical first step in the Master Data Management (MDM) lifecycle, bridging the gap between raw data ingestion from Sources and the generation of trusted Golden Records.
 
-![Group_19.png](_img/1ea1dad2eda31282.webp)
+![Group_19.png](_img/5c17394699067b6b.webp)
 
 ## **Entity Overview**
 
@@ -28,7 +28,7 @@ The **Entity Overview** within the **Unified Data Model (UDM)** provides a centr
 **Audit Timestamps:**
  The **Last Updated On** column provides visibility into recent schema changes, supporting governance, version awareness, and ongoing model maintenance.
 
-![Group_20.png](_img/04310e4d59a20b79.webp)
+![Group_20.png](_img/01cd8dda70db8ac9.webp)
 
 ## **Strategic Capabilities**
 

@@ -1,4 +1,4 @@
-# Forward Polling
+# Forward polling
 
 Source: https://www.unifyapps.com/docs/unify-data/forward-polling
 Section: data

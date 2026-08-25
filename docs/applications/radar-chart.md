@@ -1,4 +1,4 @@
-# Radar Chart
+# Radar chart component
 
 Source: https://www.unifyapps.com/docs/unify-applications/radar-chart
 Section: applications
@@ -37,9 +37,9 @@ Below are the details mentioned which describe each configuration option for Rad
 - For e.g. in the screenshot below, we have mapped a data source “`QualityValue -> Object`”, to display the values
 - In turn the data source “`QualityValue`” uses "`Analytics by Unifyapps`” to fetch the values.
 
-  ![Frame 427319408.png](_img/289330baea44b45a.webp)
+  ![Frame 427319408.png](_img/001fddaa562cf4bb.webp)
 
-  ![Frame 427319404.png](_img/b9828e971fe2c115.webp)
+  ![Frame 427319404.png](_img/79b24a3d9c60b5e6.webp)
 
 ### Spokes Configuration
 

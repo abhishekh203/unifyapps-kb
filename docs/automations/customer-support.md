@@ -15,7 +15,7 @@ Customer support connectors in UnifyApps enable seamless connections between var
 
 To ensure that support tickets are promptly addressed and escalated if not resolved within a specific timeframe, we leverage customer support connectors.
 
-![Frame 427319221 (6).png](_img/3f7c6fe984e7a716.webp)
+![Frame 427319221 (6).png](_img/ff098db051ce3a6b.webp)
 
 1. We **trigger** the automation whenever a ticket is created or updated in our customer support app (in this case, Zendesk).
 2. We immediately **create** a task and **assign** it to a member in Asana.

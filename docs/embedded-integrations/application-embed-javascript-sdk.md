@@ -1,4 +1,4 @@
-# JavaScript SDK
+# App JavaScript SDK
 
 Source: https://www.unifyapps.com/docs/embedded-integrations/application-embed-javascript-sdk
 Section: embedded-integrations

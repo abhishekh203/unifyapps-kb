@@ -44,11 +44,11 @@ Each knowledge source allows customization of parsing, indexing, and enrichment 
 
 **Creating New Indexing Strategies**
 
-![Frame 427319219 (12).png](_img/9225f94a1a1f861d.webp)
+![Frame 427319219 (12).png](_img/fa663ccefeeb4e60.webp)
 
 ### MIME Type Selection
 
-![Frame 427319209 (26).png](_img/118f270ce5a21acc.webp)
+![Frame 427319209 (26).png](_img/54d59ba63f2e5c21.webp)
 
 Select the correct format to optimize parsing strategy:
 
@@ -64,11 +64,11 @@ Select the correct format to optimize parsing strategy:
 | `ZIP` | Batch uploads |
 | `Text` | Simple logs, notes |
 
-![Frame 427319218 (13).png](_img/c3198507db629cfc.webp)
+![Frame 427319218 (13).png](_img/366e43bd771a0a7e.webp)
 
 ### Parsing Methods
 
-![Frame 427319210 (20).png](_img/9ba8b49a3e1c056d.webp)
+![Frame 427319210 (20).png](_img/cd3ec6b43c9673d2.webp)
 
 - `Application-Based Parsing`
   - **Description**: Utilizes external applications for parsing
@@ -86,7 +86,7 @@ Select the correct format to optimize parsing strategy:
 
 ### Chunking Strategies
 
-![Frame 427319213 (16).png](_img/a94a031c42220a7c.webp)
+![Frame 427319213 (16).png](_img/5ffff4df7f83d758.webp)
 
 - **Text Chunking**
   - **Max Chunk Size**: Configure maximum characters per chunk (default: 512)
@@ -98,11 +98,11 @@ Select the correct format to optimize parsing strategy:
     - **Image to Text**: Converts visual content to text format
   - **Text Extraction Model**: Select appropriate model for OCR processing
 
-    ![Frame 427319221 (10).png](_img/3a8ccda346d22912.webp)
+    ![Frame 427319221 (10).png](_img/f58c04ae5706a00d.webp)
 
 - **Tabular Data Processing**
 
-  ![Frame 427319211 (21).png](_img/7901a6e2afcd8f1c.webp)
+  ![Frame 427319211 (21).png](_img/b8521043ead2064e.webp)
 
   - `Tables to Embeddings`
     - **Purpose**: Convert tabular data into vector representations for machine learning
@@ -114,19 +114,19 @@ Select the correct format to optimize parsing strategy:
     - **Best for**: Exact data retrieval and analytical queries
     - **Requirement**: First row must contain column headers
 
-![Frame 427319215 (16).png](_img/5a59910c43a78e46.webp)
+![Frame 427319215 (16).png](_img/5aca5377ac61eec1.webp)
 
 ## PII Masking
 
 Filter out sensitive information using multiple detection and protection methods to ensure data privacy and compliance.
 
-![Frame 427319216 (13).png](_img/2c975b58df670e12.webp)
+![Frame 427319216 (13).png](_img/231f5dd9b424f427.webp)
 
 **Available Methods**
 
 1. **Regex Pattern:** Filter out sensitive information based on defined regex patterns **Use Cases**: **Configuration**:
 
-  ![Frame 427319217 (12).png](_img/6a45fc2a1f9a6858.webp)
+  ![Frame 427319217 (12).png](_img/f6a7eed8b4278045.webp)
 
   - Custom sensitive data formats
   - Organization-specific identifiers
@@ -155,21 +155,21 @@ Filter out sensitive information using multiple detection and protection methods
 
 Enrich indexed knowledge with metadata for improved retrieval results and enhanced contextual understanding.
 
-![Frame 427319214 (18).png](_img/dd529dda929dadc3.webp)
+![Frame 427319214 (18).png](_img/43e82f596af96da0.webp)
 
 **Creating New Enrichment Strategies**
 
 - **Processing Method:** Choose the method to process and extract metadata from your content
 
-  ![Frame 427319223 (8).png](_img/465cbedf14e6c032.webp)
+  ![Frame 427319223 (8).png](_img/b6df7da93cdc8533.webp)
 
   1. **Automations**: Select from existing automations or create new ones
 
-    ![Frame 427319224 (6).png](_img/dc8fcf16451e9092.webp)
+    ![Frame 427319224 (6).png](_img/517f8c3cb5bb369b.webp)
 
   2. **Large Language Model**
 
-    ![Frame 427319212 (19).png](_img/b4214b40db743020.webp)
+    ![Frame 427319212 (19).png](_img/98d921f7e5f72ef0.webp)
 
     - **Model Selection**: Select model that best suits your metadata extraction needs
     - **Parameters Configuration**:
@@ -201,7 +201,7 @@ Knowledge sets provide a **single source of truth** for multiple agents sharing 
 1. Navigate to Knowledge section
 2. Click "`Add Knowledge Set`"
 
-  ![Frame 427319222 (9).png](_img/6c5679dfff46c206.webp)
+  ![Frame 427319222 (9).png](_img/1fd0b48c0292b7dd.webp)
 
 3. Create new knowledge set with descriptive name
 4. Add knowledge documents using same configuration options

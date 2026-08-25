@@ -5,7 +5,7 @@ Section: data
 
 ---
 
-![Group_68.png](_img/14ea5affbf8f1ecf.webp)
+![Group_68.png](_img/4a217a0e5c2f17f9.webp)
 
 ## **Overview**
 

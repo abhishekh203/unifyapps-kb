@@ -38,30 +38,30 @@ When someone asks the AI agent about salary information:
 
 1. In the AI Agents dashboard, select the "`Knowledge`" option from the left-hand sidebar.
 
-  ![Frame 427319337 (1).png](_img/3e26af2690c3c8f7.webp)
+  ![Frame 427319337 (1).png](_img/ddedb6fa32325d45.webp)
 
 2. On the Knowledge page, click the “`+ Add Knowledge`” button. This action will prompt you to begin adding a new Knowledge base.
 3. We provide four options to upload the Knowledge base for your agent:
 
-  ![Frame 427319338 (1).png](_img/ad382e9739e19c37.webp)
+  ![Frame 427319338 (1).png](_img/1e5d892fca4840a3.webp)
 
   - `Upload Documents` Upload files directly from your system, including PDFs, Word, Excel, PowerPoint etc, allowing the AI Agent to access and use the content for its tasks.
 
-    ![Frame 427319343 (1).png](_img/d618adce8e152c45.webp)
+    ![Frame 427319343 (1).png](_img/e7f9a09aeb6b105e.webp)
 
   - `Import a Website` Sync content from a website at regular intervals, enabling the AI agent have access to the latest data for more accurate and up-to-date responses. There are multiple options for refreshing frequency. It can be done on a Daily, Weekly, Monthly or yearly basis.
 
-    ![Frame 427319222 (5).png](_img/0ed489d20fefec7a.webp)
+    ![Frame 427319222 (5).png](_img/6f11f408b66550ed.webp)
 
   - You can either import all the pages from the provided URL or select specific web pages to import.
 
-    ![Frame 427319346 (1).png](_img/587cfc3e08649d95.webp)
+    ![Frame 427319346 (1).png](_img/e8d5472057042e18.webp)
 
   - `Applications`: Connect the AI Agent to external applications like CRMs or databases, allowing it to pull real-time data and improve its performance and relevance in completing tasks. **Note:** If your use case involves performing analysis on an entire document (e.g., summarization, extraction, or deep insight generation), using **Knowledge** is not ideal. Instead, directly attach the document in the **Copilot chat** while interacting with the agent. This ensures the full content is available for context-aware, accurate analysis.
 
-    ![Frame 427319348 (2).png](_img/d715bdfc13c47f08.webp)
+    ![Frame 427319348 (2).png](_img/6042566fde96ab7f.webp)
 
-    ![Frame 427319350 (1).png](_img/141f52b9882bce7e.webp)
+    ![Frame 427319350 (1).png](_img/6c1b1bdd64db3d8c.webp)
 
 ## Managing Knowledge Sources
 
@@ -69,20 +69,20 @@ Managing your AI agent's knowledge base is like controlling a smart digital libr
 
 For example, when you disable last year's holiday promotion guidelines and enable the current campaign information, the agent will exclusively reference the active content. By deleting outdated content like discontinued product details or old policy documents, you ensure the agent always provides accurate and current information from the enabled sources.
 
-![Frame 427319352 (1).png](_img/942abdf31e883148.webp)
+![Frame 427319352 (1).png](_img/c0ae7b011dd25eeb.webp)
 
 ## Knowledge Set
 
 We have an option to use a knowledge set which would not be specific to the agent and you can use this knowledge set to any agent you use . To create a Knowledge set Select the Knowledge option from Unify AI menu and select `+New Knowledge Set`
 
-![Frame 427319354 (1).png](_img/a6fc4460bc8488dd.webp)
+![Frame 427319354 (1).png](_img/6670f09eab8e1a57.webp)
 
 Give the Knowledge set a name that would resemble the data you are planning on indexing.
 
-![Frame 427319355.png](_img/30fbffe69116822e.webp)
+![Frame 427319355.png](_img/ec2c11bdf8767d8d.webp)
 
 Select the new knowledge option and start indexing knowledge
 
-![Frame 427319357 (1).png](_img/49d170650897c684.webp)
+![Frame 427319357 (1).png](_img/b3ed9b104002b105.webp)
 
 You can now use this knowledge set as knowledge for any agent .

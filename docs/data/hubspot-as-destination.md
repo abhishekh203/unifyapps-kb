@@ -13,7 +13,7 @@ HubSpot is a cloud-based CRM and marketing automation platform that centralizes 
 
 ## Connection Configuration
 
-![Frame 2043683863.png](_img/b99cba95853aa23b.webp)
+![Frame 2043683863.png](_img/bb20c0d68ec25597.webp)
 
 | **Parameter** | **Description** | **Example** |
 |---|---|---|

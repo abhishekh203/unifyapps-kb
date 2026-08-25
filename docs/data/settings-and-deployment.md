@@ -19,7 +19,7 @@ Navigate to the "`Settings`" tab in the UnifyData interface. Here, you'll find s
   - **Live Data Only**Only processes new data from the moment the pipeline is activated.Useful for ongoing data synchronization after an initial data load.
   - **Historic Data Only**Processes only existing data up to the point of pipeline activation.Useful for one-time data migrations or creating point-in-time snapshots.
 
-    ![Frame 427319208 (13).png](_img/5fe54a454dda2fa6.webp)
+    ![Frame 427319208 (13).png](_img/8cf2aa33dc467e5c.webp)
 
 3. **Load Schedule** This setting defines how often your pipeline will run.
   - `Real Time` Continuously processes data as it becomes available. Best for use cases requiring **up-to-the-minute** data accuracy.

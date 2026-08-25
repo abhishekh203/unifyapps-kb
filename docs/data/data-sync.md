@@ -23,7 +23,7 @@ You must complete the following stages:
 2. **Define Entity Fields:** Configure the schema attributes to hold the incoming data.
 3. **Configure Quality & Matching Rules (Optional):** Define how the system should handle duplicates and validation during the sync process.
 
-  ![Group_46.png](_img/8b49c31f668fb7fb.webp)
+  ![Group_46.png](_img/66e3bf237eaaf3c9.webp)
 
 ## **Sync Methods**
 

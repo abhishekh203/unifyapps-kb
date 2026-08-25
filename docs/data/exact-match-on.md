@@ -1,4 +1,4 @@
-# Exact Match On
+# Exact match on
 
 Source: https://www.unifyapps.com/docs/unify-data/exact-match-on
 Section: data

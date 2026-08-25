@@ -21,4 +21,4 @@ Configuring a Match Rule follows a structured three-step wizard, ensuring that e
 2. **Define Merge Policy** Once a match is identified, the system needs to know how to react. UnifyApps offers three distinct action strategies:
 3. **Filters** The final step allows you to apply scoping constraints. Match Rule Filters determine which records are eligible for this rule based on their field values. For instance, you can configure the rule to only apply to records where the Modified Time is after a certain date, ensuring that legacy or archived data is excluded from the matching process.
 
-  ![Group_31.png](_img/526a21ec29d620e1.webp)
+  ![Group_31.png](_img/77101b6644e0b209.webp)

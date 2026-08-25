@@ -15,7 +15,7 @@ This article covers how to set up and use Storage by UnifyApps effectively.
 
 If your data is stored in objects within Unify Objects, you need to link those objects in your application. For each application page, you must first link the data source from which you will pull data. Once you link the data source, the output will appear as data pills in your application.
 
-![Frame 427319210 (15).png](_img/7ce94568bf6fa1b7.webp)
+![Frame 427319210 (15).png](_img/5107143bceec1866.webp)
 
 To add Storage by UnifyApps as a data source:
 
@@ -31,7 +31,7 @@ This integration enables you to work with data stored in UnifyApps Objects direc
 
 After adding the connector for Storage by UnifyApps, you need to configure it to fetch data in required format from the object.
 
-![Frame 427319215 (11).png](_img/9e82d284b044a422.webp)
+![Frame 427319215 (11).png](_img/c2e21082cfbcc0fc.webp)
 
 ### Actions
 
@@ -63,7 +63,7 @@ Based on the selected action, you need to define the input for the connector to 
 
 For instance, for the "`Count Records`" action, the following input fields are necessary.
 
-![Frame 427319216 (9).png](_img/5b2d6e8195ffdd0d.webp)
+![Frame 427319216 (9).png](_img/924fc363a9c66af0.webp)
 
 1. **Select Object:** Choose the object from the dropdown list from where you want to count records. **Note:** Ensure you have necessary permissions to access the object; otherwise it will not appear in the dropdown list.
 2. **Search Object:** Define the field along with its value in case you are looking for only selected data values in your object.

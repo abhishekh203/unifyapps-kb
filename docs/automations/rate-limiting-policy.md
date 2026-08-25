@@ -21,7 +21,7 @@ Once the configured request limit is reached for a profile within the time windo
 | `Number of Requests` | The maximum number of requests allowed per client profile within the defined time window before access is restricted. **Required** |
 | `Error Message` | The message is returned to the client when their request is denied due to exceeding the rate limit. Default: *“API rate limit exceeded”* **Optional** |
 
-![image1 5.png](_img/9246df884a7d86e7.webp)
+![image1 5.png](_img/2cb7c41e1f968684.webp)
 
 ### 
 

@@ -13,7 +13,7 @@ Omnisend is a powerful marketing automation platform that helps businesses boost
 
 ## Connection Configuration
 
-![Frame 427319270.png](_img/48646d1f08afc6df.webp)
+![Frame 427319270.png](_img/7f46fbd5088f12fe.webp)
 
 | **Parameter** | **Description** | **Example** |
 |---|---|---|
@@ -21,7 +21,7 @@ Omnisend is a powerful marketing automation platform that helps businesses boost
 | `Authentication Type`* | Method of authentication to Omnisend | API key-based authentication |
 | `API Key`* | Authentication key for accessing Omnisend API | "6791fbf1454………" |
 
-![Frame 110.png](_img/ef16357caa0de9bf.webp)
+![Frame 110.png](_img/25c4e605af5c5ba7.webp)
 
 1. To acquire the API Key, Visit the following link: [https://app.omnisend.com/integrations/api-keys](https://app.omnisend.com/integrations/api-keys)
 2. Click on Create API key

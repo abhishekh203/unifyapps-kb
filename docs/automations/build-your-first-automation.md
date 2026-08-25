@@ -42,7 +42,7 @@ Each Automation consists of 2 major components, i.e. **Trigger** and **Action(s)
 
 ![How to create an Automation.mp4](https://assets.contentstack.io/v3/assets/blt55a41789e979ba65/blt2ce29ef10424b1db/691dc3659652f54c760cc7ee/How_to_create_an_Automation.mp4)
 
-![Frame 427319214 (14).png](_img/5521de0634e93288.webp)
+![Frame 427319214 (14).png](_img/5fadd09245ab8776.webp)
 
 1. **Log** in to your UnifyApps account.
 2. **Navigate** to the Automations section within Unify Automations.

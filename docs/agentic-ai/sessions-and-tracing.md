@@ -16,7 +16,7 @@ The Session History and Trace Timeline feature provides complete visibility into
 3. `Avg Tokens Consumed`: The average number of tokens used per session.
 4. `User Feedback` : Helpful/Not Helpful: The feedback given by users on the agent responses.
 
-  ![Frame 427319360.png](_img/b2fe11b7210dda3e.webp)
+  ![Frame 427319360.png](_img/0f58e9119134fb4e.webp)
 
 ## Trace Timeline
 
@@ -29,7 +29,7 @@ Traceability via sessions in UnifyApps AI Agents provides a comprehensive debugg
   - Filters custom words or phrases specified by organization
   - Content safety validation (hate speech, insults, inappropriate content)
 
-    ![Frame 427319356.png](_img/08362e5f085429f7.webp)
+    ![Frame 427319356.png](_img/dc7f538a672665c5.webp)
 
 2. **Rephrasing** Optimizes query for processing through:
   - Reformats query for better understanding
@@ -38,7 +38,7 @@ Traceability via sessions in UnifyApps AI Agents provides a comprehensive debugg
   - Maintains original context while improving structure
   - Prepares query for knowledge retrieval
 
-    ![Frame 427319356.png](_img/de9d0b83296f2a0f.webp)
+    ![Frame 427319356.png](_img/928c08975ab04984.webp)
 
 3. **Knowledge Pipeline**
   - **Chunk Retrieval**
@@ -60,7 +60,7 @@ Traceability via sessions in UnifyApps AI Agents provides a comprehensive debugg
     - Ensures coherent and complete answers
     - Prepares response for final validation
 
-      ![Frame 427319358.png](_img/f760c247e4f1d391.webp)
+      ![Frame 427319358.png](_img/03d6d4411482b6f8.webp)
 
 4. **AI Agent Task** Functions to process and execute specific actions:
   - Interprets user intent and required actions
@@ -76,7 +76,7 @@ Traceability via sessions in UnifyApps AI Agents provides a comprehensive debugg
   - Evaluates response quality metrics (groundedness, relevance)
   - Ensures compliance with organizational policies
 
-    ![Frame 427319359.png](_img/442348540df3a2d7.webp)
+    ![Frame 427319359.png](_img/ba65e5ec89d0b359.webp)
 
 ## Key Components of Traceability
 

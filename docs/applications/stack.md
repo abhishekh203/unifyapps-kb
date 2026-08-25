@@ -1,4 +1,4 @@
-# Stack
+# Stack component
 
 Source: https://www.unifyapps.com/docs/unify-applications/stack
 Section: applications
@@ -11,7 +11,7 @@ Stack is a **flexible** UI component that groups and organizes components vertic
 
 Stacks automatically manage **spacing** and **alignment** between child elements and allow an indefinite number of components within them.
 
-![Frame 427319205 (11).png](_img/8cc958de17d8c8e6.webp)
+![Frame 427319205 (11).png](_img/c9ab4ae1cbe89289.webp)
 
 ## Create Stacks with Child Elements
 
@@ -19,7 +19,7 @@ Stacks automatically manage **spacing** and **alignment** between child elements
 - **Add Component**: In the hierarchy panel, click on the "`Add Component`" button next to the selected Stack.
 - **Choose Child Components**: From the component panel, choose the desired components you want to add as children to the Stack. You can select multiple components such as `images`, `text`, `buttons`, or `other` UI components.
 
-  ![Frame 427319206 (20).png](_img/ff43f75697c6e746.webp)
+  ![Frame 427319206 (20).png](_img/3e7f4944920f92b2.webp)
 
 ## Organize Child Elements
 

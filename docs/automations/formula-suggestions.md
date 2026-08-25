@@ -37,21 +37,21 @@ In this use case, we are sending messages to our internal Slack channel for all 
 2. **Comment Check**: For each ticket, the system checks whether any comments are present.
 3. **Slack Notification**: If a ticket has no comments, a message is posted to our internal Slack channel.
 
-![Frame 4678.png](_img/9a3f082e5430b994.webp)
+![Frame 4678.png](_img/5525656218c49a74.webp)
 
 **Formulas Used**:
 
 - `NOW()`: Retrieves the current date and time to identify tickets created in the last hour.
 
-  ![Frame 4680.png](_img/819fd7adb8bb8d9c.webp)
+  ![Frame 4680.png](_img/438662a4e74e5087.webp)
 
 - `INT()`: Converts numeric values into integers as ticket id is stored in string format in object.
 
-  ![Frame 4681.png](_img/323a15eecb5aa80c.webp)
+  ![Frame 4681.png](_img/f3864fbd79e4cd2c.webp)
 
 - `LEN()`: Checks the length of comments to verify if any comment is posted on ticket or not
 
-  ![Frame 4679.png](_img/2e67b1ab9f4e3bec.webp)
+  ![Frame 4679.png](_img/1387a3cef1491c0d.webp)
 
 - `CONCAT()`: Combines different text elements, such as ticket details, to form the message for Slack.
 

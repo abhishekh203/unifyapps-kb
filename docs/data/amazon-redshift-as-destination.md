@@ -28,7 +28,7 @@ To set up a Redshift destination, navigate to the Connections section, click New
 
 ## Destination Settings Configuration
 
-![Frame 427319309.png](_img/8591770d1ff7210c.webp)
+![Frame 427319309.png](_img/ecca5c5f6e3074a7.webp)
 
 UnifyApps provides flexible configuration options for Redshift destinations through the Settings tab in Data Pipelines:
 

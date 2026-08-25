@@ -1,4 +1,4 @@
-# Delete Records
+# Delete records
 
 Source: https://www.unifyapps.com/docs/unify-data/delete-records
 Section: data
@@ -13,7 +13,7 @@ The Delete function allows Data Stewards to permanently purge this irrelevant da
 
 Regularly cleaning up these records is essential for maintaining a manageable workspace and ensuring that metrics like "Pending Review" reflect only actionable items.
 
-![Group_55.png](_img/42acafde23720214.webp)
+![Group_55.png](_img/5d7e9470e423243b.webp)
 
 ## **The Deletion Process**
 

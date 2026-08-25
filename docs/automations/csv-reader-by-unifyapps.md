@@ -11,7 +11,7 @@ CSV Reader by UnifyApps allows you to **read the text content** of the CSV file 
 
 This CSV Reader **iterates** through **each row** within the file and returns the data mapped within these rows as an object.
 
-![Frame 427319205 (5).png](_img/d035e7ea6b1465dc.webp)
+![Frame 427319205 (5).png](_img/e1935f80ecd168a2.webp)
 
 ## Use Case
 
@@ -19,7 +19,7 @@ For instance, you have an Excel file with client details like Name, Company, Pho
 
 1. We can get this file from our source and then use CSV Reader to interpret and pass information from this file to the rest of the automation.
 
-  ![Frame 427319206 (7).png](_img/e3fbc027e865880d.webp)
+  ![Frame 427319206 (7).png](_img/38e749e41d14b220.webp)
 
 2. We’ll fetch the properties such as `Name`, `Account ID,` and `Amount` from the CSV file and then use it as an input datapill in Razorpay, creating a separate payout link for each.
 3. The CSV reader iterates through all the records available in the CSV file and returns data associated with each record.
@@ -28,7 +28,7 @@ For instance, you have an Excel file with client details like Name, Company, Pho
 
 1. Add the `CSV Reader by UnifyApps` node**,** select `Consume data from the CSV file`**,** and proceed with providing the required inputs.
 
-  ![Frame 427319207 (3).png](_img/15d256e11d32d7e9.webp)
+  ![Frame 427319207 (3).png](_img/fe25ee2b19aba675.webp)
 
 2. **Inputs:**
   - **File:** Provide the URL or data pill to the CSV file here.
@@ -38,7 +38,7 @@ For instance, you have an Excel file with client details like Name, Company, Pho
   - **Columns:** List the names of the columns you wish to retrieve. Use the `Add` button to add more columns.
   - **Batch:** This is set to `False` by default, enabling it to read rows individually. If set to `True`**,** you can set the batch size to read a set of rows at a time.
 
-    ![Frame 427319205 (6).png](_img/63a880b60ae07c21.webp)
+    ![Frame 427319205 (6).png](_img/a82ffc75da71bf5c.webp)
 
   - **Encoding:** It refers to the method of converting characters (letters, symbols, emojis, etc.) into a numerical format. Select your Unicode encoding. `UTF-8` is the default format.
   - **Delimiter:** This denotes the character on which your CSV file will be parsed. CSV files generally have the '`,`' delimiter. Other common delimiters can include '`_`' and '`;`'.
@@ -47,8 +47,8 @@ For instance, you have an Excel file with client details like Name, Company, Pho
 4. **Output**:
   - When the “`Batch`” is selected as “`false`”, the input columns transform into fields of a single object in the output, with "`Row`" serving as the key.
 
-    ![Frame 427319205 (7).png](_img/701200d2b3f3af8e.webp)
+    ![Frame 427319205 (7).png](_img/0af1be79b1a8a698.webp)
 
   - When the “`Batch`” is selected as “`True`”, these same input columns turn into fields of an array of objects, with "`Rows`" acting as the key.
 
-    ![Frame 427319205 (8).png](_img/f2fe51100e3cd91f.webp)
+    ![Frame 427319205 (8).png](_img/bef68d4fb1feac10.webp)

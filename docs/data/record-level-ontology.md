@@ -33,4 +33,4 @@ By establishing relationships between entities (e.g., linking Entity 1 to Entity
 
 This enables advanced capabilities such as Graph Search and AI Agents, which rely on traversing these specific record-to-record connections to answer complex business questions (e.g., "Find all tickets related to the customer CUST509").
 
-![Group_45.png](_img/04bc535308d5a4ae.webp)
+![Group_45.png](_img/970c605d59696f72.webp)

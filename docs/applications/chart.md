@@ -1,4 +1,4 @@
-# Chart
+# Chart component
 
 Source: https://www.unifyapps.com/docs/unify-applications/chart
 Section: applications
@@ -11,7 +11,7 @@ The **Chart Component** allows users to visually represent data through customiz
 
 This component supports dynamic chart rendering using structured JSON data or by linking the chart to a data source and provides configuration options for both axes, including labels, data grouping, and value formatting. You have the options to select from over 12 different chart types including Bar, Chart, Gauge, Heat Map etc. Ideal for dashboard visualizations, this component helps users quickly turn raw data into meaningful insights. Using charts enables the users to simplify complex datasets and make dashboards more engaging and insightful.
 
-![Group 200.png](_img/0351ae4ec88eeb72.webp)
+![Group 200.png](_img/e7ba7ca783421da0.webp)
 
 ## How to Use?
 

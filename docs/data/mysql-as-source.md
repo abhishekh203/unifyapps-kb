@@ -1,4 +1,4 @@
-# MySQL as Source
+# MySQL as source
 
 Source: https://www.unifyapps.com/docs/unify-data/mysql-as-source
 Section: data
@@ -13,7 +13,7 @@ MySQL is widely used for web applications, online transaction processing, and e-
 
 ## Connection Configuration
 
-![Frame 427319267.png](_img/158550923d70eed7.webp)
+![Frame 427319267.png](_img/382bef56bea7234b.webp)
 
 | **Parameter** | **Description** | **Example** |
 |---|---|---|
@@ -31,7 +31,7 @@ To set up a MySQL source, navigate to the Connections section, click New Connect
 
 ## Server Timezone Configuration
 
-![Frame 427319268.png](_img/3dd40ed59f386e45.webp)
+![Frame 427319268.png](_img/ac25b2fec9b41dd9.webp)
 
 When adding objects from a MySQL source, you'll need to specify the database server's timezone. This setting is crucial for proper handling of date and time values.
 

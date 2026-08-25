@@ -14,7 +14,7 @@ Here are the various types of transformations we offer and how they can help imp
 
 Data shielding transformations focus on ensuring the **security** and **privacy** of your sensitive information:
 
-![data-shielding-transformation.png](_img/459d22fc945bb3b8.webp)
+![data-shielding-transformation.png](_img/8fd60362e105ab77.webp)
 
 - **Encryption**: Protect confidential data using advanced encryption algorithms.
 - **Encoding**: Convert data into alternate formats for secure transmission or storage.
@@ -31,7 +31,7 @@ Data cleansing transformations improve the **quality** and **consistency** of yo
 2. **Error Correction**: Identify and rectify common data entry mistakes.
   - Extract Text
 
-![data-cleansing.png](_img/16c7644484ed3e34.webp)
+![data-cleansing.png](_img/4c6b970198e40390.webp)
 
 By applying these transformations, you can clean your data and increase its reliability and accuracy.
 
@@ -39,7 +39,7 @@ By applying these transformations, you can clean your data and increase its reli
 
 Data manipulation transformations allow you to reshape and restructure your data:
 
-![data-manipulation-transformation.png](_img/000b02e5ec4dc62d.webp)
+![data-manipulation-transformation.png](_img/9e408644532df831.webp)
 
 1. **Formatting**: Adjust data presentation to meet specific requirements.
   - Cast
@@ -57,7 +57,7 @@ These transformations can manage and optimize the storage of unstructured data u
 1. Download Content from S3
 2. Upload Content to S3
 
-![Frame 427319225 (4).png](_img/d29133e4abbec221.webp)
+![Frame 427319225 (4).png](_img/ab41c880da43feaa.webp)
 
 ### Data Enrichment
 
@@ -70,7 +70,7 @@ Data enrichment transformations add value to your existing datasets:
 3. **Classification**: Categorize data entries for improved organization and analysis.
   - Add Static Value
 
-![Frame 427319225 (5).png](_img/aa0c2d838101fd4a.webp)
+![Frame 427319225 (5).png](_img/64adeb143add1ffe.webp)
 
 By applying these transformations, you can unlock hidden insights and enhance the overall value of your data assets.
 

@@ -5,7 +5,7 @@ Section: data
 
 ---
 
-![Group_43.png](_img/ca18e6d2e3daf94c.webp)
+![Group_43.png](_img/5beeaa1e2e6e6797.webp)
 
 The **Entity Identity** settings provide descriptive and representational metadata for an entity within the Unified Data Model (UDM). These settings help define how the entity appears throughout the system but **do not alter structural or storage behavior**.
 

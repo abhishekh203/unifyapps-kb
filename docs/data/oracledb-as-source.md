@@ -27,7 +27,7 @@ Oracle Database is widely used for enterprise applications including ERP systems
 
 To set up an Oracle source, navigate to the Connections section, click `New Connection`, and select `OracleDB Server`. Fill in the parameters above based on your Oracle environment details.
 
-![Frame 427319245 (6).png](_img/5513e05d0b5ec4ef.webp)
+![Frame 427319245 (6).png](_img/869bfd9f3c4a2a46.webp)
 
 ## Server Timezone Configuration
 
@@ -38,7 +38,7 @@ When adding objects from an Oracle source, you'll need to specify the database s
 
 This ensures all timestamp data is normalized to UTC during processing, maintaining consistency across your data pipeline.
 
-![Frame 427319246 (4).png](_img/5f5ec0a2a8a8f603.webp)
+![Frame 427319246 (4).png](_img/378b8b46fdc079fb.webp)
 
 ## Ingestion Modes
 

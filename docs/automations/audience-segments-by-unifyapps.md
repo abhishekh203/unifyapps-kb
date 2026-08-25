@@ -9,14 +9,14 @@ Section: automations
 
 **Audience Segments by UnifyApps** enables handling of multiple customer segments created in UnifyApps. This means you can fetch the Audience segments and take action on them like create a list of customers, modify segments, delete segment etc.
 
-![Frame 427319269 (3).png](_img/c2585bb361c9732e.webp)
+![Frame 427319269 (3).png](_img/522352c7464ee3d7.webp)
 
 ## Computes an Audience Segment
 
 1. This node helps you to calculate the count/number of entries in any Audience segment.
 2. Add the Audience Segment by UnifyApps node, select '`Computes an Audience segment`' option and provide below mentioned inputs.
 
-  ![Frame 427319259 (3).png](_img/93106788d6e31091.webp)
+  ![Frame 427319259 (3).png](_img/b7f3cde6cb01f1a0.webp)
 
 3. **Inputs**:
   - `Select Segment`: Select the segment from dropdown which you have already created earlier in Segment Manager
@@ -24,14 +24,14 @@ Section: automations
 4. **Output**:
   - Once the Segment and Audience Id has been mapped, you can use the output to get the “`Count`” of the segment which will give you the number/count of users in this segment
 
-    ![Frame 427319257 (2).png](_img/b7eb4770530fc1dd.webp)
+    ![Frame 427319257 (2).png](_img/a8d4adfac25d8110.webp)
 
 ## Computes and get an Audience Segment
 
 1. This node helps you to fetch all the values in the audience segment and also calculates the count/number of entries in any Audience segment.
 2. Add the Audience Segment by UnifyApps node, select '`Compute and get an Audience segment`' option and provide below mentioned inputs.
 
-  ![Frame 427319261 (1).png](_img/156ad5de3cbbe1a8.webp)
+  ![Frame 427319261 (1).png](_img/8570453538694369.webp)
 
 3. **Inputs**:
   - `Select Segment`: Select the segment from dropdown which you have already created earlier in Segment Manager
@@ -44,14 +44,14 @@ Section: automations
     - For. eg. in this case, we can fetch for Customers -> their IDs, for Leads -> their customer Id, Creation date, status etc.
     - These values can then be used in future automation nodes for creating workflows, e.g Delete all leads for whose Creation data < 23rd March 2023
 
-      ![Frame 427319262 (2).png](_img/41ea4a6616360e72.webp)
+      ![Frame 427319262 (2).png](_img/c67f41919b655a8c.webp)
 
 ## Delete an Audience segment
 
 1. This node helps you to delete an Audience segment.
 2. Add the Audience Segment by UnifyApps node, select “`Delete an Audience segment`” and provide below mentioned inputs.
 
-  ![Frame 427319263 (2).png](_img/3538b1afc380589c.webp)
+  ![Frame 427319263 (2).png](_img/6276eb1f7e54f179.webp)
 
 3. **Inputs**:
   - `Select Segment`: Select the segment from dropdown which you have already created earlier in Segment Manager
@@ -60,14 +60,14 @@ Section: automations
   - There is no consumable output in this node
   - This will delete the selected audience segment via Unique id and provide you a “Success” message in response
 
-    ![Frame 427319264 (1).png](_img/937b45648a4794d7.webp)
+    ![Frame 427319264 (1).png](_img/50b04770c61adb42.webp)
 
 ## Process an Audience segment
 
 1. This node helps you to process an Audience segment
 2. Add the Audience Segment by UnifyApps node ,select `“Process an Audience segment`” and provide below mentioned inputs.
 
-  ![Frame 427319265 (1).png](_img/a3637cf2e124dcaf.webp)
+  ![Frame 427319265 (1).png](_img/a1f31cb359730d88.webp)
 
 3. **Inputs**:
   - `Select Segment`: Select the segment from dropdown which you have already created earlier in Segment Manager
@@ -75,14 +75,14 @@ Section: automations
   - There is no consumable output in this node
   - This will process the selected audience segment via Unique id and provide you a “`Success`” message in response
 
-    ![Frame 427319266 (1).png](_img/11f1bc0a8b0523ea.webp)
+    ![Frame 427319266 (1).png](_img/0cfe56829187a33b.webp)
 
 ## Get audience from a segment
 
 1. This node helps you to get data from an Audience segment
 2. Add the Audience Segment by UnifyApps node ,select “Get audience from a segment” and provide below mentioned inputs.
 
-  ![Frame 427319267 (2).png](_img/bf9f9351c31b0609.webp)
+  ![Frame 427319267 (2).png](_img/e3e3b1d96907526d.webp)
 
 3. **Inputs**:
   - `Select Segment`: Select the segment from dropdown which you have already created earlier in Segment Manager
@@ -99,4 +99,4 @@ Section: automations
     - For. eg. in this case, we can fetch for Customers -> their IDs, for Leads -> their customer Id, Creation date, status etc.
     - These values can then be used in future automation nodes for creating workflows, e.g Delete all leads for whose Creation data < 23rd March 2023.
 
-      ![Frame 427319268 (3).png](_img/cd0538869a4756fc.webp)
+      ![Frame 427319268 (3).png](_img/317fc483d25eb71d.webp)

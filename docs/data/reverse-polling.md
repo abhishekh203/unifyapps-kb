@@ -1,4 +1,4 @@
-# Reverse Polling
+# Reverse polling
 
 Source: https://www.unifyapps.com/docs/unify-data/reverse-polling
 Section: data

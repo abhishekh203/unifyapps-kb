@@ -7,7 +7,7 @@ Section: data
 
 Potential Matches are records that the UnifyApps platform identifies as possible duplicates during the data ingestion, transformation, and deduplication process. These records are not immediately merged or rejected; instead, they are flagged for further review because the system detects a significant similarity with existing records but cannot confidently determine if they are true duplicates.
 
-![Group_59.png](_img/570a6aa3067d2bb5.webp)
+![Group_59.png](_img/53ce477e63edbf02.webp)
 
 ## **How Are Potential Matches Identified?**
 
@@ -45,7 +45,7 @@ The system applies a merge policy to decide the next step for the flagged record
 
 Potential matches are often moved to a quarantine or review section within the MDM module.
 
-![Group_58.png](_img/88fc7daf029d7723.webp)
+![Group_58.png](_img/75568f364a9a89a3.webp)
 
 ## **Manual Review and Actions**
 
@@ -61,7 +61,7 @@ They can compare field values, review the similarity score, and check the audit 
 
 **Reject**: Decide that the records are not duplicates and keep them separate.
 
-![Group_60.png](_img/9339a75ce009940c.webp)
+![Group_60.png](_img/82997aa7cad21b7a.webp)
 
 ## **Audit and Traceability:**
 

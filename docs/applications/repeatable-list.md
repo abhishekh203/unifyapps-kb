@@ -1,4 +1,4 @@
-# Repeatable List
+# Repeatable list component
 
 Source: https://www.unifyapps.com/docs/unify-applications/repeatable-list
 Section: applications
@@ -9,7 +9,7 @@ Section: applications
 
 The **Repeatable List** component allows you to render a list of items based on a dynamic data array. It’s ideal when you want to loop through an array of records (such as users, products, or roles) and display each in a consistent layout block. Each repeated block can contain nested components that are automatically bound to the corresponding item in the list.
 
-![Master - Do not Edit (57).png](_img/239c2c84acfb5f4d.webp)
+![Master - Do not Edit (57).png](_img/4b60a92cb084b3cf.webp)
 
 This component is useful for:
 

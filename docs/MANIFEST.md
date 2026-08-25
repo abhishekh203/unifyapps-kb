@@ -1,8 +1,11 @@
 # Docs Manifest — find the right page fast
 
-Curated index of all 361 local doc pages (AI-written descriptions). **Use this first**: scan to the
-right file, then open only that file — don't grep 361 pages. Connectors (unify-integrations) are
-fetch-on-use and not listed. Rebuild the raw digest with `scripts/build_manifest.py`.
+Curated index of all 388 local doc pages (AI-written descriptions). **Use this first**: scan to the
+right file, then open only that file — don't grep 388 pages. The 288 connector pages (unify-integrations)
+are also fully mirrored in `integrations/` — find them via `integrations/INDEX.md`, not here.
+Rebuild the raw digest with `scripts/build_manifest.py`.
+
+Last full re-scrape from unifyapps.com: **2026-08-25** (`scripts/scrape_docs.py --force`).
 
 ---
 
@@ -64,7 +67,7 @@ fetch-on-use and not listed. Rebuild the raw digest with `scripts/build_manifest
 
 ---
 
-## applications/ — no-code app builder (78)
+## applications/ — no-code app builder (79)
 
 **Data & state:** adding-data-sources · data-source-settings · storage-by-unifyapps-2 · analytics-by-unifyapps-data-source · connect-to-data-source-callable-by-unifyapps · testing-your-data-source · map-data-to-interface-components · js-variables-and-functions · utilities
 
@@ -78,15 +81,15 @@ fetch-on-use and not listed. Rebuild the raw digest with `scripts/build_manifest
 
 **Charts:** chart · column-chart · radar-chart
 
-**Media / misc components:** image · video · audio-player · carousel · avatar · avatar-group · alert-component · tag · progress-bar · loader · timer · timeline · organization-chart · comments
+**Media / misc components:** image · video · audio-player · media (image/video/audio from static or dynamic sources) · carousel · avatar · avatar-group · alert-component · tag · progress-bar · loader · timer · timeline · organization-chart · comments
 
 **App-building / admin:** overview · add-components-to-your-interface · defining-layout-of-your-interface · add-custom-component · module · filters · custom-css · interactive-mode-switcher · preview-application · privacy-settings · user-management · version-control
 
-## automations/ — workflows & callables (103)
+## automations/ — workflows & callables (107)
 
-**Build / core:** overview · build-your-first-automation · add-actions · setup-triggers · use-operators · deploy-your-automation · test-your-automation · preview-your-work · monitor-your-runs · manage-your-versions · automation-settings
+**Build / core:** overview · build-your-first-automation · add-actions · setup-triggers · use-operators · deploy-your-automation · test-your-automation · preview-your-work · monitor-your-runs · manage-your-versions · automation-settings · automation-templates-by-unifyapps (pre-built reusable workflow templates) · logging (per-node log messages + levels)
 
-**Control flow nodes:** condition · branch · loop · delay · stop · retry-on-error · use-operators · workflow-debugger · dependency-graph · node-id
+**Control flow nodes:** condition · branch · loop · delay · stop · retry-on-error · use-operators · workflow-debugger · dependency-graph · node-id · hooks (trigger child automations from a node, no extra node) · signals-by-unifyapps (wait-for-signals / emit-signal for parallel parent-child async)
 
 **Callables (KEY):** callable · callable-via-api · callable-trigger-from-automation · call-another-automation · automation-interfaces · webhook · schedule
 
@@ -94,15 +97,15 @@ fetch-on-use and not listed. Rebuild the raw digest with `scripts/build_manifest
 
 **API manager / policies:** api · api-groups · cache-policy · cors-policy · jwt-validation-policy · ip-based-access-control-policy · rate-limiting · rate-limiting-policy · request-transformer-policy · request-validator-policy · response-transformer-policy · timeout-policy · usage-quota-policy · custom-http-endpoint · runtime-connection-switching · connection-troubleshooting
 
-**Connectors (sample, full list fetch-on-use):** gmail · google-sheets · google-docs · slack · jira · zendesk · freshdesk · asana · clickup · monday · mongodb · mysql · postgresql · oracle-db · microsoft-sql-server · snowflake · clickhouse · amazon-s3 · amazon-athena · dropbox · figma · zoom · whatsapp · mailchimp · sendspark · stripe(see agentic) · pagerduty · okta · bamboohr · fleetio · crm/customer-support/ticketing/collaboration (category pages) · add-your-connector-sdk
+**Connectors (sample; site moved these under unify-integrations 2026-08, local copies kept as-is):** gmail · google-sheets · google-docs · slack · jira · zendesk · freshdesk · asana · clickup · monday · mongodb · mysql · postgresql · oracle-db · microsoft-sql-server · snowflake · clickhouse · amazon-s3 · amazon-athena · dropbox · figma · zoom · whatsapp · mailchimp · sendspark · stripe(see agentic) · pagerduty · okta · bamboohr · fleetio · crm/customer-support/ticketing/collaboration (category pages) · add-your-connector-sdk
 
-## data/ — objects, pipelines, MDM, transforms (99)
+## data/ — objects, pipelines, MDM, transforms (105)
 
 **Concepts / MDM:** overview · core-concepts · overview-unified-data-model · multidomain-capabilities · golden-records · golden-record-metadata · access-control · identity · relationships · defining-entity-relationships · record-level-ontology
 
 **Entities & fields:** overview-creating-entities · creating-entity-fields · manual-field-creation · import-field-using-sources · import-fields-using-csv-xls-files · entity-storage-types · advanced (see platform-tools/create-your-first-object)
 
-**Match / dedup / survivorship:** overview-match-rules · exact-match-on · fuzzy-match-rule · primary-key-match-rule · match-rule-outcomes · potential-matches · manual-merge-flow · default-survivorship-strategy · field-level-survivorship · source-system · min-value · max-value
+**Match / dedup / survivorship:** survivorship (MDM conflict resolution: global default + field-level strategies) · overview-match-rules · exact-match-on · fuzzy-match-rule · primary-key-match-rule · match-rule-outcomes · potential-matches · manual-merge-flow · default-survivorship-strategy · field-level-survivorship · source-system · min-value · max-value
 
 **Quality / quarantine:** overview-data-quality-rules · validation-rules · cleansing-rules · enrichment-rules · quarantined-records · rejected-records · reject-record · delete-records · edit-and-resubmit
 
@@ -110,29 +113,31 @@ fetch-on-use and not listed. Rebuild the raw digest with `scripts/build_manifest
 
 **Polling / sync settings:** polling-techniques · polling-cursor · polling-with-pagination-and-offsets · forward-polling · reverse-polling · data-sync-by-avoid-duplicate-operations-setting · ingestion-order-setting-for-priority-based-multi-entity-mapping · scd-type-2-settings · timezone-adjustment-use-case · destination-timezone-setting-for-oracledb-as-destination · salesforce-as-source-polling-tuning
 
-**Transformations:** overview-transformations · types-of-transformations · spreadsheet-formula · extract-text · replace-value · text-casing-modification · encoding · encryption · hashing · transformations-masking · download-content-from-s3-transformation · download-content-from-azure-blob-storage · upload-content-to-s3
+**Transformations:** overview-transformations · types-of-transformations · duplicate-field-transformation · spreadsheet-formula · extract-text · replace-value · text-casing-modification · encoding · encryption · hashing · transformations-masking · download-content-from-s3-transformation · download-content-from-azure-blob-storage · upload-content-to-s3
 
-**Source/destination connectors (sample):** sources · *-as-source / *-as-destination (mysql, postgresql, oracledb, snowflake, microsoft-sql-server, amazon-redshift, hubspot, quickbooks, klaviyo, omnisend, facebook-ads, google-ads, amazon-athena…)
+**Source/destination connectors (sample):** sources · *-as-source / *-as-destination (mysql, postgresql, oracledb, snowflake, microsoft-sql-server, amazon-redshift, google-bigquery, monday, hubspot, quickbooks, klaviyo, omnisend, facebook-ads, google-ads, amazon-athena…)
 
-## agentic-ai/ — AI agents (49)
+## agentic-ai/ — AI agents (52)
 
 **Start / build:** overview · getting-started · ai-agent-overview · how-unify-ai-agents-work · benefits-of-ai-agents · create-an-ai-agent · create-your-first-agent · simple-agent · advanced-agent · settings-overview
 
-**Agent parts:** instructions/prompts · setup-tasks · best-practice-for-setting-up-tasks · adding-tools-to-your-tasks · configure-tools · configure-mcp-servers · prerequisite-tasks · prerequisite-actions · integrate-knowledge-base · response-generation
+**Agent parts:** instructions/prompts · setup-tasks · best-practice-for-setting-up-tasks · adding-tools-to-your-tasks · add-new-tool (add tools to an agent: types, steps) · expose-workflows-as-tools (turn automations into agent tools) · configure-tools · configure-mcp-servers · prerequisite-tasks · prerequisite-actions · integrate-knowledge-base · response-generation
 
 **Knowledge pipeline:** indexing · knowledge-ingestion · knowledge-pipeline · knowledge-settings · pre-processing
 
-**Models:** add-a-model · model-library · custom-models · import-external-agents-via-bedrock
+**Models:** add-a-model · model-library · custom-models · model-playground (compare LLMs side-by-side) · import-external-agents-via-bedrock
 
 **Guardrails:** guardrails-overview · content-filters · custom-word-filter · denied-topics · blocked-messaging · hallucination-control · pii-masking
 
 **Test / eval / deploy / observe:** conversational-testing · datasets · metrics · evaluation-overview · experiments · publish-and-test · deployments · trigger-and-deploy · copilot-overview · observability · sessions-and-tracing · team-of-ai-agents-overview · stripe
 
-## embedded-integrations/ — embed UnifyApps in your product (9)
-authentication (two-token model) · application-embed-react-sdk · application-embed-angular-sdk · application-embed-javascript-sdk · application-embed-iframe · application-embed-salesforce · application-embed-shopify · platform-embed-react-sdk · platform-embed-iframe
+## embedded-integrations/ — embed UnifyApps in your product (11)
+authentication (two-token model) · application-embed-react-sdk · application-embed-angular-sdk · application-embed-javascript-sdk · application-embed-iframe · application-embed-salesforce · application-embed-shopify · application-embed-zendesk · platform-embed-react-sdk · platform-embed-javascript-sdk · platform-embed-iframe
 
-## platform-tools/ — objects, connections, templates, env (12)
-what-is-object-manager · create-your-first-object · advanced-configurations · what-is-connection-manager · set-up-your-first-connection · connections-insights · connector-sdk · create-your-first-connector-sdk · what-is-templates-manager · build-your-first-template · decision-table · environment-variables
+## platform-tools/ — objects, connections, templates, env (13)
+what-is-object-manager · create-your-first-object · advanced-configurations · what-is-connection-manager · set-up-your-first-connection · connections-insights · connector-sdk · create-your-first-connector-sdk · what-is-templates-manager · build-your-first-template · decision-table · environment-variables · open-telemetry (publish platform metrics to Prometheus)
 
-## governance/ — roles, environments, security (11)
-role · user · teams · users-insights-activities · security (SSO) · data-protection · alert-manager-by-unifyapps · business-hours-configuration · connected-environments · inbound-changeset · outbound-changeset
+## governance/ — roles, environments, security (21)
+role · user · teams · users-insights-activities · security (SSO) · data-protection · alert-manager-by-unifyapps · business-hours-configuration · business-holidays (non-working days for automations) · connected-environments · inbound-changeset · outbound-changeset
+
+**SSO / IdP setup guides (new 2026-08):** openid-connect-oidc-idp-configuration (generic OIDC) · custom-saml-idp-configuration-for-unifyapps (generic SAML: ForgeRock, JumpCloud…) · azure-openid-sso-configuration · azure-saml-idp-configuration-for-unifyapps · google-openid-sso-configuration · okta-openid-sso-configuration · okta-saml-idp-configuration · ldap-sso-configuration · external-session-setup-guide (external login session via cURL/automation)

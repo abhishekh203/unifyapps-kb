@@ -1,4 +1,4 @@
-# Alert Component
+# Alert component component
 
 Source: https://www.unifyapps.com/docs/unify-applications/alert-component
 Section: applications
@@ -9,7 +9,7 @@ Section: applications
 
 The Alert component is used to display important messages to the user. It can be used for various purposes such as error messages, warnings, success messages, and informational alerts. This article will guide you through configuring and customizing the Alert component.
 
-![Frame 427319215 (13).png](_img/ca148223caa0a5fe.webp)
+![Frame 427319215 (13).png](_img/7b52bf89b01c6c8b.webp)
 
 ## Add Content to Your Alert Box
 
@@ -28,7 +28,7 @@ You can include a link with text and URL to direct users to further details, res
 1. `Link Text`: In the Alert component configuration panel,you can enter the text you want to display as the link in the "Link Text" field.
 2. `Link URL`: You can enter the URL you want the link to point to in the "Link URL" field.
 
-  ![Frame 427319215 (14).png](_img/4a3eea5456b77e34.webp)
+  ![Frame 427319215 (14).png](_img/5e0bde386a4fb5fa.webp)
 
 ## Customize the Alert Appearance
 

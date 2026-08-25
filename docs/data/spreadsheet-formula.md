@@ -9,7 +9,7 @@ Section: data
 
 Spreadsheet Formula transformations bring familiar Excel-like formulas to your data pipeline, enabling complex calculations and manipulations using syntax that spreadsheet users already know. This powerful feature bridges the gap between spreadsheet expertise and data pipeline development.
 
-![Frame 427319236 (6).png](_img/97ec2a74fc88df65.webp)
+![Frame 427319236 (6).png](_img/7eab6dc5357f5094.webp)
 
 ## Why Use Spreadsheet Formulas in Your Pipeline?
 
@@ -26,7 +26,7 @@ Spreadsheet Formula transformations bring familiar Excel-like formulas to your d
 4. Specify the name and datatype for the transient field that will contain the results.
 5. Test your formula with sample data before applying to the entire dataset.
 
-  ![Frame 427319237 (5).png](_img/814afa77105609cf.webp)
+  ![Frame 427319237 (5).png](_img/e39b19662553eeae.webp)
 
 ## Function Categories and Common Pipeline Use Cases
 
@@ -139,7 +139,7 @@ To ensure your formulas are working as expected:
 3. Verify the test results match your expected output
 4. For complex formulas, test incrementally by building up from simpler components
 
-  ![Frame 427319238 (6).png](_img/2bb9fdf03be275a4.webp)
+  ![Frame 427319238 (6).png](_img/2ae2e72a2cb8d3c8.webp)
 
 ## Best Practices
 

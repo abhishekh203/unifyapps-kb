@@ -1,4 +1,4 @@
-# Image
+# Image component
 
 Source: https://www.unifyapps.com/docs/unify-applications/image
 Section: applications
@@ -9,7 +9,7 @@ Section: applications
 
 The Image component allows you to display images into your low code application. This documentation will guide you on how to configure an Image Component.
 
-![Group 126 (1).png](_img/74c7adee844b395f.webp)
+![Group 126 (1).png](_img/fa762d95a2026ab0.webp)
 
 ## Adding Image to Your Application
 
@@ -34,7 +34,7 @@ Select how the image should fit within its container using the "`Object Fit`" pr
 | `Fill` | The image stretches to fill the container, ignoring its aspect ratio. Use this when you want the image to fill the entire container, but be aware that it may become distorted. |
 | `Scale Down` | The image scales down to fit within the container |
 
-![Group 119.png](_img/d054d0a4fa3033aa.webp)
+![Group 119.png](_img/13bc141ff00159cc.webp)
 
 ## Best Practices
 

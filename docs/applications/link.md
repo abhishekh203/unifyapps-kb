@@ -1,4 +1,4 @@
-# Link
+# Link component
 
 Source: https://www.unifyapps.com/docs/unify-applications/link
 Section: applications
@@ -13,7 +13,7 @@ The Link component allows users to add **clickable links** to direct users to a 
 
 Once the Link component is added, you can configure its properties through the right-side configuration panel.
 
-![Frame 427319206 (19).png](_img/9261aca2b5914b91.webp)
+![Frame 427319206 (19).png](_img/e5991b8ee1611c42.webp)
 
 1. **URL**: Enter the URL where the link should navigate when clicked.
 2. **Text**: Enter the display text for the link. This is what users will see and click on.

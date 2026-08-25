@@ -39,6 +39,6 @@ In today’s integrated tech ecosystems, businesses rely on a variety of applica
 
 Here’s a sample view from the Connection Manager dashboard:
 
-![Frame 427319282 (1).png](_img/3408dbdd3900e3b7.webp)
+![Frame 427319282 (1).png](_img/e53dff3ead2f0ef1.webp)
 
 As seen above, you get a clear and organized table view with sortable columns. Each row represents a unique integration, complete with relevant metadata for easier management.

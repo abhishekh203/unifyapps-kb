@@ -1,4 +1,4 @@
-# Drawer
+# Drawer component
 
 Source: https://www.unifyapps.com/docs/unify-applications/drawer-component
 Section: applications
@@ -42,7 +42,7 @@ The Page Drawer lets you display complete pages. Think of it as embedding one pa
   1. The Position of the Page type drawer will be **‘**`Right`**’**. Other positions are ‘`Left`’ and ‘`Bottom`’. You can change it under the Appearance tab in properties.
   2. The width of the drawer will be `38.2%`**.** User has the ability to select in terms of percentage as well as pixels (px)
 
-    ![Master - Do not Edit.jpg](_img/729d0b1a87f4dab4.webp)
+    ![Master - Do not Edit.jpg](_img/4510092f18436530.webp)
 
 ## Configure a Card Drawer
 
@@ -55,7 +55,7 @@ In the Card Variant, the drawer appears on the screen like a card, integrated in
 - The Position of the Card type drawer will be **‘**`Right`**’**. Other positions are ‘`Left`’ and ‘`Bottom`’. You can change it under the Appearance tab in properties.
 - The width of the drawer will be `38.2%`**.** User has the ability to select in terms of percentage as well as pixels (px)
 
-  ![Master - Do not Edit (1).jpg](_img/999552cf994b1708.webp)
+  ![Master - Do not Edit (1).jpg](_img/be8d9c768d35780a.webp)
 
 ### Defining Opening, Expanding, Collapsing and Closing of Drawers
 
@@ -65,7 +65,7 @@ Opening and Closing of Drawer is defined in the Interaction section. Drawer is t
 - **Configure Interaction:** Set the interaction action to "`Control Drawer`."
 - **Specify Operation:** Choose "`Show`" or “`Hide`” to control visibility of the Drawer when the triggering component is activated.
 
-  ![Master - Do not Edit (2).jpg](_img/415496d0752cf681.webp)
+  ![Master - Do not Edit (2).jpg](_img/6058348154298ef0.webp)
 
 Drawers have attached functionality of Collapsing, Expanding and Closing when opened. But to open a drawer, you must trigger ‘`Show`’ event from the interactions of any other component.
 

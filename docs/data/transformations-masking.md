@@ -38,28 +38,28 @@ Various masking options are available to cater to different data protection need
   - **Example**: "Abc12DE456" becomes "xxxxxxxxxx"
   - **Use Case**: When complete obfuscation is required.
 
-    ![Frame 427319217 (4).png](_img/a49aa69060056995.webp)
+    ![Frame 427319217 (4).png](_img/bf14bb398c22d717.webp)
 
 2. All Numeric Characters
   - **Effect**: Masks **only** the numeric characters.
   - **Example**: "Abc12DE456" becomes "AbcxxDExxx"
   - **Use Case**: Protecting numeric data like account numbers. **Note:** For numeric data, consider using consistent replacement digits (e.g., all 9's or 0's) to maintain data type integrity.
 
-    ![Frame 427319214 (6).png](_img/ec3fff0e961b7210.webp)
+    ![Frame 427319214 (6).png](_img/7785f78c55df1949.webp)
 
 3. All Special Characters
   - **Effect**: Masks special characters while preserving alphanumeric content.
   - **Example**: "AB12#$aba" becomes "AB12xxaba"
   - **Use Case**: Hiding specific markers or separators in data.
 
-    ![Frame 427319219 (2).png](_img/c7a78b219ffd5eed.webp)
+    ![Frame 427319219 (2).png](_img/60dd914bd63628b9.webp)
 
 4. All Alphabetic Characters
   - **Effect**: Masks alphabetic characters, leaving numbers and special characters intact.
   - **Example**: "AB12CD34#$" becomes "xx12xx34#$"
   - **Use Case**: Obscuring names or text while preserving numeric data.
 
-    ![Frame 427319223 (1).png](_img/3456fd9f8028553c.webp)
+    ![Frame 427319223 (1).png](_img/2b5ae2140f2fb669.webp)
 
 5. First Few Characters
   - **Effect**: Masks a specified number of characters from the beginning.
@@ -67,7 +67,7 @@ Various masking options are available to cater to different data protection need
   - **Example**: "AB12CD34#$" becomes "xxxCD34#$" (masking first 3 characters)
   - **Use Case**: Partially obscuring identifiers while leaving some visible. **Note:** When masking partial strings, ensure that the remaining visible portion doesn't inadvertently reveal sensitive information.
 
-    ![Frame 427319225 (1).png](_img/27ea994bfa54f851.webp)
+    ![Frame 427319225 (1).png](_img/16ca5b9a0f40a319.webp)
 
 6. Last Few Characters
   - **Effect**: Masks a specified number of characters from the end.
@@ -75,7 +75,7 @@ Various masking options are available to cater to different data protection need
   - **Example**: "AB12CD34#$" becomes "AB12CDxxx" (masking last 3 characters)
   - **Use Case**: Hiding sensitive suffixes like domain names in email addresses.
 
-    ![Frame 427319226.png](_img/ba7782bff8b2fdfc.webp)
+    ![Frame 427319226.png](_img/e207003f907811f3.webp)
 
 7. Exact Match
   - **Effect**: Masks a specific substring within the data.
@@ -83,7 +83,7 @@ Various masking options are available to cater to different data protection need
   - **Example**: "AB12CD34#$" becomes "ABxxxx34#$" (masking "12CD")
   - **Use Case**: Targeting specific known sensitive data patterns.
 
-    ![Frame 427319226 (1).png](_img/a3824a0dab895bd7.webp)
+    ![Frame 427319226 (1).png](_img/2dcf168d48b1f9e3.webp)
 
 8. Use Regular Expression
   - **Effect**: Masks parts of the string that match a given regular expression.

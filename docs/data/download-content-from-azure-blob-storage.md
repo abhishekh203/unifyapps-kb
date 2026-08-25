@@ -24,7 +24,7 @@ Follow these steps to apply the Download Content from Azure Blob Storage transfo
 4. Enter the name for the new field that will contain the downloaded content.
 5. Click "`Save`" to apply the transformation.
 
-  ![Frame 208.png](_img/761eb320821a2bd4.webp)
+  ![Frame 208.png](_img/8d15287b5ca1b20c.webp)
 
 ## Download Content from Azure Blob Storage Configuration
 
@@ -32,11 +32,11 @@ Two main components are required for this transformation:
 
 1. **Azure Blob Storage Connection** You can either choose an existing Azure Blob Storage connection or create a new one. To create a new connection, you can refer to the connector documentation for Azure Blob Storage.
 
-  ![Frame 209.png](_img/766c08155e0d4fc5.webp)
+  ![Frame 209.png](_img/efe07aaca4bfd7ee.webp)
 
 2. **Transformed Field Name Purpose**: Specifies the name of the new field that will contain the downloaded file in binary format. **Example**: "downloaded_content" or "blob_file_data"
 
-  ![Frame 210.png](_img/6cf49e3f987db4f0.webp)
+  ![Frame 210.png](_img/5d0c10e1de1bbd61.webp)
 
 ## Input and Output
 

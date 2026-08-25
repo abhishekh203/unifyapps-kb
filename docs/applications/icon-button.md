@@ -1,4 +1,4 @@
-# Icon Button
+# Icon Button component
 
 Source: https://www.unifyapps.com/docs/unify-applications/icon-button
 Section: applications
@@ -11,7 +11,7 @@ The Icon Button is used when you want an icon that also acts like a `button`, ma
 
 It helps users quickly understand the action they can take by just looking at the icon.
 
-![Frame 427319212 (1).png](_img/580fe8a9069ef2d6.webp)
+![Frame 427319212 (1).png](_img/46775ab5b9fb676f.webp)
 
 ## Key Properties
 

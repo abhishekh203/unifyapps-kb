@@ -1,4 +1,4 @@
-# Schema Mapping
+# Schema mapping
 
 Source: https://www.unifyapps.com/docs/unify-data/schema-mapping1
 Section: data
@@ -9,7 +9,7 @@ Section: data
 
 Schema mapping is a fundamental process in data pipelines, serving as the **bridge** between your **source data** and your **target systems**. It's the blueprint that defines how data should flow and transform as it moves through your data pipeline.
 
-![Frame 427319236 (1).png](_img/57ceb9fe26e85f46.webp)
+![Frame 427319236 (1).png](_img/dc9f6548b2bec32b.webp)
 
 Effective schema mapping ensures that your data lands in the right place, in the right format, ready for analysis or further processing.
 
@@ -48,7 +48,7 @@ In this example, each field from the Customer object is mapped to a correspondin
 
 One-to-Many mapping involves mapping `one source` object to `multiple destination` objects. This is useful when you need to distribute data from a single source across multiple tables or objects in the destination system.
 
-![Frame 427319206 (17).png](_img/b61fdc6e9ee57e17.webp)
+![Frame 427319206 (17).png](_img/a1c7446b1e543535.webp)
 
 **Example:** Source Object: Order Destination Objects: SalesOrder, OrderDetails
 
@@ -108,12 +108,12 @@ The choice of mapping type depends on your specific data integration requirement
   - Use the Search bar at the top of this panel to quickly find specific objects
   - Click on the desired source object to select it
 
-    ![Frame 427319206 (16).png](_img/c0b68c43924ff960.webp)
+    ![Frame 427319206 (16).png](_img/2a3fcfa00f00adfb.webp)
 
 2. **Choose Destination Object(s)**
   - After selecting a source object, a dropdown or selection panel for destination objects will appear.
 
-    ![Frame 427319207 (13).png](_img/55deaedc6b47ebfd.webp)
+    ![Frame 427319207 (13).png](_img/531ee83bcf2c2bb0.webp)
 
   - For One-to-One or Many-to-One mapping, select a single destination object
   - For One-to-Many mapping, you can select multiple destination objects
@@ -121,7 +121,7 @@ The choice of mapping type depends on your specific data integration requirement
   - Once source and destination objects are selected, you'll see a table or interface showing source fields
   - For each source field, there will be a dropdown in the "`Destination Field`" column
 
-    ![Frame 427319207 (12).png](_img/c9de49e7a33b55e6.webp)
+    ![Frame 427319207 (12).png](_img/f1a13513e8efe4d2.webp)
 
   - Click on this dropdown to see available destination fields
   - Select the appropriate destination field for each source field
@@ -130,7 +130,7 @@ The choice of mapping type depends on your specific data integration requirement
   - Once you're satisfied with your mapping, click "`Save`" or "`Apply`" to confirm your mappings
   - If you've made errors or want to start over, click "`Discard Changes`" to remove all recent mapping changes
 
-![Frame 427319209 (9).png](_img/55bc0bf98c69ff89.webp)
+![Frame 427319209 (9).png](_img/f21df539ccf3db5c.webp)
 
 ## Filter Records in Schema Mapping
 
@@ -159,7 +159,7 @@ Follow these steps to set up filters in UnifyData's schema mapping interface:
     - **AND**: All criteria must be met for a record to be loaded
     - **OR**: At least one criterion must be satisfied for a record to be loaded
 
-![Frame 427319207 (14).png](_img/b20d6b4fc2bb19d0.webp)
+![Frame 427319207 (14).png](_img/a42c2ee3508fb7c2.webp)
 
 ### Filter Configuration
 

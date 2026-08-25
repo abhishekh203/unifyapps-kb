@@ -1,4 +1,4 @@
-# Overview
+# Copilot overview
 
 Source: https://www.unifyapps.com/docs/unify-agentic-ai/copilot-overview
 Section: agentic-ai
@@ -9,7 +9,7 @@ Section: agentic-ai
 
 Copilot in UnifyApps acts as a centralized interface, allowing users to access and manage all their agents in a single place. This streamlines workflows by providing a unified environment for interacting with various AI agents, eliminating the need to switch between different interfaces.
 
-![Frame 427319403.png](_img/7672b986e28d7ac5.webp)
+![Frame 427319403.png](_img/6dfef63bd1ba6eb0.webp)
 
 ## Key Capabilities of Copilot
 
@@ -17,23 +17,23 @@ Copilot offers several key functionalities to enhance your interaction with AI a
 
 - **Accessing Multiple Agents & Team of Agents in One Place:** Copilot consolidates all your agents and team of agents, making them easily accessible from a single dashboard. This eliminates the need to navigate to individual agent pages for interaction.
 
-![Frame 427319406.png](_img/afe4a6affaa4bda4.webp)
+![Frame 427319406.png](_img/9d70e0d7010e2ef5.webp)
 
 - **Switching Between Agents:** Within Copilot, you can effortlessly switch between different agents. This is particularly useful when you need to consult various specialized agents for different tasks or inquiries.
 - **Changing the LLM Model:** Copilot provides the flexibility to change the underlying Large Language Model (LLM) used by an agent. This allows you to experiment with different models to optimize agent performance or explore diverse generative capabilities.
 
-![Frame 427319407.png](_img/c3d26d8f39819ef4.webp)
+![Frame 427319407.png](_img/22691500f3d553b4.webp)
 
 - **Managing Conversations:**
 - **New Chat:** You can initiate a new chat session with any selected agent.
 - **Chat History:** Copilot maintains a history of your conversations with agents, allowing you to review past interactions and track progress.
 
-![Frame 427319408.png](_img/9de3f7b1367a9813.webp)
+![Frame 427319408.png](_img/3e94a4fe42cca942.webp)
 
 - **Uploading Attachments:** Users can upload attachments directly within the Copilot interface, enabling agents to process and respond to queries that require external file context.
 - **Using Tools:** Copilot integrates various tools that agents can leverage to perform their tasks. Examples include `Web Search` and `Deep Research` capabilities. Users can customize these tools as needed.
 
-![Frame 427319409.png](_img/306977e3f649c136.webp)
+![Frame 427319409.png](_img/98eeab9d9633aec3.webp)
 
 - **Voice Input**: By clicking on the voice icon, you can speak your prompt which will be translated into text for the agent to process.
 

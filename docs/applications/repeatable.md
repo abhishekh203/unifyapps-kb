@@ -1,4 +1,4 @@
-# Repeatable
+# Repeatable component
 
 Source: https://www.unifyapps.com/docs/unify-applications/repeatable
 Section: applications
@@ -14,7 +14,7 @@ This component is particularly useful for scenarios like:
 - Displaying lists of items with similar structure
 - Generating variable content blocks based on fetched data where users can add/remove repeating fields
 
-  ![Group 201.png](_img/56fb5c3b12fe1500.webp)
+  ![Group 201.png](_img/ba051d5124c50d99.webp)
 
 ## How to Use?
 

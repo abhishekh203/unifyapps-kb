@@ -13,7 +13,7 @@ Testing data sources ensures data accuracy, integrity, structure and business lo
 
 Run preview allows you to check the output of the given data source by fetching the result dynamically. This ensures that the schema or structure of the data source matches the expected format.
 
-![Master - Do not Edit (3) 1.png](_img/ca7897db0209d0da.webp)
+![Master - Do not Edit (3) 1.png](_img/a537338e017fad2f.webp)
 
 ## Output
 
@@ -30,6 +30,6 @@ Often, the data being pulled into your application must adhere to specific busin
 - Data conforms to expected business logic (e.g., price cannot be negative).
 - Calculations (e.g., totals, averages) are accurate and consistent. It also provides the error code and error message in case there is a config issue with the data source. This can help in restructuring the data source and fetching required data.
 
-  ![Master - Do not Edit (4) 1.png](_img/19a779f1ef60fddb.webp)
+  ![Master - Do not Edit (4) 1.png](_img/14e25234f279dcb2.webp)
 
-  ![Master - Do not Edit (5) 1.png](_img/eeef7529f92aa34b.webp)
+  ![Master - Do not Edit (5) 1.png](_img/ae290f944b96942b.webp)

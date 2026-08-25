@@ -1,4 +1,4 @@
-# Camera
+# Camera component
 
 Source: https://www.unifyapps.com/docs/unify-applications/camera
 Section: applications
@@ -9,7 +9,7 @@ Section: applications
 
 The Camera component allows users to integrate photo and video capture functionality into their applications. It offers configurable options for camera selection, recording behavior, and user experience customization. The Camera component is used in use cases that require identity verification, attendance tracking, document scanning, etc.
 
-![Master - Do not Edit (24).png](_img/c7b6fc39671ba8d6.webp)
+![Master - Do not Edit (24).png](_img/4d51aed065b9d08f.webp)
 
 ## Configuring the Camera  Component
 
@@ -23,11 +23,11 @@ Select whether the camera should default to the `front` or `back` view based on 
 
 Enable or disable `mirroring` to adjust how the camera feed is displayed, particularly useful for front-facing cameras.
 
-![Master - Do not Edit (25).png](_img/5be2fe8e50376e70.webp)
+![Master - Do not Edit (25).png](_img/f9bdf7be8782992f.webp)
 
 **Recording**
 
-![Master - Do not Edit (26).png](_img/5a25101615fc74f2.webp)
+![Master - Do not Edit (26).png](_img/f1644d374174cbca.webp)
 
 `FPS` (Frames Per Second): Set the desired frame rate for video recording to control video quality
 
@@ -47,13 +47,13 @@ The Camera component supports interactions on events like
 4. On Recording File Capture
 5. On Permission Denied **Note:** You can refer to Interaction settings documentation to know more about setting interactions for each component.
 
-  ![Master - Do not Edit (27).png](_img/6e67b2caddd4a98b.webp)
+  ![Master - Do not Edit (27).png](_img/19a2e11f909061be.webp)
 
 ## Customizing the Appearance
 
 Control the layout or visibility for the camera in the appearance section.
 
-![Master - Do not Edit (28).png](_img/9fc3d325b516372d.webp)
+![Master - Do not Edit (28).png](_img/ec5e4b66c7792978.webp)
 
 ## Best Practices for Camera Component
 

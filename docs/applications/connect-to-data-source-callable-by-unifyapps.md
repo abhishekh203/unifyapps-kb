@@ -19,7 +19,7 @@ The following steps are required to add a Callable as a data source:
 - Click the "`+`" button to create a new data source.
 - Search for “`Callable`” and select it from the list.
 
-  ![Group 158.png](_img/c18cf1cd2cbda2f2.webp)
+  ![Group 158.png](_img/01040f20d438f622.webp)
 
 ## Configuring the Callable
 
@@ -30,13 +30,13 @@ After adding Callable as a data source, you can use it to trigger an automation.
 - `Select Automation`**:** Pick the automation you want to run from your app. **Note:** You can refer to [Callable by UnifyApps](https://www.unifyapps.com/docs/unify-automations/callable-trigger-from-automation) Documentation for the creating your first Callable Automation.
 - `Parameters`**:** If the automation needs any specific inputs, enter them here. You can also map the input in the form of data pills as shown in the image below.
 
-  ![Group 136.png](_img/514fa53f5cbaf4ad.webp)
+  ![Group 136.png](_img/d337476b73492119.webp)
 
 ### Reviewing Output of the Callable
 
 After configuring the Callable, you can view its output schema. This schema helps identify the right data pills to map to other components in your app. You can also run a preview test to see the automation's output directly.
 
-![Group 137.png](_img/fc1d5761dccf0887.webp)
+![Group 137.png](_img/03d9de2398745a09.webp)
 
 ### Utilizing the Output of Callable
 

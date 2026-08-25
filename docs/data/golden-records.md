@@ -1,4 +1,4 @@
-# Golden Records
+# Golden records
 
 Source: https://www.unifyapps.com/docs/unify-data/golden-records
 Section: data
@@ -22,7 +22,7 @@ The dashboard offers a searchable and sortable view with critical metadata for e
 - **Contributing Sources:** A vital visual indicator that uses icons (e.g., MySQL logo) to show exactly which external systems contributed data to this specific record.
 - **Audit Timestamps:** Tracks the lifecycle of the record with **Created On** and **Last Updated On** columns, ensuring visibility into data freshness. **Detailed View & Data Lineage**Clicking on any individual record (e.g., CUST509) opens the 360-Degree View, which provides granular insights into the data's composition.This view is essential for understanding Data Lineage—knowing not just what the value is, but where it came from.
 
-  ![Group_49.png](_img/de64b2ebded9c252.webp)
+  ![Group_49.png](_img/7dc63272ed795f7d.webp)
 
 - **Field-Level Precision:** The interface lists every attribute (e.g., Value: 23000 , Value: Delhi Main ) alongside its specific **Contributing Source**.
 - **Survivorship Audit:** This allows you to verify that your survivorship rules are working correctly. For example, you can see that the Branch Name ("Delhi Main") was pulled specifically from the mysql source at a specific timestamp ( 21 Nov 2025, 15:02 ).

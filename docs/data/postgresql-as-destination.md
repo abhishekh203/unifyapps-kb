@@ -23,7 +23,7 @@ Before configuring PostgreSQL as your destination, ensure you have:
 
 ## Connection Configuration
 
-![Frame 427319289.png](_img/9364189e7b4f6ebb.webp)
+![Frame 427319289.png](_img/dd9d8a705cfd9855.webp)
 
 | **Parameter** | **Description** | **Example** |
 |---|---|---|
@@ -51,7 +51,7 @@ To set up a PostgreSQL destination, navigate to the Connections section, click N
 
 ## Schema Mapping
 
-![Frame 427319290.png](_img/c8a7bed4cf4e0e09.webp)
+![Frame 427319290.png](_img/db839903aa251cf3.webp)
 
 PostgreSQL as Destination in UnifyApps supports **Manual Mapping only**. This means you have full control over how source data fields map to destination table columns, allowing you to:
 

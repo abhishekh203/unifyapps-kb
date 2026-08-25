@@ -19,12 +19,12 @@ The Custom Word Filter guardrail  allows you to block specific words or phrases
 1. From the Guardrails section in your AI Agents Dashboard, click on “`Custom Word Filter`”.
 2. Toggle the “`Filter Profanity`” option to automatically block common offensive language.
 
-  ![Frame 427319443.png](_img/ff08dfb294cde1d4.webp)
+  ![Frame 427319443.png](_img/044c803dfa6abb32.webp)
 
 3. Click the “`+ Add Word`” button to manually input specific words or phrases that you want to block from both user input and AI responses. It might include competitors’ names or specific business terms.
 
-  ![Frame 427319444.png](_img/c99c20df62f34a82.webp)
+  ![Frame 427319444.png](_img/280519c2ffeca7d9.webp)
 
 4. View the list of blocked words under Words & Phrases. You can edit or remove entries as needed by clicking on the three-dot menu beside each word or phrase. By configuring the Custom Word Filter, you ensure that your AI agent maintains a professional tone, avoids sensitive topics, and adheres to the specific language guidelines of your organization.
 
-  ![Frame 427319445.png](_img/42f77ea44277cdd7.webp)
+  ![Frame 427319445.png](_img/02554e0824fee91e.webp)

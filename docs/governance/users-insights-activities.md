@@ -7,7 +7,7 @@ Section: governance
 
 ## Insights
 
-![Frame 427319243 (3).png](_img/6a3dc112d062c7e8.webp)
+![Frame 427319243 (3).png](_img/a1e58c6f1f4b630c.webp)
 
 The **Insights** section provides an overview of user statistics and login trends. It is divided into two key components:
 
@@ -24,7 +24,7 @@ The **Insights** section provides an overview of user statistics and login trend
 
 1. **Platform Level User Activity** The Platform Level User **Activity** section tracks and logs platform level user actions. It includes filtering options and a detailed activity timeline.
 
-  ![Group 2 (1).png](_img/a6be793ccf1f30a3.webp)
+  ![Group 2 (1).png](_img/50e79b8350c0724b.webp)
 
   - **Filters Available**
     - **Date Filter**: Filter activities based on a specific date range.
@@ -34,12 +34,12 @@ The **Insights** section provides an overview of user statistics and login trend
     - The **user, role, connection, automation, or pipeline** associated with the activity (linked to relevant pages).
     - **Activity Type**, along with date and time.
 
-      ![Group 3 (1).png](_img/a8cb1b2017da57b5.webp)
+      ![Group 3 (1).png](_img/9240b54b555087f0.webp)
 
     - **Show Changes Button**: Available for roles, connections, automations, and pipelines, allowing users to view all updates made.
 2. **User Level Activity:** The **User Level Activity** section captures a chronological log of actions performed by an individual user—such as logins, creations, updates, deletions, and more—across automations, connections, and roles, with linked entities and a "Show Changes" option for detailed visibility. Tracks activities of a specific user, with the following filtering and tracking options.
 
-  ![Frame 427319498 (1).png](_img/a358e9c08798622c.webp)
+  ![Frame 427319498 (1).png](_img/c6328fc790a572c0.webp)
 
   - **Filters Available**
     - **Date Filter**: Filter activities by a selected date range.
@@ -48,7 +48,7 @@ The **Insights** section provides an overview of user statistics and login trend
     - Displays a specific user’s actions related to roles, connections, automations, or pipelines (linked to respective pages).
     - Shows the **activity type, date, and time**.
 
-      ![Frame 427319499.png](_img/9a14796fef22a955.webp)
+      ![Frame 427319499.png](_img/7f921985480103a6.webp)
 
     - Includes the **Show Changes Button** for connections, roles, automations, and pipelines to review updates made.
 

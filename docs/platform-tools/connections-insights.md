@@ -44,4 +44,4 @@ With this centralization, monitoring these connections also becomes critical to 
 
 Here’s a sample view from the Connection Insights dashboard:
 
-![Group 68 (2).png](_img/dad03f0878604408.webp)
+![Group 68 (2).png](_img/51d8f302b673307e.webp)

@@ -25,7 +25,7 @@ When a record is flagged as a potential match, the system can:
 
 Or use a relevance-based action (e.g., merge if similarity score is above a threshold, otherwise quarantine for review).
 
-![Group_52.png](_img/7d2d920baa83389f.webp)
+![Group_52.png](_img/15765ed1a670d9d7.webp)
 
 ## **Rejected records**
 
@@ -35,7 +35,7 @@ How They Are Handled:
 
 Such records are not loaded into the main data repository. They are typically moved to a quarantine or rejected records section for further review. Data stewards can review the reason for rejection, correct the data, and attempt to reprocess the record if needed.
 
-![Group_53.png](_img/2c18cbfb5608fa9a.webp)
+![Group_53.png](_img/7b1f667edb93ddb1.webp)
 
 ## **How Are Records Quarantined?**
 

@@ -27,7 +27,7 @@ Two environments, however, cannot be created arbitrarily — they must follow de
   - `Domain`: Specify the domain (ex: acme-uat.unifyapps.com) of the connected environment
   - `Environment Token`: Add the short lived token for the environment that you want to connect to. Please refer to the “Environment Token” section below for more details
 
-    ![Group 75.png](_img/43e4bd512d4b0201.webp)
+    ![Group 75.png](_img/9c0f5bf6fd995159.webp)
 
 **Step 3: Generate Environment Token**
 
@@ -53,7 +53,7 @@ Once two environments have been connected, users can click on them and define de
   - `MATCHING PROPERTY`**:** This is used to Map custom user attributes to match identities between environments. This can have values like Email, Name, UserId etc.
   - `JIT Provisioning`**:** This is used to auto create new users when no matching user is found
 
-    ![Group 74.png](_img/005180f1dcea60c8.webp)
+    ![Group 74.png](_img/40afec8a676b54aa.webp)
 
 ## Best Practices
 

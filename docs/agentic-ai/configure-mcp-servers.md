@@ -29,11 +29,11 @@ UnifyApps platform is engineered to facilitate the sharing of its powerful workf
 
 1. In the UnifyApps AI platform, head over to the MCP tab and create your own MCP server by clicking on `Add new MCP`. After that you can add the required tools you want to access using MCP protocol using the `Add Tool` button. You can also customize prompts and settings.
 
-  ![Frame 427319421.png](_img/7f4265a7bf1a57b7.webp)
+  ![Frame 427319421.png](_img/b378557fa73a2aed.webp)
 
 2. Then head over to Manage API to expose this MCP server as an API and manage it using UnifyApps API manager.
 
-  ![Frame 427319420.png](_img/4c3ea7d06011f256.webp)
+  ![Frame 427319420.png](_img/6aaf2ca0db564a62.webp)
 
 3. Now you can create new APIs or export API group for exposing this MCP server and to use it as an API. You can also manage Client, Activity and settings to fine-tune it according to your specific use case.
 

@@ -1,4 +1,4 @@
-# Overview
+# Team of AI agents overview
 
 Source: https://www.unifyapps.com/docs/unify-agentic-ai/team-of-ai-agents-overview
 Section: agentic-ai
@@ -9,22 +9,22 @@ Section: agentic-ai
 
 A Team of AI Agents provides a powerful way to orchestrate multiple AI agents working together as a cohesive system. Rather than deploying separate standalone agents or overburdening a single agent with diverse responsibilities, you can create specialized teams managed by a single manager agent, where each agent excels in its particular domain. Ultimately, users experience a seamless interaction while benefiting from the combined intelligence and efficiency of a coordinated team working behind the scenes.
 
-![Frame 289.png](_img/63742b655bc56ff5.webp)
+![Frame 289.png](_img/a4825baad38bd76e.webp)
 
 ## Core Components
 
 1. **AI Manager** The agent activities and task allocation are managed by a master agent to ensure accuracy and consistency in execution. This manager agent coordinates communication between specialized team members, handles exceptions, and maintains context across multiple agent interactions. UnifyApps allows you to select a specific LLM (like Claude Sonnet 3.5) to act as your team's manager and provide custom instructions to guide its management approach.
 
-  ![Frame 290.png](_img/18b4f9e84f22c72d.webp)
+  ![Frame 290.png](_img/2db93a56d7049660.webp)
 
 2. **Task Planning** Tasks define different journeys the team of agents can take, allowing you to structure different flows your agent can execute. UnifyApps provides the option between pre-defining your task workflow or guide an agent to orchestrate it for you:
   - **Auto Planning:** The Planner LLM figures out the plan automatically, determining the optimal execution strategy based on your high-level instructions. These instructions guide the LLM in generating an appropriate execution plan while giving it flexibility to adapt to different scenarios.
 
-    ![Frame 292.png](_img/3686760e7c3b127b.webp)
+    ![Frame 292.png](_img/1218d44c9d4a0a8f.webp)
 
   - **Manual Planning**: You manually define each step of the task, maintaining complete control over the workflow. This approach allows you to create deterministic processes by specifying exactly which agent handles each step, what instructions they receive, and the precise sequence of operations.
 
-    ![Frame 291.png](_img/e4f61733cb6d40c4.webp)
+    ![Frame 291.png](_img/9d93b1436082d51f.webp)
 
 The planning approach can be selected for each task, giving you flexibility based on complexity and requirements.
 

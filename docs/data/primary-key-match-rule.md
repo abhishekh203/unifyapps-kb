@@ -14,7 +14,7 @@ Unlike fuzzy matching rules that rely on probability (e.g., similar names or add
 Because primary keys are definitive sources of truth, this rule is typically configured to trigger automatic actions, serving as the first line of defense in maintaining a clean Golden Record. 
  The **Primary Key Match Rule** in UnifyApps is automatically generated when an Entity includes a field marked as the **Primary Key (PK)**. Because primary keys guarantee record uniqueness, this rule is fully preconfigured, cannot be modified, and always remains active for that Entity.
 
-![Group_28.png](_img/29237187c5adc247.webp)
+![Group_28.png](_img/540c4c367186c3a9.webp)
 
 ### **How the Primary Key Match Rule Works**
 

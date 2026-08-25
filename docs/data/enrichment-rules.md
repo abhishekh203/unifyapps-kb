@@ -5,7 +5,7 @@ Section: data
 
 ---
 
-![Group_71.png](_img/9836d4570beeeebe.webp)
+![Group_71.png](_img/836853ae1f572ee2.webp)
 
 **Aggregation-Based Enrichment**
 

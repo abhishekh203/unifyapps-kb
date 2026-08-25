@@ -1,4 +1,4 @@
-# Scanner
+# Scanner component
 
 Source: https://www.unifyapps.com/docs/unify-applications/scanner
 Section: applications
@@ -9,7 +9,7 @@ Section: applications
 
 Scanner by UnifyApps provides powerful barcode and QR code scanning capabilities for your applications. This enables you to integrate real-time data capture from physical items into your workflows, automate inventory management, track shipments, and streamline various business processes that rely on scanning physical codes.
 
-![Frame 427319274 (3).png](_img/9bbda91fde6fcc47.webp)
+![Frame 427319274 (3).png](_img/961587384db37483.webp)
 
 ## Use Cases
 
@@ -40,7 +40,7 @@ The Scanner component can be configured to trigger various actions when a scan i
 
 The Scanner component can be added to your application interface and configured within your component hierarchy.
 
-![Frame 427319275 (3).png](_img/f230815899c21ea2.webp)
+![Frame 427319275 (3).png](_img/bfbcc65f0d7516e3.webp)
 
 **Component Hierarchy:**
 
@@ -53,7 +53,7 @@ The Scanner component can be added to your application interface and configured 
 
 Configure the core functionality of the Scanner component to meet your specific scanning requirements.
 
-![Frame 427319276 (4).png](_img/7cf20e1d0681882d.webp)
+![Frame 427319276 (4).png](_img/328bf2980824060b.webp)
 
 **Content Settings:**
 
@@ -72,7 +72,7 @@ Configure the core functionality of the Scanner component to meet your specific 
 
 Customize the visual aspects of the Scanner component to match your application design and improve user experience.
 
-![Frame 427319277 (3).png](_img/d433df0c10087c8d.webp)
+![Frame 427319277 (3).png](_img/05f990b0abd6051f.webp)
 
 **Appearance Settings:**
 

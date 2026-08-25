@@ -1,4 +1,4 @@
-# Comments
+# Comments component
 
 Source: https://www.unifyapps.com/docs/unify-applications/comments
 Section: applications
@@ -30,7 +30,7 @@ The **Comments** feature in UnifyApps is an interactive communication tool that 
   - Text formatting options include bold, italic, strikethrough, underline
   - Click "`Add Comment`" button to save and display the comment
 
-    ![Frame 427319369.png](_img/cd8f99d4f47b52fe.webp)
+    ![Frame 427319369.png](_img/e90ad5077e6dadaf.webp)
 
 2. **Reply to Comment:**
   - Select the specific comment to respond to
@@ -38,7 +38,7 @@ The **Comments** feature in UnifyApps is an interactive communication tool that 
   - Click "`Add Reply`" to submit the response
   - Replies appear nested under the original comment
 
-    ![Frame 427319368.png](_img/7304d630e7b7d995.webp)
+    ![Frame 427319368.png](_img/e5d903966cf847c0.webp)
 
 3. **Delete Comment/Reply:**
   - Comments can be removed by their authors

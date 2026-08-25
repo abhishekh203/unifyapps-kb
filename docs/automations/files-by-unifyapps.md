@@ -9,13 +9,13 @@ Section: automations
 
 Files by UnifyApps is used to **create a file object** out of a given **URL** or **base-64 content**. This enables us to pass this file object further down the automation and into other apps as and when required.
 
-![Frame 427319206 (8).png](_img/d2b0ba3a739ef8aa.webp)
+![Frame 427319206 (8).png](_img/b5093baddc191f98.webp)
 
 ## Use Case
 
 We have a public **URL** for a **PDF** file which we wish to upload to our **Amazon S3 server**. To do so, we pass the URL into Files by UnifyApps, enabling us to create a file object out of it, which can then be passed into the Amazon S3 node to be uploaded.
 
-![Group 153.png](_img/a8176b5342c1ced8.webp)
+![Group 153.png](_img/97c2dc0f782726f7.webp)
 
 ## How to use Files by UnifyApps?
 
@@ -27,4 +27,4 @@ We have a public **URL** for a **PDF** file which we wish to upload to our **Ama
   - `URL/ Base64 Content`: Provide the URL or the Base64 Content in the input box.
 3. Finally, we obtain the output with the following information pieces: `Name`, `Source`, `Source Type`, and `File Type`.
 
-![Frame 427319207 (4).png](_img/c26a2062e7e4985c.webp)
+![Frame 427319207 (4).png](_img/76aa89c6dded65c2.webp)

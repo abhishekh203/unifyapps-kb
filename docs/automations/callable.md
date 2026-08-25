@@ -11,7 +11,7 @@ Callables by UnifyApps enable the creation of reusable automations that can be *
 
 "It allows you to seamlessly integrate with third-party systems, support dynamic automation selection based on runtime conditions, and implement conditional execution based on trigger parameters."
 
-![Frame 427319209 (15).png](_img/9f2a4c1a97107491.webp)
+![Frame 427319209 (15).png](_img/4a169ca7e1bd6fb8.webp)
 
 ## Key Features
 
@@ -31,7 +31,7 @@ Anyone can use this endpoint to access and consume data without requiring access
 - Start by creating automation with “`Call Automation via API`” as a **trigger**.
 - Define the request and response structures for the endpoint by defining the API request trigger parameters required for searching a ticket in Zendesk. For example: **Email address or ticket ID** **Note:** Refer to this [article](/docs/unify-automations/callable-via-api) to know more about configuring request and response structure.
 
-  ![Frame 427319210 (9).png](_img/5bac89a63511eee9.webp)
+  ![Frame 427319210 (9).png](_img/1f26ca4c73465e7c.webp)
 
 - Select the “`Get ticket details by ID`” action in Zendesk and map the “`Ticket ID`” to the “`Call Automation via API`” output.
 - If the ticket exists then create a Case in Salesforce using the “`Create Record`” action in Salesforce.
@@ -39,7 +39,7 @@ Anyone can use this endpoint to access and consume data without requiring access
 - In the Response Schema section, **map** the appropriate data to the schema fields.
 - For example, we want to return the created Case’s ID in the response, so we'll map our response field to the Case ID datapill returned from the Create record in Salesforce action.
 
-  ![Frame 427319211 (9).png](_img/90adf410525f301f.webp)
+  ![Frame 427319211 (9).png](_img/b31fdf9a104363da.webp)
 
 ## Detailed Breakdown
 

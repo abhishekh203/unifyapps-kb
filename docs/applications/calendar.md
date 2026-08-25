@@ -1,4 +1,4 @@
-# Calendar
+# Calendar component
 
 Source: https://www.unifyapps.com/docs/unify-applications/calendar
 Section: applications
@@ -9,7 +9,7 @@ Section: applications
 
 The Calendar component is a date-picker widget that allows users to view and select dates in a calendar format. It's essential for applications requiring date selection functionality, such as booking systems, scheduling interfaces, or any form that needs date input. The component offers month-year navigation and a grid-based date display for date selection.
 
-![Master - Do not Edit@3x.png](_img/caa8e75177059cdc.webp)
+![Master - Do not Edit@3x.png](_img/a270c2548cfbf1a6.webp)
 
 ## Configuring Key Properties of Calendar
 
@@ -61,6 +61,6 @@ Choose how your calendar is displayed to users with three different view options
 - `Dual Month`: Side-by-side view of two consecutive months, ideal for date range selection
 - `Weekly`: Compact week-based view for focused scheduling and short-term planning.
 
-![Master - Do not Edit@3x (1).png](_img/c571622dae61114a.webp)
+![Master - Do not Edit@3x (1).png](_img/cf6bdeda6423f2d6.webp)
 
 > **Note:** You can refer to Appearance Settings documentation to know more about defining Layout for each component.

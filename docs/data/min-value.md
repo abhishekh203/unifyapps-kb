@@ -1,4 +1,4 @@
-# Min Value
+# Min value
 
 Source: https://www.unifyapps.com/docs/unify-data/min-value
 Section: data

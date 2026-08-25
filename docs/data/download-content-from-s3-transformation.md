@@ -27,7 +27,7 @@ The Download Content from S3 transformation enables you to retrieve files direct
 
 **Configuration Steps**
 
-![Frame 427319227 (4).png](_img/e2aa3040c9622a38.webp)
+![Frame 427319227 (4).png](_img/d6dd4649a0daa07d.webp)
 
 1. From your transformation dashboard, select "`Download Content from S3`"
 2. Configure the S3 connection (see details below)
@@ -41,7 +41,7 @@ The Download Content from S3 transformation enables you to retrieve files direct
 
 1. **S3 Connection** You need to configure how your system connects to Amazon S3: **Security Best Practice**: Use IAM roles with temporary credentials rather than long-term access keys whenever possible. **Note:** Check the documentation for Amazon S3 connector [here](https://www.unifyapps.com/docs/unify-automations/amazon-s3).
 
-  ![Frame 427319228 (3).png](_img/f68bf5d2c54bbc5e.webp)
+  ![Frame 427319228 (3).png](_img/c97f54634cbf54f2.webp)
 
   - **Use Existing Connection**: Select a previously configured S3 connection
   - **Create New Connection**: Set up a new connection with the following:
@@ -54,7 +54,7 @@ The Download Content from S3 transformation enables you to retrieve files direct
   - `Path Format`: Choose between full URI format or separate bucket/key components
 3. **Output Configuration**
 
-  ![Frame 427319229 (3).png](_img/ffd7d1ecb56b2d87.webp)
+  ![Frame 427319229 (3).png](_img/fbae69e5ad6c618c.webp)
 
   - **Transformed Field Name**: The name of the new field that will store the downloaded content
   - **Output Format**: Binary

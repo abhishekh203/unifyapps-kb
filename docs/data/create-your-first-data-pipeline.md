@@ -11,4 +11,4 @@ This article will walk you through the process of **creating your first data pip
 
 We'll cover each step in detail, from setting up your **source** and **destination** to deploying your pipeline.
 
-![Frame 427319215 (2).png](_img/6ff5ddd59103a73e.webp)
+![Frame 427319215 (2).png](_img/8423035aad5f971b.webp)

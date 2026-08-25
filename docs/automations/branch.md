@@ -12,7 +12,7 @@ The branch node is essential for **executing multiple actions** sequences simult
 Each branch can be configured with specific conditions that determine when it activates, using conditional logic: 
 "**If** `A happens` **in your condition node, then** `do X`**. If** `B happens`**, then** `do Y`**."**
 
-![Frame 427319237 (2).png](_img/1be495caa241bd0a.webp)
+![Frame 427319237 (2).png](_img/b3c351b87f175b2c.webp)
 
 The branch node offers robust functionality for managing complex automations and clubbing multiple conditions at a single node.
 
@@ -28,23 +28,23 @@ This setup triggers when a new ticket is created or an existing ticket is update
 
 1. Set a branch node where we **compare the ticket priority** in different branches and perform tasks accordingly.
 
-  ![Frame 427319238 (3).png](_img/d6ecb6f0c7881f02.webp)
+  ![Frame 427319238 (3).png](_img/4a5f4ebf5b5a792e.webp)
 
 2. In each branch, set the respective priority conditions and add the corresponding app actions: Slack, Gmail, and Asana.
 3. Also, define the branch action for the "`If no conditions are met`" branch, with a Slack message as **'**`Default`**'**.
 
-  ![Frame 427319205 (2).png](_img/04a5fb95873fe32c.webp)
+  ![Frame 427319205 (2).png](_img/7d36b19e2347c33a.webp)
 
 ## Additional Features
 
 1. **No-condition branch**: It includes an automatically added "`If no conditions are met`" branch, which executes when none of the other conditions are satisfied.
 2. **Branch Addition**: Using the `add` button on the branch node, you can add a branch to accommodate another set of conditions.
 
-  ![Frame 427319239.png](_img/254a8ad36418ebbf.webp)
+  ![Frame 427319239.png](_img/1303dab7d4235f45.webp)
 
 3. **Branch Deletion**: All branches, except the initial two and the "If no conditions are met" branch, can be removed by deleting the respective branch's condition node.
 
-  ![Frame 427319236 (4).png](_img/a3a6d0ebb89527c6.webp)
+  ![Frame 427319236 (4).png](_img/9d6cb3dadf107e63.webp)
 
 4. **Branch Copying**: Branches can be copied and pasted into other nodes directly, eliminating the need to rebuild the entire logic from scratch.
 5. **Branch Pasting**: Branch nodes allow two pasting options for copied nodes:

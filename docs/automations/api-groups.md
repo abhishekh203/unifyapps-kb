@@ -1,4 +1,4 @@
-# API Groups
+# API groups
 
 Source: https://www.unifyapps.com/docs/unify-automations/api-groups
 Section: automations
@@ -17,7 +17,7 @@ Each automation or process within your system can be transformed into a dedicate
 
 To view or create API Groups, navigate to the API manager section. Here, you will find all the groups available within your workspace.
 
-![Frame 137 (2).png](_img/2022c44fde997886.webp)
+![Frame 137 (2).png](_img/840ae6420030ac6e.webp)
 
 ## Creating your first API Groups
 
@@ -29,10 +29,10 @@ You can create your first API Group by clicking on “`New API Groups`” on the
 4. **Specify Version:** Enter the Version you want to give to your collection. You can enter something like 1.0 or v1.
 5. **Policies:** API Policies helps manage and govern the access of API. you can attach multiple policies to an API and can specify the order of execution of the policies by simply dragging the API policies.
 
-  ![Frame 138 (2).png](_img/2881daa76bffa707.webp)
+  ![Frame 138 (2).png](_img/8b8a8f37f686847b.webp)
 
 ## Exporting API Groups
 
 To share or save the specifications of your API groups, use the "`Export API Groups`" at the top right of the API group’s page. This tool generates a YAML file containing all API details, making it convenient for sharing.
 
-![Frame 139 (2).png](_img/cc3480166174c8a8.webp)
+![Frame 139 (2).png](_img/22b119215ace044d.webp)

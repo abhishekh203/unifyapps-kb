@@ -1,4 +1,4 @@
-# Text Input
+# Text Input component
 
 Source: https://www.unifyapps.com/docs/unify-applications/text-input
 Section: applications
@@ -9,13 +9,13 @@ Section: applications
 
 The Text Input component allows users to input text within your application, with options for configuring default values, placeholder text, labels, additional add-ons and customizing it for enhanced user guidance. This guide provides a detailed overview of configuring and personalizing the Text Input component.
 
-![Master - Do not Edit (29).png](_img/002d2991077e3ef4.webp)
+![Master - Do not Edit (29).png](_img/6081c8bb1aa5a053.webp)
 
 ## Configuring the Text Input Component
 
 Once the Text Input component is added, you can configure its properties through the right-side configuration panel.
 
-![Master - Do not Edit (30).png](_img/ad749820ec9b92e7.webp)
+![Master - Do not Edit (30).png](_img/406f3b6e312dcd71.webp)
 
 ### Setting Content and Text Input options
 
@@ -26,7 +26,7 @@ Once the Text Input component is added, you can configure its properties through
 
 Under the "`Add-ons`" section, you can add elements to guide users with extra context and clarity around the Text Input.
 
-![Master - Do not Edit (31).png](_img/4b730e16bca21111.webp)
+![Master - Do not Edit (31).png](_img/4a59f52ed2c78eb6.webp)
 
 - `Label`**:** Appears above the input to describe what users should enter.
 - `Caption`**:** Adds a brief note below the field for additional guidance.

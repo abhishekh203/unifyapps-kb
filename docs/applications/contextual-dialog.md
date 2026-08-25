@@ -1,4 +1,4 @@
-# Contextual Dialog
+# Contextual Dialog component
 
 Source: https://www.unifyapps.com/docs/unify-applications/contextual-dialog
 Section: applications
@@ -22,7 +22,7 @@ The Contextual Dialog is particularly useful when you want to:
 
 Essentially, if you need to present focused content or actions related to a specific element on the screen, without a full page reload or navigation, the Contextual Dialog is an excellent choice.
 
-![Frame 427319381.png](_img/00c7a1ff68eecd58.webp)
+![Frame 427319381.png](_img/b1954c640bccd0cc.webp)
 
 ## Key Properties / Configuration (Content Tab)
 
@@ -45,13 +45,13 @@ The `Content` tab is where you define what triggers the dialog, what type of con
 - **Permissions:**
   - Standard Unify Applications feature to control the visibility of the Contextual Dialog based on the logged-in user's role or specific conditions.
 
-![Frame 427319382.png](_img/28c5d28d98366167.webp)
+![Frame 427319382.png](_img/4e90bc7d0419ce50.webp)
 
 ## Appearance Customization (Appearance Tab)
 
 The `Appearance` tab allows you to control the positioning, size, and visual styling of the Contextual Dialog.
 
-![Frame 427319383.png](_img/76863d99b089e42e.webp)
+![Frame 427319383.png](_img/3cb7a554e96e5c3b.webp)
 
 ### Positioning Relative to Trigger ("Block")
 
@@ -59,7 +59,7 @@ The `Appearance` tab allows you to control the positioning, size, and visual sty
 - **Alignment:** Fine-tune the dialog's alignment along the chosen Side (e.g., Start, Center, End).
 - **Offset:** Specify a distance (e.g., 0px, 10px) to offset the dialog from the "Block" component, creating space if needed.
 
-![Frame 427319384.png](_img/e9f5831b4e3ae1c3.webp)
+![Frame 427319384.png](_img/da68df7b6acfdd25.webp)
 
 ### Dialog Layout & Styling
 
@@ -70,7 +70,7 @@ The `Appearance` tab allows you to control the positioning, size, and visual sty
   - `Flex Layout`: Apply flexbox properties if the dialog's internal Body content needs specific flex alignment (more relevant for Card variant with multiple child components).
   - `Visibility`: A basic toggle for the dialog's visibility, often controlled dynamically via the Visibility settings in the Content tab.
 
-![Frame 427319385.png](_img/4b9258e86495f257.webp)
+![Frame 427319385.png](_img/ae3a820e1741552c.webp)
 
 - **Background:**
   - `Color`**:** Set the background color of the dialog.
@@ -83,7 +83,7 @@ The `Appearance` tab allows you to control the positioning, size, and visual sty
   - `Color`**:** Choose the colour of the border.
   - `Corner Radius`**:** Apply rounded corners to the dialog.
 
-![Frame 427319386.png](_img/0fbcf3406b2e2a38.webp)
+![Frame 427319386.png](_img/384ede0fa2199ac3.webp)
 
 ## Use Cases
 

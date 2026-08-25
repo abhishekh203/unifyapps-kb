@@ -22,7 +22,7 @@ The following fields are available when creating or editing an IP Based Access C
 | `Allow List` | Specifies the list of IP addresses or IP ranges that are permitted to access the API.  Multiple IPs can be added by separating them with commas. **Optional** |
 | `Block List` | Specifies the list of IP addresses or IP ranges that are denied access to the API.Multiple IPs can be added by separating them with commas. **Optional** |
 
-![image1 6 (1).png](_img/4fd5839c872bcee9.webp)
+![image1 6 (1).png](_img/cbc044fd0983d7b1.webp)
 
 ## How It Works
 

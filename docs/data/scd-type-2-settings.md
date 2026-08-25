@@ -142,6 +142,6 @@ To enable these timestamp fields in your UnifyApps data pipeline:
 3. Tick the **”**`Populate Created and Updated Timestamps`**”** option.
 4. Click on `Save` to save your pipeline configuration.
 
-![Frame 427319239 (2).png](_img/73bb5571c945e4c6.webp)
+![Frame 427319239 (2).png](_img/4a2f1e8626f22236.webp)
 
 By implementing these timestamp fields, you gain valuable insights into the lifecycle of your data and ensure proper tracking of when records were created and last modified in your data pipelines.

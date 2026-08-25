@@ -1,4 +1,4 @@
-# React based Embed
+# React based embed
 
 Source: https://www.unifyapps.com/docs/embedded-integrations/platform-embed-react-sdk
 Section: embedded-integrations

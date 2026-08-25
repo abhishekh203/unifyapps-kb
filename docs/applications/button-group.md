@@ -1,4 +1,4 @@
-# Button Group
+# Button group component
 
 Source: https://www.unifyapps.com/docs/unify-applications/button-group
 Section: applications
@@ -9,7 +9,7 @@ Section: applications
 
 The Button Group is an interactive component that lets users perform multiple actions through a set of buttons. It allows users to trigger different actions, navigate to other pages, redirect to URLs, and interact with various data sources within the application.
 
-![Group 164.png](_img/f11937d356d21698.webp)
+![Group 164.png](_img/3752eedfa959a834.webp)
 
 ## Key Properties
 
@@ -24,7 +24,7 @@ Once the Button Group component is added to the canvas, you can configure it wit
 3. **Label of a Button:** Enter the text for each button in the “`Label`” field. This is the text that will appear on each button.
 4. **Interactions on Each Button:** Specify the interactions that should occur when a button is clicked. Click the “`+`” button under "`Interactions`" to add actions such as triggering a data source, navigating to another page, and more. **Note:** You can refer to interactions article to know more about setting up event handlers in your application.
 
-  ![Group 165.png](_img/9d549dc3911b9df0.webp)
+  ![Group 165.png](_img/3ca803568f003193.webp)
 
 ## Add Loading State
 
@@ -47,7 +47,7 @@ Use the appearance settings to align the look and functionality of the button gr
 - **Variant:** Choose the button style from options like `Solid` (with background fill), `Outline` (border only), or `Ghost` (text-only).
 - **Visibility:** Set visibility controls to display or hide the component based on conditions or user roles, enabling a more interactive experience.
 
-  ![Group 166.png](_img/81d653652703530d.webp)
+  ![Group 166.png](_img/5f2df2e6a8989b54.webp)
 
 ## Defining Permissions
 

@@ -1,4 +1,4 @@
-# Tag
+# Tag component
 
 Source: https://www.unifyapps.com/docs/unify-applications/tag
 Section: applications
@@ -9,7 +9,7 @@ Section: applications
 
 Tag component is a visual label used to **highlight**, or **display** **status** information in your application. This article explains how to configure and utilize Tag components.
 
-![Group 65 (1).png](_img/d52ee12662189a8b.webp)
+![Group 65 (1).png](_img/791d09c7539ee209.webp)
 
 ## Key Properties
 
@@ -23,7 +23,7 @@ After adding a Tag component to your design, customize it using the properties p
 
 Customize the Tag's appearance to match your application's design:
 
-![Group 65.png](_img/946ee0b03933ea46.webp)
+![Group 65.png](_img/d4f5742a277c0b16.webp)
 
 | Property | Description |
 |---|---|

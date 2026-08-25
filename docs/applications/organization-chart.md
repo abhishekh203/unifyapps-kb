@@ -23,11 +23,11 @@ You may configure an Organizational chart component by following the below steps
 | `Parent Key` | This field is used to identify & display the Parent key in the org chart.  For e.g. in the screenshot below, we are using “”Manager” as the parent key. This will ensure that in the org chart hierarchy, Manager entity is being used to create organizational branches |
 | `Initial focus user id` | This field is used to set the initial focus on any particular user. You can select a particular user or use data elements to focus on users dynamically. For e.g. in the screenshot below, we are focussing on the “userId” being passed from “PageInput” variables to focus on the user whose details have been clicked/passed from the previous page. |
 
-![Group 80.png](_img/f4b5aa367a560d15.webp)
+![Group 80.png](_img/3ad529eea4a6a9f3.webp)
 
 ## Appearance Customization
 
-![Frame 427319322 (2).png](_img/0e18e391588c4a96.webp)
+![Frame 427319322 (2).png](_img/4942c9a067ea857b.webp)
 
 **Layout:** Details about the layout can be found in the table below:
 

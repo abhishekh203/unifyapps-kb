@@ -1,4 +1,4 @@
-# Cache Management
+# Cache management
 
 Source: https://www.unifyapps.com/docs/unify-automations/cache-management
 Section: automations
@@ -13,7 +13,7 @@ Caching reduces redundant processing and improves response times by temporarily 
 
 The Automation Builder allows you to configure caching for workflow nodes to store responses temporarily. Below are the key configuration options:
 
-![Frame 427319357 (4).png](_img/a6cb9bf9d4210ed9.webp)
+![Frame 427319357 (4).png](_img/047d1e605844e836.webp)
 
 **Features**
 
@@ -39,7 +39,7 @@ The Automation Builder allows you to configure caching for workflow nodes to sto
 
 In the API Manager, caching can be configured as part of policies to optimize API performance. A single cache policy can also be reused across multiple APIs, ensuring consistency and reducing configuration overhead.
 
-![Frame 427319358 (2).png](_img/25b07667bd83f1ec.webp)
+![Frame 427319358 (2).png](_img/266298773fabe963.webp)
 
 **Features**
 
@@ -62,7 +62,7 @@ In the API Manager, caching can be configured as part of policies to optimize AP
   - Example: A policy con
   - figured with a Cache Key of product_id can be used across all APIs fetching product details, reducing redundant configurations.
 
-    ![Frame 427319359 (3).png](_img/4759c89007c55c1d.webp)
+    ![Frame 427319359 (3).png](_img/19c8c9b9424d10b6.webp)
 
 ## Clearing Cache
 

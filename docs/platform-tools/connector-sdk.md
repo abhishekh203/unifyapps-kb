@@ -52,4 +52,4 @@ Here’s a sample view from the Connector SDK dashboard
 
 As seen above, you get a clear and organized table view with sortable columns. Each row represents a unique Connector SDK, complete with relevant metadata for easier management.
 
-![Group 121.png](_img/f9b65b8df6bc903d.webp)
+![Group 121.png](_img/e68fa2dd02c8c393.webp)

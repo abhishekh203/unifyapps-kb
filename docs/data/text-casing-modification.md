@@ -7,7 +7,7 @@ Section: data
 
 Text casing modification standardizes the capitalization of text data, ensuring consistency in how your information appears across systems and reports. This straightforward yet powerful technique improves data quality and enhances analytical capabilities.
 
-![Frame 427319218 (12).png](_img/004b0d4bf5175809.webp)
+![Frame 427319218 (12).png](_img/e37320a2a0d57b67.webp)
 
 ## Why Use Text Casing Modification?
 
@@ -20,11 +20,11 @@ Text casing modification standardizes the capitalization of text data, ensuring 
 
 1. `To Lowercase` Converts all alphabetic characters to lowercase format. **Before:** "USER_ID-123" **After:** "user_id-123" **Best for:** Email addresses, usernames, search terms, and general text standardization.
 
-  ![Frame 427319219 (11).png](_img/e8574058175304e1.webp)
+  ![Frame 427319219 (11).png](_img/386ae692a15d09c3.webp)
 
 2. `To Uppercase` Converts all alphabetic characters to uppercase format. **Before:** "product-code-abc" **After:** "PRODUCT-CODE-ABC" **Best for:** Codes, abbreviations, acronyms, and creating visual emphasis.
 
-  ![Frame 427319220 (10).png](_img/a4f523adc32cbbfd.webp)
+  ![Frame 427319220 (10).png](_img/2d17e72e684fae06.webp)
 
 ## How to Apply Text Casing Transformation?
 

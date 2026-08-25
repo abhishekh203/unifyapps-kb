@@ -7,7 +7,7 @@ Section: data
 
 The Upload Content to S3 transformation moves your data directly to Amazon S3 cloud storage from within your data pipeline. This powerful capability bridges the gap between data processing and storage, enabling seamless integration with the AWS ecosystem and beyond.
 
-![Frame 427319230 (2).png](_img/c7a3b15bd2914ee0.webp)
+![Frame 427319230 (2).png](_img/d9b141bff93cfe35.webp)
 
 ## Why Use Upload Content to S3?
 
@@ -20,7 +20,7 @@ The Upload Content to S3 transformation moves your data directly to Amazon S3 cl
 
 ## Setting Up the S3 Upload Transformation
 
-![Frame 427319230 (3).png](_img/b21243f6988bd4d6.webp)
+![Frame 427319230 (3).png](_img/e0f4d6f24a42728c.webp)
 
 1. Navigate to your transformation menu and select "`Upload Content to S3`"
 2. Choose or create an Amazon S3 connection
@@ -32,7 +32,7 @@ The Upload Content to S3 transformation moves your data directly to Amazon S3 cl
 
 1. **S3 Connection** Establishes authentication with AWS using your credentials. **Options:** **Security Best Practice:** Use IAM roles with temporary credentials rather than long-term access keys when possible. **Note:** Check the documentation for Amazon S3 connector [here](https://www.unifyapps.com/docs/unify-automations/amazon-s3).
 
-  ![Frame 427319232 (2).png](_img/d8c2f92f3463204d.webp)
+  ![Frame 427319232 (2).png](_img/bd7fcab7a6fd2666.webp)
 
   - Select an existing connection from your saved connections
   - Create a new connection with your AWS access key, secret key, and region
@@ -49,7 +49,7 @@ The Upload Content to S3 transformation moves your data directly to Amazon S3 cl
   - Field value: reports/2024/04/daily.parquet → Uploads to s3://bucket-name/reports/2024/04/daily.parquet
 4. **Transformed Field Name** Creates a new field in your data that stores the complete S3 URL of the uploaded file. **Example Value:** s3://company-data-lake/reports/monthly/2024/04/data.parquet
 
-  ![Frame 427319233 (2).png](_img/e9ba59c3eecba1aa.webp)
+  ![Frame 427319233 (2).png](_img/c35467b2bd96801f.webp)
 
 ## How It Works?
 

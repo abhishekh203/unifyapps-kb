@@ -25,7 +25,7 @@ The configuration is divided into two strategic sections:
 - **Field Type:** Specifies the data format. Common options include **String**, **Integer**, **Date**, and **Boolean**.
 - **Default Value:** Allows you to set a static value that will be automatically populated if the incoming data record is null or missing this attribute. 2. **Additional Settings** These settings control how the UnifyApps platform indexes, validates, and secures the data stored in this field.
 
-  ![Group_24.png](_img/fc5880c4400458a8.webp)
+  ![Group_24.png](_img/b2d6423ac074413e.webp)
 
 - **Filterable:** Enables this field to be used as a filter criteria in dashboards and queries (e.g., "Show all records where Status = Active").
 - **Searchable:** Indexes the field for full-text search, allowing users to find records by typing values contained within this field.

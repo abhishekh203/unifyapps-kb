@@ -40,29 +40,29 @@ Let’s take an example on how you can bucketize all the high tickets present in
 
 1. Create a variable list “`ticketStatus`” where you'll store the ticket id based on the priority of the ticket.
 
-  ![Frame 427319212 (8).png](_img/72dcf360c4cc8601.webp)
+  ![Frame 427319212 (8).png](_img/20629959984d6dc6.webp)
 
 2. Run “`For each item in the list`” action in Loop, to check the priority of each ticket and identify those marked as "`High`" priority.
 3. Add an item to the “`ticketStatus`” List with Ticket ID wherever it find the priority of ticket market ”`High`”.
 
-  ![Frame 427319213 (6).png](_img/d24f8d78a9959fd8.webp)
+  ![Frame 427319213 (6).png](_img/57acc98b93cf3138.webp)
 
-  ![Frame 427319211 (7).png](_img/d33dd632c3e19d63.webp)
+  ![Frame 427319211 (7).png](_img/cdbdbba4517bdd6a.webp)
 
-  ![Frame 427319214 (8).png](_img/744f08dcddd65c69.webp)
+  ![Frame 427319214 (8).png](_img/e15e317f5856baf3.webp)
 
 ## Create variables
 
 This action helps users create variables to transiently **store** and **re-use** information within an automation run.
 
-![Frame 427319216 (5).png](_img/58a7e8f35f5c49cf.webp)
+![Frame 427319216 (5).png](_img/22d18030509b1d7b.webp)
 
-![Frame 427319215.png](_img/ee81cb989bff00b8.webp)
+![Frame 427319215.png](_img/06be356e4883bd91.webp)
 
 - **Add field** : Multiple variables can be created in this step by clicking on the "`Add Field`" button.
 - **Clear All** : You can delete the variable by clicking on the Bin icon or click on the “`Clear All`” button if you want to delete all the existing variables.
 
-  ![Frame 427319218 (4).png](_img/93d949d0027c43c6.webp)
+  ![Frame 427319218 (4).png](_img/df2519c55140b4d5.webp)
 
 | **Input Fields** | **Description** |
 |---|---|
@@ -78,7 +78,7 @@ This action helps users create a list. Lists can be useful to **store multiple d
 
 List schema should be defined in this node to ensure that we can map data according to subsequent nodes such as add an item to list , add items to list(batch).
 
-![Frame 427319217.png](_img/284466a8cd7aeaf5.webp)
+![Frame 427319217.png](_img/9201214500ae41f0.webp)
 
 | **Input Field** | **Description** |
 |---|---|
@@ -93,7 +93,7 @@ The schema for list items will appear as a data pill in the output data tree, re
 
 To introduce a new field, simply utilize the "`Add field`" or “`Setup using JSON`” Option.
 
-![Frame 427319219 (3).png](_img/0456ba03af014fdb.webp)
+![Frame 427319219 (3).png](_img/6b24c718680f2a0d.webp)
 
 ## Setup using JSON
 
@@ -101,9 +101,9 @@ This action is useful if users have a predefined JSON Schema for the list they i
 
 Ensure that you are adding the schema expected **within the list** (for the Object, String, Integer) as this schema is appended within the List.
 
-![Frame 427319220 (2).png](_img/3cd7a56a8418ea5b.webp)
+![Frame 427319220 (2).png](_img/bd5028d56b432a69.webp)
 
-![Frame 427319217 (5).png](_img/1b1091cf674f717e.webp)
+![Frame 427319217 (5).png](_img/ac96f1eb2d5e60fe.webp)
 
 | **Input Fields** | **Description** |
 |---|---|
@@ -120,7 +120,7 @@ Ensure that you are adding the schema expected **within the list** (for the Obje
 
 This action updates existing variables , but it's important to note that only variables initially created with the '`Create variable`' action can be updated. **Without prior creation, this action remains unusable.**
 
-![Frame 427319218 (1).png](_img/c7e1c12053d25c63.webp)
+![Frame 427319218 (1).png](_img/59e4ae52403447e1.webp)
 
 | **Input Fields** | **Description** |
 |---|---|
@@ -133,7 +133,7 @@ This action updates existing variables , but it's important to note that only va
 
 This action helps users insert a **new record** into an already existing list . This action can be used only if a list is already defined in the automation before the node. Users can select the list and map the list schema to create a new item within the list.
 
-![Frame 427319214 (9).png](_img/2ad8668c4399c97b.webp)
+![Frame 427319214 (9).png](_img/de87502f9911035d.webp)
 
 | **Input Fields** | **Description** |
 |---|---|
@@ -147,7 +147,7 @@ This action helps users insert a **new record** into an already existing list . 
 
 This action helps users **add multiple records** to an existing list simultaneously. Users can define the list source and map the datapills based on which the records should be created within the list.
 
-![Frame 427319221 (2).png](_img/748d5965d912ab73.webp)
+![Frame 427319221 (2).png](_img/ac33308b704f0e85.webp)
 
 | **Input Fields** | **Description** |
 |---|---|
@@ -162,7 +162,7 @@ This action helps users **add multiple records** to an existing list simultaneou
 
 This action **updates** the value of variables with the name provided. The first variable found will be updated with the new value.
 
-![Frame 427319223 (2).png](_img/4b3aa22e99c407de.webp)
+![Frame 427319223 (2).png](_img/e95fd9fc2408bc6c.webp)
 
 | **Input Fields** | **Description** |
 |---|---|
@@ -176,7 +176,7 @@ This action **updates** the value of variables with the name provided. The first
 
 This action **removes** all items in an existing list. This action should be used after the Create list.
 
-![Frame 427319222.png](_img/70c26f8673ea00fc.webp)
+![Frame 427319222.png](_img/092e6e6d5a244858.webp)
 
 | **Input Fields** | **Description** |
 |---|---|

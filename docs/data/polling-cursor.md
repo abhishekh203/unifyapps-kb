@@ -72,9 +72,9 @@ In the next sync, only Robert Chen's updated record would be processed since its
 
 ## Setting Up a Polling Cursor
 
-![Frame 427319210 (19).png](_img/7f5c4f17808cff98.webp)
+![Frame 427319210 (19).png](_img/9dde0ffb9d34990c.webp)
 
-![Frame 427319211 (20).png](_img/a69c429ad3723e35.webp)
+![Frame 427319211 (20).png](_img/3d8f424976404e22.webp)
 
 To configure a Polling Cursor in your UnifyApps Data Pipeline:
 

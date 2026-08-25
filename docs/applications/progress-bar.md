@@ -1,4 +1,4 @@
-# Progress Bar
+# Progress Bar component
 
 Source: https://www.unifyapps.com/docs/unify-applications/progress-bar
 Section: applications
@@ -11,7 +11,7 @@ Progress Bar component is a visual element that displays the **completion status
 
 This article will guide you on how to configure the Progress Bar component.
 
-![Frame 427319207 (16).png](_img/93bf129b200fce0e.webp)
+![Frame 427319207 (16).png](_img/19812fd011f00096.webp)
 
 ## Key Properties
 
@@ -36,7 +36,7 @@ Like a layout component, you can **add Slots** in Progress Bar. This allows you 
 
 You can customize the appearance of the Progress Bar by navigating to the Appearance section in the Properties panel.
 
-![Frame 427319208 (15).png](_img/999428c13ee1cc96.webp)
+![Frame 427319208 (15).png](_img/adb9dee86c754a85.webp)
 
 Here are the available options for customizing the Progress Bar:
 

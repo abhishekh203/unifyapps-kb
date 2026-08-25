@@ -11,13 +11,13 @@ API acts as the gateways through which external applications interact with Unify
 
 These APIs are URLs pointing to specific operations or data within your system, making them accessible for automated processes or integrations
 
-![image 16.png](_img/d3797c6aa067f20c.webp)
+![image 16.png](_img/b9f413e4bd8403b0.webp)
 
 ## Creating your first API
 
 After you have created the API Group, you can create your first API by clicking on **“**`New API`**”** within the API Group. Follow the prompts to create your API. This may involve entering the following fields
 
-![Frame_141__1_ 1.png](_img/79694aaaf814d809.webp)
+![Frame_141__1_ 1.png](_img/0f73bb67fbaa5704.webp)
 
 1. **Name:** Provide a name to your API.
 2. **Projec**t : Select the project where the API will be utilized
@@ -76,13 +76,13 @@ Once you have created an endpoint, you can see the following attributes of the e
   - **Schema:** Describes the structure of the output data.
 - **Parameters:** Lists of query or path parameters that are part of the automation's configuration.
 
-  ![Frame_142__2_ 1.png](_img/bdda156b5dfa3da4.webp)
+  ![Frame_142__2_ 1.png](_img/ae3374c625537ecd.webp)
 
 - **Fallback Response** It serves as a default reply when the API cannot fulfill a request due to issues like server errors, invalid input, or when no other specific response is applicable. Configuring a fallback back response:
   - **HTTP status code**: you can define the status code that will be sent along with the response, such as 500 - internal server error, etc.
   - **Headers**: headers are defined in key-value pairs. You can configure multiple headers for the response
 
-    ![Master - Do not Edit.png](_img/0ae40824409302d2.webp)
+    ![Master - Do not Edit.png](_img/e3a0e7bb0f7dfdc6.webp)
 
   - **Response body:** define the response body in JSON format. You can also define the response body in different locales by clicking “`Add Another Response`”.
   - Finally, Click on the “`Create button`” to create the fallback response

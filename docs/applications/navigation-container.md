@@ -13,7 +13,7 @@ The Navigation Container component is a powerful element in your application int
 
 1. Select "`Navigation Container`" from the search results.
 
-  ![Frame 427319328 (1).png](_img/8a0d78ad73c6d0a6.webp)
+  ![Frame 427319328 (1).png](_img/1b922dcfd875d392.webp)
 
 2. You'll see a message that says "`Click to add to Root`" or similar, depending on your current selection in the hierarchy.
 3. Click to add the Navigation Container to your desired location in the component hierarchy.
@@ -65,9 +65,9 @@ NavigationContainer_2
     └── ButtonGroup_2
 ```
 
-![Frame 427319329 (1).png](_img/9b5f6b802f1abd38.webp)
+![Frame 427319329 (1).png](_img/6e4f3b6497dc125d.webp)
 
-![Frame 427319330 (3).png](_img/84c935b14891aac3.webp)
+![Frame 427319330 (3).png](_img/b8791221171873a3.webp)
 
 ## Adding Components to Navigation Sections
 
@@ -80,7 +80,7 @@ Each section in your navigation can contain specific components relevant to that
 5. **Team**: Can contain team member lists, profiles, images
 6. **Settings**: Can contain forms, button groups, toggles, input fields
 
-![Frame 427319331 (3).png](_img/b525f516da3baf64.webp)
+![Frame 427319331 (3).png](_img/29a59f8690992dd0.webp)
 
 ## Example: Adding a Form to Active Projects
 
@@ -90,7 +90,7 @@ Each section in your navigation can contain specific components relevant to that
 4. Select the Form component.
 5. The form will be added to the Active Projects section.
 
-  ![Frame 427319332 (3).png](_img/d13afa6f1035f775.webp)
+  ![Frame 427319332 (3).png](_img/828c3f427cecf76a.webp)
 
 ## Example: Adding a Chart to Analytics
 
@@ -100,7 +100,7 @@ Each section in your navigation can contain specific components relevant to that
 4. Select the Chart component of your choice.
 5. The chart will be added to the Analytics section.
 
-  ![Frame 427319333 (1).png](_img/894cacf38453f141.webp)
+  ![Frame 427319333 (1).png](_img/6e027ec96e048f4c.webp)
 
 ## Styling and Customization
 

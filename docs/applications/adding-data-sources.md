@@ -1,4 +1,4 @@
-# Add Data Sources
+# Add data Sources component
 
 Source: https://www.unifyapps.com/docs/unify-applications/adding-data-sources
 Section: applications
@@ -28,7 +28,7 @@ UnifyApps supports **multiple data sources**, each offering different functional
 2. **Select an App**
   - Browse through the list of available apps or use the search bar to find the specific data source you want to add.
 
-    ![Frame 427319207.png](_img/9bc4f8f0574f51ae.webp)
+    ![Frame 427319207.png](_img/2f09fc6643b80814.webp)
 
 3. **Define Actions and Queries**
   - Configure the actions you want to perform with your data source. For example, you can set up analytics queries or execute SQL queries for data retrieval and manipulation.

@@ -15,7 +15,7 @@ AES encryption allows you to secure any field with a 256-bit encryption key.
 
 "AES Encryption method is crucial for protecting sensitive information from unauthorized access."
 
-![Frame 427319219 (1).png](_img/75f8b1475b199387.webp)
+![Frame 427319219 (1).png](_img/3dc5654db21c8b49.webp)
 
 ### Steps to Apply Encryption
 
@@ -26,7 +26,7 @@ AES encryption allows you to secure any field with a 256-bit encryption key.
   - An IV is a 128-bit value used with the encryption key to enhance security.
   - **Example**: d4QaIQMb8RbOG5ai.
 
-![Group 65.png](_img/e5bdbf5cd939d5a7.webp)
+![Group 65.png](_img/796cd2f3d8964281.webp)
 
 ### Testing Encryption
 
@@ -39,7 +39,7 @@ You should compare the encrypted output with expected values to verify the encry
 - **Input**: Sample String
 - **Encrypted Output**: enhTmMxQS+2o1Oi1nvnpxA==
 
-  ![Frame 427319214 (5).png](_img/8cba56a8706636c3.webp)
+  ![Frame 427319214 (5).png](_img/6db3f0acd68334da.webp)
 
 ## AES Decryption
 
@@ -47,7 +47,7 @@ AES decryption uses the same symmetric algorithm to convert encrypted data back 
 
 "Decryption is essential for retrieving and using the original data."
 
-![Frame 427319215 (5).png](_img/79df0132ac20abe1.webp)
+![Frame 427319215 (5).png](_img/4a362091963b4484.webp)
 
 ### Steps to Apply Decryption
 
@@ -58,7 +58,7 @@ AES decryption uses the same symmetric algorithm to convert encrypted data back 
   - Provide the same 128-bit IV used during encryption.
   - **Example**: d4QaIQMb8RbOG5ai.
 
-![Frame 427319215 (6).png](_img/37e8a6a76da741b0.webp)
+![Frame 427319215 (6).png](_img/0073bff4d12d9016.webp)
 
 ### Testing Decryption
 
@@ -71,7 +71,7 @@ You should compare the decrypted output with the original data to verify the dec
 - **Encrypted Input**: enhTmMxQS+2o1Oi1nvnpxA==
 - **Decrypted Output**: 123-45-6789
 
-![Frame 427319216 (4).png](_img/1424e86aa24cfb62.webp)
+![Frame 427319216 (4).png](_img/cf9baa4794073631.webp)
 
 ## Best Practices
 

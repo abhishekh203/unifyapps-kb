@@ -1,4 +1,4 @@
-# CORS Policy
+# CORS policy
 
 Source: https://www.unifyapps.com/docs/unify-automations/cors-policy
 Section: automations
@@ -25,9 +25,9 @@ This policy helps enforce security by restricting unauthorized cross-origin acce
  Use * to expose all response headers. **Optional** |
 | `Access Control Max Age` | Specifies how long (in seconds) the results of a preflight request can be cached by the client. Defaults to 900 seconds if not specified. **Optional** |
 
-![image1 6 (2).png](_img/d66e37ef6abf935e.webp)
+![image1 6 (2).png](_img/e09216c549124412.webp)
 
-![image2 3.png](_img/601c455060d785bd.webp)
+![image2 3.png](_img/dace851c0d242cb7.webp)
 
 ## How It Works
 

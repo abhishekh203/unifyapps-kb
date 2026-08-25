@@ -1,4 +1,4 @@
-# Fuzzy Match Rules
+# Fuzzy match Rules
 
 Source: https://www.unifyapps.com/docs/unify-data/fuzzy-match-rule
 Section: data

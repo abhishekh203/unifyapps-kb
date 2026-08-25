@@ -1,4 +1,4 @@
-# Unified Entity
+# Unified entity
 
 Source: https://www.unifyapps.com/docs/unify-automations/unified-entity
 Section: automations

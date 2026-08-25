@@ -22,7 +22,7 @@ A → B
 
 Let’s know more about dependencies with the help of an example
 
-![image1.png](_img/5548e22cfe11d10a.webp)
+![image1.png](_img/eb409afb35091585.webp)
 
 1. **Nodes**
 - **Left side**: different features and pipelines need embeddings

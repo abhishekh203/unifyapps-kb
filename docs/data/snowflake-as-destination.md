@@ -13,7 +13,7 @@ Snowflake is a cloud-native data warehouse platform known for its scalability, p
 
 ## Connection Configuration
 
-![Frame 427319306 (3).png](_img/6c245bab321639f6.webp)
+![Frame 427319306 (3).png](_img/4297c6a49c7dd428.webp)
 
 | **Parameter** | **Description** | **Example** |
 |---|---|---|
@@ -75,7 +75,7 @@ This shows:
 
 ### JWT (Key Pair) Authentication
 
-![Frame 427319307 (1).png](_img/276a82483d3d6c2d.webp)
+![Frame 427319307 (1).png](_img/0bb8fc4e96db77b7.webp)
 
 JWT authentication uses public-private key pairs for secure connection.
 
@@ -94,7 +94,7 @@ JWT authentication uses public-private key pairs for secure connection.
 
 ## Destination Settings Configuration
 
-![Frame 427319310 (1).png](_img/4d66bb2ae4f03541.webp)
+![Frame 427319310 (1).png](_img/5b9a6c42f0800d6f.webp)
 
 UnifyApps provides flexible configuration options for Snowflake destinations through the Settings tab in Data Pipelines:
 

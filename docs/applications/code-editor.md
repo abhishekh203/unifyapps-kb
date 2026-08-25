@@ -1,4 +1,4 @@
-# Code Editor
+# Code Editor component
 
 Source: https://www.unifyapps.com/docs/unify-applications/code-editor
 Section: applications
@@ -9,7 +9,7 @@ Section: applications
 
 The code editor component allows users to input code within your application, with options for configuring values and language to fetch inbuilt libraries for the selected language.
 
-![Master - Do not Edit (66).png](_img/0ac0e359cc182d93.webp)
+![Master - Do not Edit (66).png](_img/34c2ccf042d623c3.webp)
 
 ## Configuring the Code Editor Component
 
@@ -17,7 +17,7 @@ Once the code editor component is added, you can configure its properties throug
 
 ### Setting Value and Code Input options
 
-![Group 206.png](_img/dc0a0c14abde5d5a.webp)
+![Group 206.png](_img/9f67c247c62cb896.webp)
 
 - **Default Value**: This correctly sets initial text that appears in the field when it loads. This can serve as an example, placeholder, or suggested entry to guide users on what to input.
 - **Editable**: This option determines whether users can interact with and modify the code in the editor. When enabled, users can type, delete, and manipulate the content. When disabled, the code becomes read-only, which can be useful for displaying examples that shouldn't be changed.

@@ -23,7 +23,7 @@ Automations are ideal when you need:
 
 The staging layer ensures all records pass through MDM’s governance rules: validation, matching, merging, and survivorship.
 
-![Group_48.png](_img/ee6a435945955387.webp)
+![Group_48.png](_img/b1f444e30ab53145.webp)
 
 ## **Setting Up a Data Sync Automation**
 

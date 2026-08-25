@@ -26,7 +26,7 @@ PostgreSQL is a powerful, open-source relational database management system know
 
 To set up a PostgreSQL source, navigate to the `Connections` section, click `New Connection`, and select `PostgreSQL`. Complete the form with your database environment details.
 
-![Frame 427319247 (3).png](_img/994d3f74b6f834c3.webp)
+![Frame 427319247 (3).png](_img/0ab444def9409634.webp)
 
 ## Server Timezone Configuration
 
@@ -37,7 +37,7 @@ When adding objects from a PostgreSQL source, you'll need to specify the databas
 
 This ensures all timestamp data is normalized to UTC during processing, maintaining consistency across your data pipeline.
 
-![Frame 427319248 (6).png](_img/8360f0c060f18a3b.webp)
+![Frame 427319248 (6).png](_img/b6deccc1c773134b.webp)
 
 ## Ingestion Modes
 

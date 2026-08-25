@@ -1,4 +1,4 @@
-# Avatar Group
+# Avatar group component
 
 Source: https://www.unifyapps.com/docs/unify-applications/avatar-group
 Section: applications
@@ -36,7 +36,7 @@ Each avatar within the group can be customized with:
 
 ## Configuring an Avatar Group
 
-![Frame 427319277.png](_img/636e629e33344450.webp)
+![Frame 427319277.png](_img/7c579c9b808078ec.webp)
 
 **Creating a Static Avatar Group:**
 

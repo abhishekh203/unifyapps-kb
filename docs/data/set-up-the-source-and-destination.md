@@ -11,7 +11,7 @@ To create a data pipeline, you need to set up the source and destination of your
 
 **Setting up the source** involves configuring secure connections, providing necessary authentication details, and ensuring access to the relevant data.
 
-![Group 57.png](_img/ae76dcc1be9ce88b.webp)
+![Group 57.png](_img/d44a72fec4827733.webp)
 
 Similarly, **setting up the destination** requires configuring the connection and ensuring that the data can be accurately transferred and stored in the desired format.
 
@@ -26,18 +26,18 @@ To create a source connection, follow these steps -
 1. Navigate to the "`Source & Destination`" tab in the UnifyData interface.
 2. Click on "`Add Source`".
 
-  ![Frame 427319218 (2).png](_img/50a9a65b22ff89ac.webp)
+  ![Frame 427319218 (2).png](_img/ccb806fa16b38d59.webp)
 
 3. Choose one of two options:
   - Select from `existing connections`
   - Add a `new source`
 
-    ![Frame 427319220 (1).png](_img/321be9e47f764f71.webp)
+    ![Frame 427319220 (1).png](_img/0a2d952eda201116.webp)
 
 4. If adding a new source, select a connection type from the list of supported databases or services.
 5. Click "`Next`" to proceed to the Authentication form.
 
-  ![Frame 427319221 (1).png](_img/34633c10572e2333.webp)
+  ![Frame 427319221 (1).png](_img/06071bfcb23c74ad.webp)
 
 6. For example, for MSSQL, fill in the required details in the Authentication form. This typically includes:
   - Server address or endpoint URL
@@ -46,7 +46,7 @@ To create a source connection, follow these steps -
   - Password
   - Database name (if applicable)
 
-    ![Frame 427319205 (13).png](_img/193d5f994221af41.webp)
+    ![Frame 427319205 (13).png](_img/6437cb10d7948a44.webp)
 
 7. Click the "`Create`" button to validate the connection.
 8. If the validation fails, review the error message, make necessary corrections, and click "`Create`" again.
@@ -62,7 +62,7 @@ After setting up your source, follow these steps to set up your destination:
 3. If adding a new destination, select from the list of supported connection types.
 4. Click "`Next`" to proceed to the Authentication form.
 
-  ![Frame 427319207 (11).png](_img/4422fa6f33601e3a.webp)
+  ![Frame 427319207 (11).png](_img/8ecb44f4fc9aa793.webp)
 
 5. Fill in the required details in the Authentication form.
 6. Click the "`Create`" button to validate the connection.

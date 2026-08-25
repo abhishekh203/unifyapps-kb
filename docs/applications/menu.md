@@ -1,4 +1,4 @@
-# Menu
+# Menu component
 
 Source: https://www.unifyapps.com/docs/unify-applications/menu
 Section: applications
@@ -9,7 +9,7 @@ Section: applications
 
 The Menu Component enables users to access actions, options, or navigation within the application. One of the use cases is embedding the menu inside a contextual dialog, for quick actions, as well as for navigation, list management, and option selection.
 
-![Master - Do not Edit (35).png](_img/58961e70c13039bd.webp)
+![Master - Do not Edit (35).png](_img/15563aabd5f1e762.webp)
 
 ## Adding Menu to your Application
 
@@ -30,7 +30,7 @@ Menus can be `Static` or `Mapped`, each containing its unique configuration prop
 2. **Initial Selected Item ID:** Similar to static menu items, the default-selected menu item can be specified by entering the ID.
 3. **Menu Items:** Even though the configuration settings of Dynamic Menu Items are the same as those of Static Menu Items, the key difference lies in the fact that the settings configured here would be applied to all menu items.
 
-![Master - Do not Edit (36).png](_img/6227f7ae9180580f.webp)
+![Master - Do not Edit (36).png](_img/73a44501c6449236.webp)
 
 ## Customizing the Appearance
 

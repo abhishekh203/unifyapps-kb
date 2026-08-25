@@ -9,7 +9,7 @@ Section: automations
 
 The Conversations node by UnifyApps facilitates seamless automation of user interactions, making business processes more efficient and intuitive. Designed specifically for business users, this feature simplifies integration with language models, external systems, and structured data collection, empowering teams to automate complex conversations and tasks effortlessly.
 
-![Group 157.png](_img/2b0f91b9f6b058cb.webp)
+![Group 157.png](_img/cf966f9bffb79ed1.webp)
 
 ## Use Cases
 
@@ -25,13 +25,13 @@ Teams utilize "`Call Interface`" and "`Execute Prompt`" actions to seamlessly in
 
 The "`Collect Slots`" feature streamlines structured data collection during conversations, aiding businesses in capturing essential customer information, feedback, or service requests effectively.
 
-![Frame 427319337 (4).png](_img/10bf030189cf866d.webp)
+![Frame 427319337 (4).png](_img/1274ea5986d07bd7.webp)
 
 ## Actions
 
 ### Call LLM Model
 
-![Frame 427319338 (4).png](_img/250f20e06a0add36.webp)
+![Frame 427319338 (4).png](_img/7b5ac374bcf336a1.webp)
 
 This action connects automation workflows directly to large language models, enabling automated content generation and dynamic conversation handling. It is especially useful for product analysts and business teams looking to automate knowledge-based responses, generate summaries, or enrich user experiences with AI-driven interactions.
 
@@ -53,7 +53,7 @@ This action connects automation workflows directly to large language models, ena
 
 ### Call Interface
 
-![Frame 427319339 (1).png](_img/fe5f565bdaf40d77.webp)
+![Frame 427319339 (1).png](_img/290835374b7ccb1c.webp)
 
 This action allows UnifyApps workflows to invoke internal platform functionalities such as triggering automations or referencing internal data. It helps orchestrate internal services and ensures various UnifyApps components remain connected.
 
@@ -68,7 +68,7 @@ This action allows UnifyApps workflows to invoke internal platform functionaliti
 
 ### Collect Slots
 
-![Frame 427319340 (3).png](_img/d92e6a3abaa64ffa.webp)
+![Frame 427319340 (3).png](_img/d9a4352f4e4b4238.webp)
 
 This action prompts users to enter specific data during a conversation, such as names, dates, or preferences. It is useful for building interactive flows like onboarding forms, surveys, and lead capture bots.
 
@@ -80,11 +80,11 @@ This action prompts users to enter specific data during a conversation, such as 
 - **Slot Response Settings:** Configure description, attachment allowance, and nested responses.
 - **Response Configuration:** Set language, question, header, title, and multiple choice options.
 
-  ![Frame 427319341 (3).png](_img/9711c3ae3419b0c7.webp)
+  ![Frame 427319341 (3).png](_img/4fd2317490f079b6.webp)
 
 ### Crawl Website
 
-![Frame 427319342 (3).png](_img/3574089bf3bfc8a9.webp)
+![Frame 427319342 (3).png](_img/f945d8be26e21e77.webp)
 
 This feature helps businesses automate the extraction of information from public webpages. It's ideal for scenarios like tracking competitor content, gathering FAQs, or indexing relevant articles into knowledge bases.
 
@@ -98,7 +98,7 @@ This feature helps businesses automate the extraction of information from public
 
 ### Execute Prompt
 
-![Frame 427319343 (3).png](_img/c234f3209dd9d242.webp)
+![Frame 427319343 (3).png](_img/e3b2bb0566e2d3b8.webp)
 
 This action sends a structured prompt to a language model and receives a generated output. Based on its inputs—like parameters, model ID, and prompt version—it is most suitable for custom instruction tasks such as responding with tailored recommendations or reformatting user input dynamically.
 
@@ -115,7 +115,7 @@ This action sends a structured prompt to a language model and receives a generat
 
 ### MCP
 
-![Frame 427319344 (3).png](_img/04bafa7e39391360.webp)
+![Frame 427319344 (3).png](_img/33d0071f463dc4c8.webp)
 
 MCP is designed to preserve conversational memory across multiple messages or actions. It helps the automation understand user context better by maintaining message history, metadata, and annotations—leading to more coherent, intelligent conversations.
 
@@ -131,7 +131,7 @@ MCP is designed to preserve conversational memory across multiple messages or ac
 
 ### Publish Response
 
-![Frame 427319345 (4).png](_img/21a9d69ae2f32eac.webp)
+![Frame 427319345 (4).png](_img/2c67b9c410b4e475.webp)
 
 This action is used to send back a message or content to the end user after processing their input. It is commonly used to simulate chatbot replies in test environments or finalize interaction steps by showing confirmations, next steps, or example outputs.
 

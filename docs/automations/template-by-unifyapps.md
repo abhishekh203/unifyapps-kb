@@ -9,7 +9,7 @@ Section: automations
 
 The "Template by UnifyApps" node is a powerful component in the automation workflow that allows you to compile templates for various notification purposes. This node enables you to select from existing templates or create new ones to integrate into your automation pipeline and compile them to use further.
 
-![Frame 427319331 (2).png](_img/13ccaccfe639ccb6.webp)
+![Frame 427319331 (2).png](_img/ad08a9e78f5802c2.webp)
 
 ## Key Features
 
@@ -22,7 +22,7 @@ The "Template by UnifyApps" node is a powerful component in the automation workf
 
 **Compile template**
 
-![Group 154.png](_img/812da817bc7ee267.webp)
+![Group 154.png](_img/3a9ea388e8b13f82.webp)
 
 **Purpose:** This action compiles a template with dynamic variables, generating the final content for various communication types (Email, Prompt, WhatsApp, SMS) based on the selected template. 
 

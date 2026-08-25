@@ -9,7 +9,7 @@ Section: data
 
 Sources refer to the external systems, databases, and applications from which data is ingested, validated, and unified within the Unify Data Model (UDM).
 
-![Group_18.png](_img/7e32518e9c2ae7cd.webp)
+![Group_18.png](_img/ef1f7c874b756f68.webp)
 
 When configuring a UDM, users can simply select **“Add Source”** and choose from more than **600 supported applications, databases, and data warehouses**. Each source can be individually configured with connection credentials, schema imports, and field mappings—enabling organizations to unify data from multiple disparate systems into a consistent, governed model.
 

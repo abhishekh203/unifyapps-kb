@@ -37,7 +37,7 @@ This policy is useful for formatting responses, adding or removing headers, mask
  → For **Rename**, this is the new key name 
  → For **Remove**, this may specify the field to be removed**Required** |
 
-![image1 3 (1).png](_img/f2d43ec4a2ae20ea.webp)
+![image1 3 (1).png](_img/04419f90a95e32be.webp)
 
 ## How It Works :
 

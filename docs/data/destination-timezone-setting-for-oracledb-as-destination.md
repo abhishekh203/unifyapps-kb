@@ -18,7 +18,7 @@ When transferring data with datetime fields to OracleDB destinations, timestamp 
 
 ## Configuring Destination Timezone for OracleDB
 
-![Frame 427319244 (4).png](_img/70f867d02cac993a.webp)
+![Frame 427319244 (4).png](_img/19fbdffa6e4e89c0.webp)
 
 To configure timezone adjustment for your OracleDB destination:
 

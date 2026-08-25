@@ -11,13 +11,13 @@ Section: automations
 
 When an automation is configured with runtime connection switching, it can accept connection parameters as inputs or override default connections based on runtime conditions. This is particularly valuable for organizations that operate in multi-environment setups or need to process data across various systems.
 
-![Frame 4739.png](_img/0d0b6475d415b49c.webp)
+![Frame 4739.png](_img/da961206ab0f78e0.webp)
 
 ## Use case
 
 One of the major applications for runtime connection switching is in multi-store inventory management systems. In this scenario, an organisation needs to pull inventory data from Unicommerce for multiple individual stores, each with its own unique connection credentials and parameters.
 
-![Frame 4740.png](_img/a488b4a5a38cea9a.webp)
+![Frame 4740.png](_img/e8154b6205fbce83.webp)
 
 Using runtime connection switching, a single automation can be designed to:
 
@@ -36,14 +36,14 @@ Setting up runtime connection switching typically involves the following steps:
 - To swap connections dynamically during runtime, it is essential that your automation is triggered via a callable only. Then you can proceed with setting up the rest of your automation.
 - You can choose your default connection in the relevant application as you would normally do. This will act as your fallback connection in case no swapping is required.
 
-  ![Frame 4741.png](_img/9ca710e3fa4a663e.webp)
+  ![Frame 4741.png](_img/2dbe14360da2b188.webp)
 
 - Next you have to enable "`Runtime user connections`" for all the relevant applications in the Settings tab of your automation and then save it. This critical setting allows connections to be swapped out at runtime.
 
-  ![Frame 4742.png](_img/47cc0d5dc08e642c.webp)
+  ![Frame 4742.png](_img/a2d66b65643b0c40.webp)
 
 - Finally, configure "`Connection overrides`" when setting up your callable automation. In this section, specify the connection ID that should swap out the default connection in runtime.
 
-  ![Frame 4743.png](_img/6813396f50476956.webp)
+  ![Frame 4743.png](_img/984ec878c2412836.webp)
 
 > **Note:** You can use the `Get connection details` action in `Standard Entities by UnifyApps` to fetch the connection ID of your desired connection.

@@ -1,4 +1,4 @@
-# Module
+# Module component
 
 Source: https://www.unifyapps.com/docs/unify-applications/module
 Section: applications
@@ -13,7 +13,7 @@ Think of modules like mini-pages that can be reused wherever needed. Common use 
 
 Whenever you update a module, the changes automatically reflect everywhere it's used—saving you time and effort.
 
-![Master - Do not Edit (42).png](_img/c44d567598a58c1e.webp)
+![Master - Do not Edit (42).png](_img/56208b900a601a5c.webp)
 
 ## How to Use?
 

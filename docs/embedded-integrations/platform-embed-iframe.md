@@ -1,4 +1,4 @@
-# iFrame
+# Platform iFrame embed
 
 Source: https://www.unifyapps.com/docs/embedded-integrations/platform-embed-iframe
 Section: embedded-integrations

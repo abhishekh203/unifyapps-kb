@@ -17,7 +17,7 @@ Data Pills represent data points from various sources, allowing easy mapping and
 
 They **dynamically fetch** and **present data**, providing real-time updates for your application's UI components.
 
-![Group 58.png](_img/9758c8909b77885b.webp)
+![Group 58.png](_img/1ca8cbef1a5f261f.webp)
 
 > **Note:** Clicking on an **input field**, **text area**, **label field**, or **value field** in various components opens the Input Data Pills popup.
 
@@ -30,13 +30,13 @@ In our article on [Adding Data Sources](/docs/unify-applications/adding-data-sou
 3. **Application Connectors:** For connecting with various applications.
 4. **Callable by UnifyApps:** For adding data sources from automations.
 
-![Frame 427319205 (5).png](_img/1058053cf5818fa5.webp)
+![Frame 427319205 (5).png](_img/4d90525c8bfbd3fe.webp)
 
 Each data source once integrated translates its specific outputs into data pills that can be used in your application. 
 
 For **example**, in the above added data source, you would see the following data pills in your application.
 
-![Frame 427319206 (2).png](_img/8e113f7ad5d4e6f4.webp)
+![Frame 427319206 (2).png](_img/3ad0c271f7c222ac.webp)
 
 You can use these data pills to define Average CSAT in your chart.
 
@@ -48,7 +48,7 @@ For **example** a table component will have pills representing its state, such a
 
 > **Note:** You can refer to [Component](/docs/unify-applications/add-components-to-your-interface) Specific articles to know more about data pills for each component.
 
-![Frame 427319205 (16).png](_img/90d40921ff544ece.webp)
+![Frame 427319205 (16).png](_img/25860751e12b4292.webp)
 
 ## Fetch Page Inputs
 
@@ -66,7 +66,7 @@ This ensures that the page can load and display the relevant details for that sp
 For creating and updating variables within a page—like changing a variable value upon button click—Page Variables Data Pills are useful. 
 Refer to below example to see how Page Variable is being used to track `clicks` on the button.
 
-![Frame 427319208 (2).png](_img/6bd331547ebe48a9.webp)
+![Frame 427319208 (2).png](_img/307376e821a61ffe.webp)
 
 > **Note:** You can combine **multiple data pills** as well using excel-file formulas to generate a new value. For **example**, to display a full address, you might combine data pills for street, city, and zip code into a single field, enabling a streamlined and customized data presentation.
 

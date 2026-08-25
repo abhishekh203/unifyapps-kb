@@ -11,7 +11,7 @@ Section: automations
 
 This is particularly useful for business users or analysts who want to interact with databases without writing SQL code, accelerating data access and enhancing productivity across teams.
 
-![Frame 427319353 (4).png](_img/a9de3ee420812879.webp)
+![Frame 427319353 (4).png](_img/50af6e6ce07d5182.webp)
 
 ## Use Case Example
 
@@ -27,7 +27,7 @@ The **Convert Text to SQL Statements** action uses AI to translate user prompts 
 
 **Input Fields:**
 
-![Frame 427319354 (4).png](_img/5a1e6ff6ed42a24e.webp)
+![Frame 427319354 (4).png](_img/52846838990a8e25.webp)
 
 - `Database Metadata`: Provide the structure of your database, including table and column names. This helps the AI model understand what data is available and how to structure the query accurately.
 - `SQL Dialect`: Choose the SQL dialect (e.g., MySQL, PostgreSQL, BigQuery, Snowflake, etc.) that the generated query should comply with.
@@ -35,7 +35,7 @@ The **Convert Text to SQL Statements** action uses AI to translate user prompts 
 
 **Output:**
 
-![Frame 427319355 (3).png](_img/a20d8519bea3586a.webp)
+![Frame 427319355 (3).png](_img/c51f7906c02c3f2b.webp)
 
 - A syntactically valid SQL query tailored to your database schema and dialect. This can be passed to a downstream SQL execution step or used for review.
 
