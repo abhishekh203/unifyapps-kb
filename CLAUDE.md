@@ -1,6 +1,8 @@
 # CLAUDE.md — UnifyApps Learning & Build Project
 
-Read this first, every session. This is the brief for working in this folder.
+Read this first, every session — then read **`MEMORY.md`** (repo-based memory: durable lessons,
+procedures, quirks). Durable lessons go into `MEMORY.md` in the repo, NOT machine-local memory,
+so they travel with the repo on GitHub.
 
 ## What this is
 
